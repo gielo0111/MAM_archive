@@ -1,0 +1,181 @@
+#########
+Azure Machine LEarning Studio
+
+
+What is AI?
+
+A computer that can imitate some aspect of human behavior
+eg, number recognition, translation
+
+train an ai based on past data, then train a model to create future prediction
+
+machine learning
+using unlabeled data and labeled data to train algorithm and model
+
+Feature Data - raw data/unlabeled data
+eg[x1,x2,x3]
+
+label data - data that is labeled(1 is number, it is an orange, etc)
+eg [y]
+
+Algorithm -> Decision Tree -> SVM(Support vector machine) -> 
+
+Once Model is trained
+Data -> Model -> Label
+
+Training data 
+a. supervised learning(has labels)
+    1. Regression(Numeric)
+    2. Classification
+        i. (Binary)(Is it this thing? is it not?)
+        ii. multiclass(is it this genre?)
+b. Unsupervised
+    1 clustering(group)
+
+ml.azure.com
+
+the models can be run in a container/azure kubernetes
+
+
+#####################
+Deep Learning
+
+-Too complex for machine learning process
+
+Input Layer -> Whole set of hidden layers(Activation Functions) -> Output Layer
+
+Rel U
+
+Every single one of the connections has a weight
+
+#############################
+AI
+
+Vision Capabilities
+
+Imitating -> Natural Language -> Vision, Speech, Document Intelligence, Knowledge Mining, Custom Solutions
+
+https://portal.azure.com/
+Azure AI Services
+Azure Open AI (GPT, etc)
+AI Search (indexing)
+Azure AI Service multi service account
+
+
+Azure AI Service
+
+-Single Service
+    -Free option
+-Multi Service
+    -No Free
+-Open AI
+-AI Search
+
+
+Endpoint [Entra 10 AUTH RBAC] <- SDK/REST APP
+
+
+####################
+Responsible AI
+
+Risks
+-Bias
+-Errors
+-Data Exposed
+-Not works for all
+-Trust?
+-Responsible for it?
+
+
+AI Must be
+-Fairness
+-Reliability & Safety
+-Privacy and Security
+-Inclusiveness
+-Transparency
+-Accountable
+
+##############################
+Computer Vision
+
+Image is a bunch of pixels
+
+Multi-Modal
+-understand image, languages, etc
+-GPT-4.0
+-Florence Model
+
+Vision
+-Image Analysis
+-Insert Caption, tags
+-Object Detection
+-Remove Background
+-Smart Crop
+-OCR
+    -Small Amount Text
+        -Image Analysis - Read Feature
+    Large Document
+        -DOcument Intelligence
+https://portal.vision.cognitive.azure.com/gallery/featured
+
+Face
+-Detect (Liveness Check)
+-Identification (Identify, Verify)
+
+
+###################
+Natural Language Processing
+
+Text -> Tokens -> Language Model
+
+Language
+    -Analyze Text
+        -Key phrases
+    -Summarization
+    -QnA <- Bot Service
+    -Language Understanding
+        -Turn on the light
+
+platform.openai.com/tokenizer
+language.cognitive.azure.com/home
+    
+
+######################
+Speech
+    Text -> Speech
+    Translation
+        -Text
+        -Another language
+
+Translation
+    Text
+    Documents
+    Custom
+
+
+##################
+Document Intelligence
+    -DOc Analysis
+    -Prebuilt Models
+        -Receipts, invoices
+    -Custom Models
+
+speech.microsoft.com/portal
+
+
+#################
+Knowledge Mining
+
+Data <----Skillset---- Azure AI Search
+
+Azure AI Search
+    -knowelsge Store
+    -Indexes
+        -Text Vector
+        -Hybrid
+
+
+Query APp
+-Im trying to find information about puppies, going to a public parks
+-find it in the knowledge store
+    

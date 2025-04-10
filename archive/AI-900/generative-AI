@@ -1,0 +1,79 @@
+AI - Imitate Person
+
+Generative AI
+    -create original content
+        -natural language
+        -code
+        -images
+
+Natural Language -> Prompt -> LLM(Large language Model) -> predicts word
+
+Data Training -> Billions/Trillions Parameters -> LLM
+    -GPU
+    -Time
+
+
+########################
+LLM
+    -Summarize Text
+    -Generate New
+    -Compare TExt
+
+
+########################
+Prompt(Some Text) -> Tokens -> Enbedding Model(Spit out vectors) -> Vectors[0.5, -0.01] -> positional encoding -> self attention(G V K) -> Feed forward -> representation
+
+platform.openai.com/tokenizer
+
+OpenAI
+
+GPT Generative Pre-trained Transformer
+
+Chat GPT
+Copilot
+
+Prompt Engineering
+-Be Explicit
+-How it should act
+
+Zero SHot - no examples
+Few shot - how it should respond
+
+Grounding- using data in database as Prompt
+"Summarize all the emails from my manager"
+
+Copilot
+Orchestrator
+-using grounding technique
+M365-Microsoft graph
+Bing-Internet
+Security-Sentinel
+
+
+
+###################
+Azure OpenAI
+-GPT
+-Embedding models
+-Dall-E
+
+Azure Open AI Studio
+
+1. create instance of azure open ai service
+2. in the azure open ai studio, deploy
+3. playground in the studio to test the deploy
+4. Exposed as an API when ready
+
+
+https://portal.azure.com/#view/Microsoft_Azure_ProjectOxford/CognitiveServicesHub/~/OpenAI
+
+
+
+##########
+Responsible AI
+
+Responsible
+-Identify (potential harms that could happen)
+-measure frequency and severity
+-mitigate (how to mitigate it)
+-operate ()
