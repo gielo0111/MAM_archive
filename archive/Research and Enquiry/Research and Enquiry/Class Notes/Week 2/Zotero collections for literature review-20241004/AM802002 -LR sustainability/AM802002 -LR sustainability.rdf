@@ -1,0 +1,1756 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="https://www.proquest.com/abicomplete/docview/2627532096/abstract/AB4851D2AF324C7EPQ/1">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1661-7827"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Su</foaf:surname>
+                        <foaf:givenName>Ruixin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Obrenovic</foaf:surname>
+                        <foaf:givenName>Bojan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Link to external site</foaf:surname>
+                        <foaf:givenName>this link will open in a new window</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Du</foaf:surname>
+                        <foaf:givenName>Jianguo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Link to external site</foaf:surname>
+                        <foaf:givenName>this link will open in a new window</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Godinic</foaf:surname>
+                        <foaf:givenName>Danijela</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Link to external site</foaf:surname>
+                        <foaf:givenName>this link will open in a new window</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Khudaykulov</foaf:surname>
+                        <foaf:givenName>Akmal</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Link to external site</foaf:surname>
+                        <foaf:givenName>this link will open in a new window</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_60"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>corporate sustainability</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>COVID-19 pandemic</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>crisis management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>digital transformation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>leadership</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>COVID-19 Pandemic Implications for Corporate Sustainability and Society: A Literature Review</dc:title>
+        <dcterms:abstract>The paper revises the ample empirical and theoretical literature on sustainable organizational growth and strategic leadership relating to the critical aspects of the ongoing pandemic, including poverty, social responsibility, public health, and organizational and managerial innovation. Drawing from available COVID-19, management, and sustainable leadership publications released from 2020 to 2021, this paper considers influential studies exploring core business concepts, principles, philosophies, and activities for accelerating, stimulating, and nurturing social and corporate sustainability. The study analyzed the characteristics and interrelation of 133 articles through bibliometric and literature systemization techniques. We shed light on the significant influence COVID-19 has had on financial, operational, and psychological solvency and organizational health to elucidate expectations and implications for businesses worldwide concerning the long-term financial and functional impact of COVID-19. An overview of the relevant studies on the individual, organizational, and external factors relating to novel disease’s relation to sustainability are provided. We emphasize the need for digital transformation following the COVID-19 upheaval and throughout the upcoming years. Some of the generally employed techniques in response to adversity entail portfolio diversification, service delivery innovation, product redesigning, new market development, partnering with competitors and/or complementary service providers, synergizing with other stakeholders, and open innovation.</dcterms:abstract>
+        <dc:date>2022</dc:date>
+        <z:language>English</z:language>
+        <z:shortTitle>COVID-19 Pandemic Implications for Corporate Sustainability and Society</z:shortTitle>
+        <z:libraryCatalog>ProQuest</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.proquest.com/abicomplete/docview/2627532096/abstract/AB4851D2AF324C7EPQ/1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 02:17:54</dcterms:dateSubmitted>
+        <dc:rights>© 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</dc:rights>
+        <dc:description>Num Pages: 1592
+Place: Basel, Switzerland
+Publisher: MDPI AG</dc:description>
+        <bib:pages>1592</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1661-7827">
+        <prism:volume>19</prism:volume>
+        <dc:title>International Journal of Environmental Research and Public Health</dc:title>
+        <dc:identifier>DOI https://doi.org/10.3390/ijerph19031592</dc:identifier>
+        <prism:number>3</prism:number>
+        <dc:identifier>ISSN 1661-7827</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_60">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/60/Su et al. - 2022 - COVID-19 Pandemic Implications for Corporate Susta.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://media.proquest.com/media/hms/PFT/1/weGAM?cit%3Aauth=Su%2C+Ruixin%3BObrenovic%2C+Bojan%3BDu%2C+Jianguo%3BGodinic%2C+Danijela%3BKhudaykulov%2C+Akmal&amp;cit%3Atitle=COVID-19+Pandemic+Implications+for+Corporate+Sustainability+and+Society%3A+A+Literature+Review&amp;cit%3Apub=International+Journal+of+Environmental+Research+and+Public+Health&amp;cit%3Avol=19&amp;cit%3Aiss=3&amp;cit%3Apg=1592&amp;cit%3Adate=2022&amp;ic=true&amp;cit%3Aprod=ABI%2FINFORM+Collection&amp;_a=ChgyMDIyMDcwODAxNTM1NTkxMzozODEwMTESBTU5OTc4GgpPTkVfU0VBUkNIIg4xNTEuMjEwLjEzNS42MioFNTQ5MjMyCjI2Mjc1MzIwOTY6DURvY3VtZW50SW1hZ2VCATBSBk9ubGluZVoCRlRiA1BGVGoKMjAyMi8wMS8wMXIKMjAyMi8xMi8zMXoAggEyUC0xMDA3MDY3LTM5NjYwLUNVU1RPTUVSLTEwMDAwMjU1LzEwMDAwMTU1LTQ3NTAwNziSAQZPbmxpbmXKAW9Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTAzLjAuMC4wIFNhZmFyaS81MzcuMzbSARJTY2hvbGFybHkgSm91cm5hbHOaAgdQcmVQYWlkqgIrT1M6RU1TLU1lZGlhTGlua3NTZXJ2aWNlLWdldE1lZGlhVXJsRm9ySXRlbcoCD0FydGljbGV8RmVhdHVyZdICAVnyAgD6AgFZggMDV2ViigMcQ0lEOjIwMjIwNzA4MDE1MzU1OTEzOjE4NzYzOQ%3D%3D&amp;_s=9pC1KO2DXSIY93DDF6AZX9ZyzLk%3D</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 02:17:55</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.proquest.com/abicomplete/docview/2639731179/abstract/5B5AF86DF9B14B39PQ/1">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:11082976"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mickiewicz</foaf:surname>
+                        <foaf:givenName>Bartosz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Volkava</foaf:surname>
+                        <foaf:givenName>Katsiaryna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_62"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Agribusiness</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Agricultural production</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Business And Economics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Economic growth</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Food</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Innovations</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Marketing</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Natural resources</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Research methodology</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Sustainable development</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Technological change</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Mechanism and Methodological Foundations of Sustainable Development of Agribuisness</dc:title>
+        <dcterms:abstract>Purpose: The study aims to develop amechanism and methodological foundations of sustainable development of agribusiness in Poland and Republic of Belarus. Design/Methodology/Aproach: The research methodology is based on the systematic approach applied to the research of innovative development of food organizations using general scientific methods of analysis, synthesis, comparison, generalization, classification, etc. Findings: The economic mechanism and methodological foundations of sustainable agribusiness development constitute a set of methods, methodologies, and algorithms, with the help of which an influence on their innovative activity is provided to assure their effective activity and achievement of strategic purposes. A new approach to innovations in sustainable agribusiness as an ultimate result of activity, which includes creating and introducing new products, new technology, and management to increase competitiveness and efficiency of organizations of the food sphere, is proved. Practical implications: Recommendations resulting from the conducted research and analyzes may be used by institutions responsible for creating local and regional policies. Originality/value: The scientific novelty of the results obtained consists in the development of the conceptual foundations for the formation of a model of sustainable development and in the development of recommendations ensuring the effective functioning of agribusiness in modern conditions. The object of the research were the organizations of the agro-industrial complex (AIC) of the Republic of Belarus. The subject of the research, in turn, was the formation of a model for the sustainable development of agribusiness based on the principles of &quot;green economy&quot;.</dcterms:abstract>
+        <dc:date>2022</dc:date>
+        <z:language>English</z:language>
+        <z:libraryCatalog>ProQuest</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.proquest.com/abicomplete/docview/2639731179/abstract/5B5AF86DF9B14B39PQ/1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 02:31:41</dcterms:dateSubmitted>
+        <dc:rights>Copyright Professor El Thalassinos 2022</dc:rights>
+        <dc:description>Num Pages: 593-603
+Place: Anixis, Greece
+Publisher: Professor El Thalassinos</dc:description>
+        <bib:pages>593-603</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:11082976">
+        <prism:volume>25</prism:volume>
+        <dc:title>European Research Studies</dc:title>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 11082976</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_62">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/62/Mickiewicz and Volkava - 2022 - Mechanism and Methodological Foundations of Sustai.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://media.proquest.com/media/hms/PFT/1/KPqIM?cit%3Aauth=Mickiewicz%2C+Bartosz%3BVolkava%2C+Katsiaryna&amp;cit%3Atitle=Mechanism+and+Methodological+Foundations+of+Sustainable+Development+of+Agribuisness&amp;cit%3Apub=European+Research+Studies&amp;cit%3Avol=25&amp;cit%3Aiss=1&amp;cit%3Apg=593&amp;cit%3Adate=2022&amp;ic=true&amp;cit%3Aprod=ABI%2FINFORM+Collection&amp;_a=ChgyMDIyMDcwODAxNTM1NTkxMzozODEwMTESBTU5OTc4GgpPTkVfU0VBUkNIIg4xNTEuMjEwLjEzNS42MioFNjAzNzAyCjI2Mzk3MzExNzk6DURvY3VtZW50SW1hZ2VCATBSBk9ubGluZVoCRlRiA1BGVGoKMjAyMi8wMS8wMXIKMjAyMi8wMy8zMXoAggEyUC0xMDAwMDAxLTM5NjYwLUNVU1RPTUVSLTEwMDAwMjU1LzEwMDAwMDA4LTQ3NTAwMTGSAQZPbmxpbmXKAW9Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTAzLjAuMC4wIFNhZmFyaS81MzcuMzbSARJTY2hvbGFybHkgSm91cm5hbHOaAgdQcmVQYWlkqgIrT1M6RU1TLU1lZGlhTGlua3NTZXJ2aWNlLWdldE1lZGlhVXJsRm9ySXRlbcoCD0FydGljbGV8RmVhdHVyZdICAVnyAgD6AgFOggMDV2ViigMcQ0lEOjIwMjIwNzA4MDE1MzU1OTEzOjE4NzYzOQ%3D%3D&amp;_s=FEJIC6XGyTqOKD%2FIG7k1envYEeQ%3D</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 02:31:42</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.proquest.com/abicomplete/docview/2604073023/abstract/F9C0A32A53CB4C59PQ/5">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:10956298"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rroy</foaf:surname>
+                        <foaf:givenName>Aruna Dev</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gulati</foaf:surname>
+                        <foaf:givenName>Uma</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sagi</foaf:surname>
+                        <foaf:givenName>Srilalitha Girija Kumar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gowda</foaf:surname>
+                        <foaf:givenName>Kavitha R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_64"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Brand loyalty</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Business And Economics--Marketing And Purchasing</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Carbon footprint</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Climate change</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Community relations</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Consumption</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Coronaviruses</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>COVID-19</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Executive compensation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Green marketing</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Literature reviews</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Market strategy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Pandemics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Paris Agreement</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Profits</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Recycling</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Social networks</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Sustainable development</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Sustainable materials</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Sustainability for Businesses: Marketing and Finance Persepective</dc:title>
+        <dcterms:abstract>Sustainable finance is no longer a new term. Since the last decade, researchers, academicians, and organizations are talking about sustainable finance. Previously, organizations were free to think about only the profit motives of their stakeholders, but now the situation is different. The organizations also need to think about their social, governmental, and environmental. Sustainable finance can help organizations in improving their response to the ESG framework. This paper is based on a literature review, and the facts of the literature review have been validated with the help of interviews. Online interviews have been conducted by the researchers. Through sustainable marketing practices, businesses can enhance its image and attract more sales and customer loyalty as society is getting more socially responsible. Sustainable marketing includes sustainable products which are not just eco-friendly but includes social and economic practices. It is not just going green but is about generating sustainable profits within the periphery of our society and planet.</dcterms:abstract>
+        <dc:date>2022</dc:date>
+        <z:language>English</z:language>
+        <z:shortTitle>Sustainability for Businesses</z:shortTitle>
+        <z:libraryCatalog>ProQuest</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.proquest.com/abicomplete/docview/2604073023/abstract/F9C0A32A53CB4C59PQ/5</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 02:31:58</dcterms:dateSubmitted>
+        <dc:rights>Copyright Jordan Whitney Enterprises, Inc 2022</dc:rights>
+        <dc:description>Num Pages: 1-7
+Place: London, United Kingdom
+Publisher: Allied Business Academies</dc:description>
+        <bib:pages>1-7</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:10956298">
+        <prism:volume>26</prism:volume>
+        <dc:title>Academy of Marketing Studies Journal</dc:title>
+        <dc:identifier>ISSN 10956298</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_64">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/64/Rroy et al. - 2022 - Sustainability for Businesses Marketing and Finan.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://media.proquest.com/media/hms/PFT/1/bLGfL?cit%3Aauth=Rroy%2C+Aruna+Dev%3BGulati%2C+Uma%3BSagi%2C+Srilalitha+Girija+Kumar%3BGowda%2C+Kavitha+R&amp;cit%3Atitle=SUSTAINABILITY+FOR+BUSINESSES%3A+MARKETING+AND+FINANCE+PERSEPECTIVE&amp;cit%3Apub=Academy+of+Marketing+Studies+Journal&amp;cit%3Avol=26&amp;cit%3Aiss=&amp;cit%3Apg=1&amp;cit%3Adate=2022&amp;ic=true&amp;cit%3Aprod=ABI%2FINFORM+Collection&amp;_a=ChgyMDIyMDcwODAxNTM1NTkxMzozODEwMTESBTU5OTc4GgpPTkVfU0VBUkNIIg4xNTEuMjEwLjEzNS42MioFMzg3NDQyCjI2MDQwNzMwMjM6DURvY3VtZW50SW1hZ2VCATBSBk9ubGluZVoCRlRiA1BGVGoKMjAyMi8wMS8wMXIKMjAyMi8xMi8zMXoAggEyUC0xMDAwMDAxLTM5NjYwLUNVU1RPTUVSLTEwMDAwMjU1LzEwMDAwMDA4LTQ3NTAwMTGSAQZPbmxpbmXKAW9Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTAzLjAuMC4wIFNhZmFyaS81MzcuMzbSARJTY2hvbGFybHkgSm91cm5hbHOaAgdQcmVQYWlkqgIrT1M6RU1TLU1lZGlhTGlua3NTZXJ2aWNlLWdldE1lZGlhVXJsRm9ySXRlbcoCD0FydGljbGV8RmVhdHVyZdICAVnyAgD6AgFOggMDV2ViigMcQ0lEOjIwMjIwNzA4MDE1MzU1OTEzOjE4NzYzOQ%3D%3D&amp;_s=WChoKuqpedHc16hUsfW0k176lA4%3D</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 02:31:59</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.proquest.com/abicomplete/docview/2670124072/abstract/5B5AF86DF9B14B39PQ/3">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>10</prism:volume>
+                <dc:title>Economies</dc:title>
+                <dc:identifier>DOI https://doi.org/10.3390/economies10050116</dc:identifier>
+                <prism:number>5</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Medvedeva</foaf:surname>
+                        <foaf:givenName>Yuliya Y.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Link to external site</foaf:surname>
+                        <foaf:givenName>this link will open in a new window</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Luchaninov</foaf:surname>
+                        <foaf:givenName>Roman S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Link to external site</foaf:surname>
+                        <foaf:givenName>this link will open in a new window</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Poluyanova</foaf:surname>
+                        <foaf:givenName>Natalia V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Link to external site</foaf:surname>
+                        <foaf:givenName>this link will open in a new window</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Semenova</foaf:surname>
+                        <foaf:givenName>Svetlana V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Link to external site</foaf:surname>
+                        <foaf:givenName>this link will open in a new window</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alekseeva</foaf:surname>
+                        <foaf:givenName>Ekaterina A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Link to external site</foaf:surname>
+                        <foaf:givenName>this link will open in a new window</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_66"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>greening</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>industrial enterprises</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>relationships</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>reporting</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>stakeholders</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>sustainable development</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The Stakeholders’ Role in the Corporate Strategy Creation for the Sustainable Development of Russian Industrial Enterprises</dc:title>
+        <dcterms:abstract>The purpose of this study is to determine the interests of stakeholders and their influence on the strategic guidelines for the sustainable development of industrial enterprises in the Russian fuel and energy complex. Environmental safety is one of the components of the corporate strategy implementation for the sustainable development of industrial enterprises. The significance of this component is determined not so much by the regulatory institutional impact as by the transformation of economic agents’ behavior in the market: consumers, partners, investors, competitors who are stakeholders. This study defines the composition of stakeholders for Russian industrial enterprises leading in the field of sustainable development based on the results of ESG-ratings. It also identifies their priority interests and the sustainable development goals of industrial companies. Based on the analysis of open reports on the sustainable development of Russian industrial enterprises, the article identifies the key goals of sustainable development for stakeholders of Russian industrial enterprises in the fuel and energy complex. An analysis of the mechanism for organizing interaction with stakeholders shows that for most stakeholder groups, interaction is implemented through the non-financial reporting of companies. The study concludes that a proactive approach will enable companies to identify sustainable development issues with the greatest long-term potential, and thus to create a system of preventive strategic action.</dcterms:abstract>
+        <dc:date>2022</dc:date>
+        <z:language>English</z:language>
+        <z:libraryCatalog>ProQuest</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.proquest.com/abicomplete/docview/2670124072/abstract/5B5AF86DF9B14B39PQ/3</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 02:32:51</dcterms:dateSubmitted>
+        <dc:rights>© 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</dc:rights>
+        <dc:description>Num Pages: 116
+Place: Basel, Switzerland
+Publisher: MDPI AG</dc:description>
+        <bib:pages>116</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_66">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/66/Medvedeva et al. - 2022 - The Stakeholders’ Role in the Corporate Strategy C.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://media.proquest.com/media/hms/PFT/1/KWx5N?cit%3Aauth=Medvedeva%2C+Yuliya+Y%3BLuchaninov%2C+Roman+S%3BPoluyanova%2C+Natalia+V%3BSemenova%2C+Svetlana+V%3BAlekseeva%2C+Ekaterina+A&amp;cit%3Atitle=The+Stakeholders%E2%80%99+Role+in+the+Corporate+Strategy+Creation+for+the+...&amp;cit%3Apub=Economies&amp;cit%3Avol=10&amp;cit%3Aiss=5&amp;cit%3Apg=116&amp;cit%3Adate=2022&amp;ic=true&amp;cit%3Aprod=ABI%2FINFORM+Collection&amp;_a=ChgyMDIyMDcwODAxNTM1NTkxMzozODEwMTESBTU5OTc4GgpPTkVfU0VBUkNIIg4xNTEuMjEwLjEzNS42MioHMjAzMjQwNjIKMjY3MDEyNDA3MjoNRG9jdW1lbnRJbWFnZUIBMFIGT25saW5lWgJGVGIDUEZUagoyMDIyLzAxLzAxcgoyMDIyLzEyLzMxegCCATJQLTEwMDAwMDEtMzk2NjAtQ1VTVE9NRVItMTAwMDAyNTUvMTAwMDAwMDgtNDc1MDAxMZIBBk9ubGluZcoBb01vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMDMuMC4wLjAgU2FmYXJpLzUzNy4zNtIBElNjaG9sYXJseSBKb3VybmFsc5oCB1ByZVBhaWSqAitPUzpFTVMtTWVkaWFMaW5rc1NlcnZpY2UtZ2V0TWVkaWFVcmxGb3JJdGVtygIPQXJ0aWNsZXxGZWF0dXJl0gIBWfICAPoCAVmCAwNXZWKKAxxDSUQ6MjAyMjA3MDgwMTUzNTU5MTM6MTg3NjM5&amp;_s=syAsejaVnbdqMVgqFLG71rPJu68%3D</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 02:32:52</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.proquest.com/abicomplete/docview/2679799300/abstract/5B5AF86DF9B14B39PQ/11">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:26736489"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>González</foaf:surname>
+                        <foaf:givenName>Jorge Leiva</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Link to external site</foaf:surname>
+                        <foaf:givenName>this link will open in a new window</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Onederra</foaf:surname>
+                        <foaf:givenName>Italo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_68"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Alternative energy sources</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Chemical analysis</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Clean technology</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Community</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Copper</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Energy consumption</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Energy efficiency</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Energy management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Environmental aspects</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Environmental management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Environmental monitoring</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Infrastructure</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mines And Mining Industry</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Mining</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Mining industry</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Renewable energy</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Seawater</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Stakeholders</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Strategic planning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Sustainable development</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Sustainable manufacturing</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Water analysis</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Water measurement</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Water reuse</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Water shortages</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Environmental Management Strategies in the Copper Mining Industry in Chile to Address Water and Energy Challenges—Review</dc:title>
+        <dcterms:abstract>The mining industry faces diverse challenges to maintain sustainable production, particularly regarding critical water and energy supplies. As a significant player in the copper mining industry, Chile has become a global reference. Therefore, this research analyses the distinct challenges of the Chilean copper mining industry in terms of water and energy. We also identified ten key challenges that the Chilean copper mining industry must address to remain competitive and relevant. Several mining companies were examined to review and understand the different types of Environmental Management Initiatives (EMIs) adopted. The most prevailing strategies involved implementing Environmental Management Systems, which allow organisations to define, implement, and track their specific goals and standards. This review acknowledged four relevant water-related initiatives, including seawater use, community strategic plans, general environmental monitoring programs, and water recycling and recirculation systems. In terms of energy, the key initiatives included energy efficiency projects, the use of Non-Conventional Renewable Energy (NCRE), and mine process optimisation. The benefits of implementing EMIs are multiple, with the most relevant being ensuring continuous operation, cost reduction, and improved Social License to Operate (SLO) outcomes.</dcterms:abstract>
+        <dc:date>2022</dc:date>
+        <z:language>English</z:language>
+        <z:libraryCatalog>ProQuest</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.proquest.com/abicomplete/docview/2679799300/abstract/5B5AF86DF9B14B39PQ/11</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 02:33:24</dcterms:dateSubmitted>
+        <dc:rights>© 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</dc:rights>
+        <dc:description>Num Pages: 197
+Place: Rouyn-Noranda, Switzerland
+Publisher: MDPI AG</dc:description>
+        <bib:pages>197</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:26736489">
+        <prism:volume>2</prism:volume>
+        <dc:title>Mining</dc:title>
+        <dc:identifier>DOI https://doi.org/10.3390/mining2020012</dc:identifier>
+        <prism:number>2</prism:number>
+        <dc:identifier>ISSN 26736489</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_68">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/68/González et al. - 2022 - Environmental Management Strategies in the Copper .pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://media.proquest.com/media/hms/PFT/1/y9BMN?cit%3Aauth=Jorge+Leiva+Gonz%C3%A1lez%3BOnederra%2C+Italo&amp;cit%3Atitle=Environmental+Management+Strategies+in+the+Copper+Mining+Industry+in+...&amp;cit%3Apub=Mining&amp;cit%3Avol=2&amp;cit%3Aiss=2&amp;cit%3Apg=197&amp;cit%3Adate=2022&amp;ic=true&amp;cit%3Aprod=ABI%2FINFORM+Collection&amp;_a=ChgyMDIyMDcwODAxNTM1NTkxMzozODEwMTESBTU5OTc4GgpPTkVfU0VBUkNIIg4xNTEuMjEwLjEzNS42MioHNTQ2NTkzNDIKMjY3OTc5OTMwMDoNRG9jdW1lbnRJbWFnZUIBMFIGT25saW5lWgJGVGIDUEZUagoyMDIyLzAxLzAxcgoyMDIyLzEyLzMxegCCATJQLTEwMDcxMzMtMzk2NjAtQ1VTVE9NRVItMTAwMDAyNTUvMTAwMDAwMDgtNDc1MDAxMpIBBk9ubGluZcoBb01vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMDMuMC4wLjAgU2FmYXJpLzUzNy4zNtIBElNjaG9sYXJseSBKb3VybmFsc5oCB1ByZVBhaWSqAitPUzpFTVMtTWVkaWFMaW5rc1NlcnZpY2UtZ2V0TWVkaWFVcmxGb3JJdGVtygIPQXJ0aWNsZXxGZWF0dXJl0gIBWfICAPoCAVmCAwNXZWKKAxxDSUQ6MjAyMjA3MDgwMTUzNTU5MTM6MTg3NjM5&amp;_s=H581BWev0hWhlYuhZTAJfDHX3iQ%3D</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 02:33:27</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.proquest.com/abicomplete/docview/2649105655/abstract/2409455058114AF3PQ/12">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>14</prism:volume>
+                <dc:title>Sustainability</dc:title>
+                <dc:identifier>DOI https://doi.org/10.3390/su14074072</dc:identifier>
+                <prism:number>7</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rosário</foaf:surname>
+                        <foaf:givenName>Albérico Travassos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Link to external site</foaf:surname>
+                        <foaf:givenName>this link will open in a new window</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dias</foaf:surname>
+                        <foaf:givenName>Joana Carmo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Link to external site</foaf:surname>
+                        <foaf:givenName>this link will open in a new window</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_70"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>digital transition</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>sustainability</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>sustainable development</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>systematic bibliometric literature review (LRSB)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Sustainability and the Digital Transition: A Literature Review</dc:title>
+        <dcterms:abstract>The digital transition processes have demonstrated an enormous capacity to develop and implement sustainable solutions, which allow solving several problems such as poverty, high rates of species extinction and lack of equal opportunity. However, little attention is paid to the connection between the digital transition and sustainability. Thus, a systematic bibliometric literature review was developed to fill this knowledge gap and demonstrate the potential contributions of the digital transition to environmental, economic, and social sustainability aspects. In environmental sustainability, the digital transition involves the application of technologies such as Artificial Intelligence (AI), big data analytics, Internet of Things (IoT), and mobile technologies that are used to develop and implement sustainability solutions in areas such as sustainable urban development, sustainable production, and pollution control. In economic sustainability, emerging digital technologies can drive transformation into a more sustainable circular economy, the digital sharing economy, and establish sustainable manufacturing and infrastructure design. In the digital transition to social sustainability, the studies analyzed demonstrate the need for multidimensional policy perspectives to address the current digital divide. For effective management of the digital transition that achieves sustainability goals, the study discusses alternative approaches that include innovation through experimentation and dynamic and sustainable advantages achievable through temporary benefits.</dcterms:abstract>
+        <dc:date>2022</dc:date>
+        <z:language>English</z:language>
+        <z:shortTitle>Sustainability and the Digital Transition</z:shortTitle>
+        <z:libraryCatalog>ProQuest</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.proquest.com/abicomplete/docview/2649105655/abstract/2409455058114AF3PQ/12</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 04:11:29</dcterms:dateSubmitted>
+        <dc:rights>© 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</dc:rights>
+        <dc:description>Num Pages: 4072
+Place: Basel, Switzerland
+Publisher: MDPI AG</dc:description>
+        <bib:pages>4072</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_70">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/70/Rosário et al. - 2022 - Sustainability and the Digital Transition A Liter.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://media.proquest.com/media/hms/PFT/1/EeWUM?cit%3Aauth=Alb%C3%A9rico+Travassos+Ros%C3%A1rio%3BJoana+Carmo+Dias&amp;cit%3Atitle=Sustainability+and+the+Digital+Transition%3A+A+Literature+Review&amp;cit%3Apub=Sustainability&amp;cit%3Avol=14&amp;cit%3Aiss=7&amp;cit%3Apg=4072&amp;cit%3Adate=2022&amp;ic=true&amp;cit%3Aprod=ABI%2FINFORM+Collection&amp;_a=ChgyMDIyMDcwODAzMzQ1NzEwNDo2NjgxNDASBTU5OTc4GgpPTkVfU0VBUkNIIg4xNTEuMjEwLjEzNS42MioHMjAzMjMyNzIKMjY0OTEwNTY1NToNRG9jdW1lbnRJbWFnZUIBMFIGT25saW5lWgJGVGIDUEZUagoyMDIyLzAxLzAxcgoyMDIyLzEyLzMxegCCASlQLTEwMDk3MTQtMzk2NjAtQ1VTVE9NRVItMTAwMDAyNTUtNTc3NDYxOZIBBk9ubGluZcoBb01vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMDMuMC4wLjAgU2FmYXJpLzUzNy4zNtIBElNjaG9sYXJseSBKb3VybmFsc5oCB1ByZVBhaWSqAitPUzpFTVMtTWVkaWFMaW5rc1NlcnZpY2UtZ2V0TWVkaWFVcmxGb3JJdGVtygIPQXJ0aWNsZXxGZWF0dXJl0gIBWfICAPoCAVmCAwNXZWKKAxxDSUQ6MjAyMjA3MDgwMzM0NTcxMDQ6NzYxOTE3&amp;_s=kFUnxjpgshs9zkH1RsLQB80r14s%3D</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 04:11:30</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.proquest.com/abicomplete/docview/2621383796/abstract/2409455058114AF3PQ/11">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>14</prism:volume>
+                <dc:title>Sustainability</dc:title>
+                <dc:identifier>DOI https://doi.org/10.3390/su14020838</dc:identifier>
+                <prism:number>2</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Labucay</foaf:surname>
+                        <foaf:givenName>Inéz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_72"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>co-occurrence</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>digitalization</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>digitization</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Industry 4.0</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>patent mapping</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>smart manufacturing</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>sustainable manufacturing</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Technological Innovation System</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>TIS</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Is There a Smart Sustainability Transition in Manufacturing? Tracking Externalities in Machine Tools over Three Decades</dc:title>
+        <dcterms:abstract>Only one third of studies on the Industry 4.0–sustainability link have been conducted in manufacturing, despite its centrality to “ensuring sustainable consumption and production patterns” (UN Sustainable Development Goal nr. 12). The European Ecodesign Directive singled out machine tools as key to the sustainability transition, not least due to their high energy usage and their increasingly becoming enmeshed in cyber-physical production systems. This paper aims to find out whether the digital transformation underway in machine tools is sustainable as well as to identify its central technological pathways. Externalities in machine tools are tracked over three decades (1990–2018) by means of a multi-method setting: (1) mapping the Technological Innovation System (TIS) of machine tools; (2) co-occurrence analysis of transnational patent families, in order to reduce geographical and market distortions (Questel’s FAMPAT); and (3) analysis of the incidence of digital and sustainable technologies in machine tools patent applications (WIPO PATENTSCOPE). A smart sustainability transition is currently not hampered by a lack of smart technologies but rather by the sluggish introduction of sustainable machine tools. Cyber-physical and robot machine tools have been found to be central pathways to a smart sustainability transition. Implications for harnessing externalities reach beyond the machine tools industry.</dcterms:abstract>
+        <dc:date>2022</dc:date>
+        <z:language>English</z:language>
+        <z:shortTitle>Is There a Smart Sustainability Transition in Manufacturing?</z:shortTitle>
+        <z:libraryCatalog>ProQuest</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.proquest.com/abicomplete/docview/2621383796/abstract/2409455058114AF3PQ/11</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 04:11:34</dcterms:dateSubmitted>
+        <dc:rights>© 2022 by the author. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</dc:rights>
+        <dc:description>Num Pages: 838
+Place: Basel, Switzerland
+Publisher: MDPI AG</dc:description>
+        <bib:pages>838</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_72">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/72/Labucay - 2022 - Is There a Smart Sustainability Transition in Manu.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://media.proquest.com/media/hms/PFT/1/sRo5M?cit%3Aauth=Labucay%2C+In%C3%A9z&amp;cit%3Atitle=Is+There+a+Smart+Sustainability+Transition+in+Manufacturing%3F+Tracking+...&amp;cit%3Apub=Sustainability&amp;cit%3Avol=14&amp;cit%3Aiss=2&amp;cit%3Apg=838&amp;cit%3Adate=2022&amp;ic=true&amp;cit%3Aprod=ABI%2FINFORM+Collection&amp;_a=ChgyMDIyMDcwODAzMzQ1NzEwNDo2NjgxNDASBTU5OTc4GgpPTkVfU0VBUkNIIg4xNTEuMjEwLjEzNS42MioHMjAzMjMyNzIKMjYyMTM4Mzc5NjoNRG9jdW1lbnRJbWFnZUIBMFIGT25saW5lWgJGVGIDUEZUagoyMDIyLzAxLzAxcgoyMDIyLzEyLzMxegCCASlQLTEwMDk3MTQtMzk2NjAtQ1VTVE9NRVItMTAwMDAyNTUtNTc3NDYxOZIBBk9ubGluZcoBb01vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMDMuMC4wLjAgU2FmYXJpLzUzNy4zNtIBElNjaG9sYXJseSBKb3VybmFsc5oCB1ByZVBhaWSqAitPUzpFTVMtTWVkaWFMaW5rc1NlcnZpY2UtZ2V0TWVkaWFVcmxGb3JJdGVtygIPQXJ0aWNsZXxGZWF0dXJl0gIBWfICAPoCAVmCAwNXZWKKAxxDSUQ6MjAyMjA3MDgwMzM0NTcxMDQ6NzYxOTE3&amp;_s=F3V6vYgzI25QyEpU8pR9Ge2aX3A%3D</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 04:11:35</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.proquest.com/abicomplete/docview/2627845713/abstract/2409455058114AF3PQ/10">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>14</prism:volume>
+                <dc:title>Sustainability</dc:title>
+                <dc:identifier>DOI https://doi.org/10.3390/su14031531</dc:identifier>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bari</foaf:surname>
+                        <foaf:givenName>Nadeem</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Link to external site</foaf:surname>
+                        <foaf:givenName>this link will open in a new window</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chimhundu</foaf:surname>
+                        <foaf:givenName>Ranga</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Link to external site</foaf:surname>
+                        <foaf:givenName>this link will open in a new window</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ka-Ching</foaf:surname>
+                        <foaf:givenName>Chan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_74"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>corporate</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>drivers</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>dynamic capabilities</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>sustainability</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Dynamic Capabilities to Achieve Corporate Sustainability: A Roadmap to Sustained Competitive Advantage</dc:title>
+        <dcterms:abstract>Dynamic capabilities and sustainability practices have become the center of attention for companies globally, but there is still a debate on how organizations can successfully develop dynamic capabilities and achieve sustainability for competitive advantage. This paper discusses the outcomes of a comprehensive systematic literature review (SLR) following the PRISMA guidelines and employs dynamic capabilities theory to suggest that strategic routines and competencies, integrated value chains, sustainability-oriented transformations, and strategic organizational developments are the drivers to effectively develop dynamic capabilities. Similarly, environmental-oriented sustainability, sustainable strategic management, sustainable dynamic capabilities, stakeholder-centric approach, sustainable supply chain management, operational excellence, sustainable research and development (R&amp;D), and sustainability-oriented global business strategy are found to be the drivers to achieve overall corporate sustainability. Based on the findings, a conceptual model is proposed to obtain sustained competitive advantage by developing sustainable dynamic capabilities and achieving corporate sustainability.</dcterms:abstract>
+        <dc:date>2022</dc:date>
+        <z:language>English</z:language>
+        <z:shortTitle>Dynamic Capabilities to Achieve Corporate Sustainability</z:shortTitle>
+        <z:libraryCatalog>ProQuest</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.proquest.com/abicomplete/docview/2627845713/abstract/2409455058114AF3PQ/10</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 04:11:56</dcterms:dateSubmitted>
+        <dc:rights>© 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</dc:rights>
+        <dc:description>Num Pages: 1531
+Place: Basel, Switzerland
+Publisher: MDPI AG</dc:description>
+        <bib:pages>1531</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_74">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/74/Bari et al. - 2022 - Dynamic Capabilities to Achieve Corporate Sustaina.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://media.proquest.com/media/hms/PFT/1/r5QAM?cit%3Aauth=Bari%2C+Nadeem%3BChimhundu%2C+Ranga%3BKa-Ching%2C+Chan&amp;cit%3Atitle=Dynamic+Capabilities+to+Achieve+Corporate+Sustainability%3A+A+Roadmap+to+Sustained+Competitive+Advantage&amp;cit%3Apub=Sustainability&amp;cit%3Avol=14&amp;cit%3Aiss=3&amp;cit%3Apg=1531&amp;cit%3Adate=2022&amp;ic=true&amp;cit%3Aprod=ABI%2FINFORM+Collection&amp;_a=ChgyMDIyMDcwODAzMzQ1NzEwNDo2NjgxNDASBTU5OTc4GgpPTkVfU0VBUkNIIg4xNTEuMjEwLjEzNS42MioHMjAzMjMyNzIKMjYyNzg0NTcxMzoNRG9jdW1lbnRJbWFnZUIBMFIGT25saW5lWgJGVGIDUEZUagoyMDIyLzAxLzAxcgoyMDIyLzEyLzMxegCCASlQLTEwMDk3MTQtMzk2NjAtQ1VTVE9NRVItMTAwMDAyNTUtNTc3NDYxOZIBBk9ubGluZcoBb01vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMDMuMC4wLjAgU2FmYXJpLzUzNy4zNtIBElNjaG9sYXJseSBKb3VybmFsc5oCB1ByZVBhaWSqAitPUzpFTVMtTWVkaWFMaW5rc1NlcnZpY2UtZ2V0TWVkaWFVcmxGb3JJdGVtygIPQXJ0aWNsZXxGZWF0dXJl0gIBWfICAPoCAVmCAwNXZWKKAxxDSUQ6MjAyMjA3MDgwMzM0NTcxMDQ6NzYxOTE3&amp;_s=FQDuunRjobnxk3gNeQrH%2FCCkCd4%3D</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 04:11:59</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.proquest.com/abicomplete/docview/2609866241/abstract/676274D6CAC24441PQ/5">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:01674544"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mackey</foaf:surname>
+                        <foaf:givenName>Tyson B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mackey</foaf:surname>
+                        <foaf:givenName>Alison</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Link to external site</foaf:surname>
+                        <foaf:givenName>this link will open in a new window</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Christensen</foaf:surname>
+                        <foaf:givenName>Lisa Jones</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lepore</foaf:surname>
+                        <foaf:givenName>Jason J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_76"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Activism</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Business And Economics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Business ethics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Companies</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Ethical dilemmas</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Game theory</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Institutional investments</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Investors</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Law</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Punishment</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Rewards</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Social responsibility</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Spillovers</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Tactics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Thresholds</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Winners</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Inducing Corporate Social Responsibility: Should Investors Reward the Responsible or Punish the Irresponsible?</dc:title>
+        <dcterms:abstract>Investors with a pro-social or sustainability agenda increasingly attempt to influence firm managers to adopt socially responsible behavior, either through positive/reward tactics or negative/punishment tactics. This paper considers how investors can use each approach to differentially influence managers to make more CSR investments. The paper uses game theory with an all-pay contest structure to model how a large institutional investor could reward firms for CSR activities by creating a socially responsible investment fund (reward contest) or punish firms via shareholder activism (punishment contest). We identify conditions under which the punishment contest induces a higher level of CSR activity among firms compared to the reward contest. Managers bearing substantial private costs stemming from the activism is one such condition. Spillover effects are seen as the other managers in the economy engage in CSR to avoid being punished by the investor’s activism. This level of engagement is not the case when rewards are used—only those managers with an expectation of being rewarded increase their CSR activity in that scenario. This suggests, for example, that incorporating thresholds or tiers (e.g. gold, silver, and bronze-level winners) can increase the effectiveness of reward contests. Implications for designing both positive and negative CSR inducements are explored. We also identify the ethical dilemmas that relate to such influence attempts.</dcterms:abstract>
+        <dc:date>Jan 2022</dc:date>
+        <z:language>English</z:language>
+        <z:shortTitle>Inducing Corporate Social Responsibility</z:shortTitle>
+        <z:libraryCatalog>ProQuest</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.proquest.com/abicomplete/docview/2609866241/abstract/676274D6CAC24441PQ/5</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 05:26:35</dcterms:dateSubmitted>
+        <dc:rights>© Springer Nature B.V. 2020.</dc:rights>
+        <dc:description>Num Pages: 59-73
+Place: Dordrecht, Netherlands
+Publisher: Springer Nature B.V.</dc:description>
+        <bib:pages>59-73</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:01674544">
+        <prism:volume>175</prism:volume>
+        <dc:title>Journal of Business Ethics: JBE</dc:title>
+        <dc:identifier>DOI https://doi.org/10.1007/s10551-020-04669-0</dc:identifier>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 01674544</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_76">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/76/Mackey et al. - 2022 - Inducing Corporate Social Responsibility Should I.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://media.proquest.com/media/hms/PFT/1/GohmL?cit%3Aauth=Mackey%2C+Tyson+B%3BMackey%2C+Alison%3BChristensen%2C+Lisa+Jones%3BLepore%2C+Jason+J&amp;cit%3Atitle=Inducing+Corporate+Social+Responsibility%3A+Should+Investors+Reward+the+...&amp;cit%3Apub=Journal+of+Business+Ethics&amp;cit%3Avol=175&amp;cit%3Aiss=1&amp;cit%3Apg=59&amp;cit%3Adate=Jan+2022&amp;ic=true&amp;cit%3Aprod=ABI%2FINFORM+Collection&amp;_a=ChgyMDIyMDcwODA1MjE1MjExMzoxNDg0NDISBTU5OTc4GgpPTkVfU0VBUkNIIg4xNTEuMjEwLjEzNS42MioENjQ3MjIKMjYwOTg2NjI0MToNRG9jdW1lbnRJbWFnZUIBMFIGT25saW5lWgJGVGIDUEZUagoyMDIyLzAxLzAxcgoyMDIyLzAxLzMxegCCATJQLTEwMDAwMDEtMzk2NjAtQ1VTVE9NRVItMTAwMDAyNTUvMTAwMDAwMDgtNDc1MDAxMZIBBk9ubGluZcoBb01vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMDMuMC4wLjAgU2FmYXJpLzUzNy4zNtIBElNjaG9sYXJseSBKb3VybmFsc5oCB1ByZVBhaWSqAitPUzpFTVMtTWVkaWFMaW5rc1NlcnZpY2UtZ2V0TWVkaWFVcmxGb3JJdGVtygIPQXJ0aWNsZXxGZWF0dXJl0gIBWfICAPoCAU6CAwNXZWKKAxxDSUQ6MjAyMjA3MDgwNTIxNTIxMTM6ODY0MzIw&amp;_s=7zrNNuGKmbW6n0AO9i3YnDRXCp4%3D</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 05:26:36</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.proquest.com/abicomplete/docview/2613009509/abstract/676274D6CAC24441PQ/3">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>175</prism:volume>
+                <dc:title>Journal of Business Ethics: JBE</dc:title>
+                <dc:identifier>DOI https://doi.org/10.1007/s10551-020-04645-8</dc:identifier>
+                <prism:number>2</prism:number>
+                <dc:identifier>ISSN 01674544</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jago</foaf:surname>
+                        <foaf:givenName>Arthur S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nathanael</foaf:surname>
+                        <foaf:givenName>Fast</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pfeffer</foaf:surname>
+                        <foaf:givenName>Jeffrey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_78"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Attributions</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Behavior</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Behavioural aspects</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Business And Economics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Business ethics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Companies</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Corporate profits</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Economic resources</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Law</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Losing</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Money</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Morality</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Organizational behavior</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Organizations</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Profitability</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Prosocial behaviour</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Research</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Values</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Losing More than Money: Organizations’ Prosocial Actions Appear Less Authentic When Their Resources are Declining</dc:title>
+        <dcterms:abstract>Companies often benefit from others’ attributions of moral conviction for prosocial behavior, for example, attributions that a company has a sincere moral desire to improve the environment when behaving sustainably. Across four studies, we explored how organizations’ changing resource positions influenced people’s attributions for the motivations underlying prosocial organizational behaviors. Observers attributed less moral conviction following prosocial behavior when they believed an organization was losing (vs. gaining) economic resources (Studies 1 and 2). This effect was primarily a “penalty” assessed against organizations that were losing resources, as opposed to a “reward” given to organizations gaining resources (Study 3). Finally, we found that this effect occurred because people perceive organizations that are losing resources as more situationally constrained, leading them to attribute less dispositional moral conviction (Study 4). We discuss theoretical and practical implications stemming from how changes in resource access can lead people to be more skeptical of organizations’ motivations following prosocial behavior.</dcterms:abstract>
+        <dc:date>Jan 2022</dc:date>
+        <z:language>English</z:language>
+        <z:shortTitle>Losing More than Money</z:shortTitle>
+        <z:libraryCatalog>ProQuest</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.proquest.com/abicomplete/docview/2613009509/abstract/676274D6CAC24441PQ/3</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 05:27:17</dcterms:dateSubmitted>
+        <dc:rights>© Springer Nature B.V. 2020.</dc:rights>
+        <dc:description>Num Pages: 413-425
+Place: Dordrecht, Netherlands
+Publisher: Springer Nature B.V.</dc:description>
+        <bib:pages>413-425</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_78">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/78/Jago et al. - 2022 - Losing More than Money Organizations’ Prosocial A.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://media.proquest.com/media/hms/PFT/1/Q6yrL?cit%3Aauth=Jago%2C+Arthur+S%3BFast+Nathanael%3BPfeffer%2C+Jeffrey&amp;cit%3Atitle=Losing+More+than+Money%3A+Organizations%E2%80%99+Prosocial+Actions+Appear+Less+...&amp;cit%3Apub=Journal+of+Business+Ethics&amp;cit%3Avol=175&amp;cit%3Aiss=2&amp;cit%3Apg=413&amp;cit%3Adate=Jan+2022&amp;ic=true&amp;cit%3Aprod=ABI%2FINFORM+Collection&amp;_a=ChgyMDIyMDcwODA1MjE1MjExMzoxNDg0NDISBTU5OTc4GgpPTkVfU0VBUkNIIg4xNTEuMjEwLjEzNS42MioENjQ3MjIKMjYxMzAwOTUwOToNRG9jdW1lbnRJbWFnZUIBMFIGT25saW5lWgJGVGIDUEZUagoyMDIyLzAxLzAxcgoyMDIyLzAxLzMxegCCATJQLTEwMDAwMDEtMzk2NjAtQ1VTVE9NRVItMTAwMDAyNTUvMTAwMDAwMDgtNDc1MDAxMZIBBk9ubGluZcoBb01vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMDMuMC4wLjAgU2FmYXJpLzUzNy4zNtIBElNjaG9sYXJseSBKb3VybmFsc5oCB1ByZVBhaWSqAitPUzpFTVMtTWVkaWFMaW5rc1NlcnZpY2UtZ2V0TWVkaWFVcmxGb3JJdGVtygIPQXJ0aWNsZXxGZWF0dXJl0gIBWfICAPoCAU6CAwNXZWKKAxxDSUQ6MjAyMjA3MDgwNTIxNTIxMTM6ODY0MzIw&amp;_s=oWogHuKQ219mnUUaudMnZdvMSm4%3D</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 05:27:19</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.proquest.com/abicomplete/docview/2674412701/abstract/A2FB292BE8494F58PQ/1">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>14</prism:volume>
+                <dc:title>Sustainability</dc:title>
+                <dc:identifier>DOI https://doi.org/10.3390/su14116418</dc:identifier>
+                <prism:number>11</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Al-Marri</foaf:surname>
+                        <foaf:givenName>Meera</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Link to external site</foaf:surname>
+                        <foaf:givenName>this link will open in a new window</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pinnington</foaf:surname>
+                        <foaf:givenName>Ashly H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_80"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>corporate social responsibility</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>programs</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>project management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>sustainability</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Managing Sustainability Projects for Social Impact from a Corporate Social Responsibility Perspective</dc:title>
+        <dcterms:abstract>Initiatives in Corporate Social Responsibility (CSR) can contribute to many programs for sustainable development. The Middle East and North Africa (MENA) region is considered to have been slower to change in CSR than have other Western developed countries. The purpose of this research is to explore examples in the United Arab Emirates (UAE) of how project initiatives in CSR and sustainable development can facilitate heightened awareness, engagement, and execution of action for sustainability. This research utilizes qualitative case study methods analysing a United Nations (UN) supported annual youth engagement program focused on implementation of sustainable development projects in the UAE. The varying degrees of project complexity and “programmification” of sustainability activities in the UAE reveals a more systematic and mature stage of CSR and sustainable development projects and programs than is reported in the literature. The application of project management to organize, implement, align, and monitor sustainability-centred programs provides knowledge relevant to the UAE and other countries interested in the strategic management of change. The study demonstrates the application and value of project management for implementing sustainable development initiatives and highlights the collaborative contribution of corporate and governmental stakeholders to project management in organizations. An important area for future research on sustainable development in the MENA region is to study corporate and public sector partnerships in CSR projects and sustainability programs.</dcterms:abstract>
+        <dc:date>2022</dc:date>
+        <z:language>English</z:language>
+        <z:libraryCatalog>ProQuest</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.proquest.com/abicomplete/docview/2674412701/abstract/A2FB292BE8494F58PQ/1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 05:29:21</dcterms:dateSubmitted>
+        <dc:rights>© 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</dc:rights>
+        <dc:description>Num Pages: 6418
+Place: Basel, Switzerland
+Publisher: MDPI AG</dc:description>
+        <bib:pages>6418</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_80">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/80/Al-Marri et al. - 2022 - Managing Sustainability Projects for Social Impact.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://media.proquest.com/media/hms/PFT/1/0zXCN?cit%3Aauth=Al-Marri%2C+Meera%3BPinnington%2C+Ashly+H&amp;cit%3Atitle=Managing+Sustainability+Projects+for+Social+Impact+from+a+Corporate+Social+Responsibility+Perspective&amp;cit%3Apub=Sustainability&amp;cit%3Avol=14&amp;cit%3Aiss=11&amp;cit%3Apg=6418&amp;cit%3Adate=2022&amp;ic=true&amp;cit%3Aprod=ABI%2FINFORM+Collection&amp;_a=ChgyMDIyMDcwODA1MjE1MjExMzoxNDg0NDISBTU5OTc4GgpPTkVfU0VBUkNIIg4xNTEuMjEwLjEzNS42MioHMjAzMjMyNzIKMjY3NDQxMjcwMToNRG9jdW1lbnRJbWFnZUIBMFIGT25saW5lWgJGVGIDUEZUagoyMDIyLzAxLzAxcgoyMDIyLzEyLzMxegCCASlQLTEwMDk3MTQtMzk2NjAtQ1VTVE9NRVItMTAwMDAyNTUtNTc3NDYxOZIBBk9ubGluZcoBb01vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMDMuMC4wLjAgU2FmYXJpLzUzNy4zNtIBElNjaG9sYXJseSBKb3VybmFsc5oCB1ByZVBhaWSqAitPUzpFTVMtTWVkaWFMaW5rc1NlcnZpY2UtZ2V0TWVkaWFVcmxGb3JJdGVtygIPQXJ0aWNsZXxGZWF0dXJl0gIBWfICAPoCAVmCAwNXZWKKAxxDSUQ6MjAyMjA3MDgwNTIxNTIxMTM6ODY0MzIw&amp;_s=VQ1hzVb73Ym3LB9D02SJW4GLPZA%3D</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 05:29:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.proquest.com/abicomplete/docview/2679842466/abstract/CDBD538E77964F7BPQ/1">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>14</prism:volume>
+                <dc:title>Sustainability</dc:title>
+                <dc:identifier>DOI https://doi.org/10.3390/su14127174</dc:identifier>
+                <prism:number>12</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Akomea-Frimpong</foaf:surname>
+                        <foaf:givenName>Isaac</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Link to external site</foaf:surname>
+                        <foaf:givenName>this link will open in a new window</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jin</foaf:surname>
+                        <foaf:givenName>Xiaohua</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Link to external site</foaf:surname>
+                        <foaf:givenName>this link will open in a new window</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Osei-Kyei</foaf:surname>
+                        <foaf:givenName>Robert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_82"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>performance criteria</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>public-private partnerships</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>sustainability</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>systematic review</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Mapping Studies on Sustainability in the Performance Measurement of Public-Private Partnership Projects: A Systematic Review</dc:title>
+        <dcterms:abstract>The integration of sustainable practices into infrastructure projects under the auspices of public-private partnerships (PPPs) is vital in the attainment of United Nation’s Sustainable Development Goals (SDGs). Since the inception of the SDGs in 2015, the attention of world has been shifting towards more sustainable practices and it is essential that the conventional performance measurement models on PPP projects also adapt to the trend of sustainable practices. Therefore, This study aims at reviewing and operationalising sustainable performance measures for the PPP infrastructure projects. A systematic literature review (SLR) methodology was utilised in this study. The research process began with the search, retrieval and selection of thirty-three (33) journal articles. Thoroughly, the selected articles were contently analysed to form key themes that form the basis of this research’s findings. The outcomes of this review demonstrate twenty-seven (27) most critical sustainable performance criteria of PPP projects such as the lowest project costs, green index, disability-friendly inclusion rate and carbon emission per project among others. Although, the study is limited to few journal articles, it provides theoretical and practical understanding of integration of sustainability in PPPs. Further, it gives a list of relevant research gaps for further studies. This study contributes to the benchmarking and management of sustainable performance assessment of PPP projects.</dcterms:abstract>
+        <dc:date>2022</dc:date>
+        <z:language>English</z:language>
+        <z:shortTitle>Mapping Studies on Sustainability in the Performance Measurement of Public-Private Partnership Projects</z:shortTitle>
+        <z:libraryCatalog>ProQuest</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.proquest.com/abicomplete/docview/2679842466/abstract/CDBD538E77964F7BPQ/1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 05:30:32</dcterms:dateSubmitted>
+        <dc:rights>© 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</dc:rights>
+        <dc:description>Num Pages: 7174
+Place: Basel, Switzerland
+Publisher: MDPI AG</dc:description>
+        <bib:pages>7174</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_82">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/82/Akomea-Frimpong et al. - 2022 - Mapping Studies on Sustainability in the Performan.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://media.proquest.com/media/hms/PFT/1/twNMN?cit%3Aauth=Akomea-Frimpong%2C+Isaac%3BJin%2C+Xiaohua%3BOsei-Kyei%2C+Robert&amp;cit%3Atitle=Mapping+Studies+on+Sustainability+in+the+Performance+Measurement+of+...&amp;cit%3Apub=Sustainability&amp;cit%3Avol=14&amp;cit%3Aiss=12&amp;cit%3Apg=7174&amp;cit%3Adate=2022&amp;ic=true&amp;cit%3Aprod=ABI%2FINFORM+Collection&amp;_a=ChgyMDIyMDcwODA1MjE1MjExMzoxNDg0NDISBTU5OTc4GgpPTkVfU0VBUkNIIg4xNTEuMjEwLjEzNS42MioHMjAzMjMyNzIKMjY3OTg0MjQ2NjoNRG9jdW1lbnRJbWFnZUIBMFIGT25saW5lWgJGVGIDUEZUagoyMDIyLzAxLzAxcgoyMDIyLzEyLzMxegCCASlQLTEwMDk3MTQtMzk2NjAtQ1VTVE9NRVItMTAwMDAyNTUtNTc3NDYxOZIBBk9ubGluZcoBb01vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMDMuMC4wLjAgU2FmYXJpLzUzNy4zNtIBElNjaG9sYXJseSBKb3VybmFsc5oCB1ByZVBhaWSqAitPUzpFTVMtTWVkaWFMaW5rc1NlcnZpY2UtZ2V0TWVkaWFVcmxGb3JJdGVtygIPQXJ0aWNsZXxGZWF0dXJl0gIBWfICAPoCAVmCAwNXZWKKAxxDSUQ6MjAyMjA3MDgwNTIxNTIxMTM6ODY0MzIw&amp;_s=t39Hg7cEXhVpL%2FyTS3fwAO%2B0YZc%3D</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 05:30:33</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.proquest.com/abicomplete/docview/2642415987/abstract/91A3AF30EFA645AEPQ/11">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>8</prism:volume>
+                <dc:title>Journal of Open Innovation : Technology, Market, and Complexity</dc:title>
+                <dc:identifier>DOI https://doi.org/10.3390/joitmc8010056</dc:identifier>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bayu</foaf:surname>
+                        <foaf:givenName>Fitsum</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Berhan</foaf:surname>
+                        <foaf:givenName>Eshetie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ebinger</foaf:surname>
+                        <foaf:givenName>Frank</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_84"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Business And Economics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Business competition</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Case studies</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Clothing</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Complex systems</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Consumption</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Decision making</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Dynamic models</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Environmental management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Industrial parks</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Manufacturing</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Research</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>S curves</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Simulation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Southern Hemisphere</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Stakeholders</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Suppliers</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Supply chain management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Sustainability</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Sustainable development</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>System dynamics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>System theory</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Wages &amp; salaries</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Waste management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Working conditions</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A System Dynamics Model for Dynamic Capability Driven Sustainability Management</dc:title>
+        <dcterms:abstract>This study aims to develop a system dynamics (SD) model for sustainability management driven by dynamic capabilities (DC) perspective. DC has been suggested as a vital organization theory for gaining sustainable competitive advantage. In contrast, SD has been used to model the complex system and support the decision-making process. Modeling sustainability management with SD driven from DC has not been previously investigated, particularly in global south industrial firms. This study explored the complex and dynamic relationships of the variables involved. For a simulation experiment, the study utilized a case from a large apparel industrial park in Africa, located in Ethiopia. The simulation revealed that the capability growth trend for sustainability management follows a natural sigmoid function or S curve shape supporting the dynamic hypothesis. In particular, sustainability training efforts, waste management practice, ethical management, supervision, and minimum worker’s wage have been found to be influential variables and innovation points for capability growth towards sustainability management. The SD model contributes to the empirical gaps on dynamic models to overcome the challenges of firms in simultaneously managing sustainability dimensions. The study is the first to explore DC-driven sustainability management using SD, particularly from the case of a global south country.</dcterms:abstract>
+        <dc:date>2022</dc:date>
+        <z:language>English</z:language>
+        <z:libraryCatalog>ProQuest</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.proquest.com/abicomplete/docview/2642415987/abstract/91A3AF30EFA645AEPQ/11</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 06:21:25</dcterms:dateSubmitted>
+        <dc:rights>© 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</dc:rights>
+        <dc:description>Num Pages: 56
+Place: Basel, Switzerland
+Publisher: MDPI AG</dc:description>
+        <bib:pages>56</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_84">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/84/Bayu et al. - 2022 - A System Dynamics Model for Dynamic Capability Dri.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://media.proquest.com/media/hms/PFT/1/DlANM?cit%3Aauth=Fitsum+Bayu%3BEshetie+Berhan%3BEbinger%2C+Frank&amp;cit%3Atitle=A+System+Dynamics+Model+for+Dynamic+Capability+Driven+Sustainability+Management&amp;cit%3Apub=Journal+of+Open+Innovation+%3A+Technology%2C+Market%2C+and+Complexity&amp;cit%3Avol=8&amp;cit%3Aiss=1&amp;cit%3Apg=56&amp;cit%3Adate=2022&amp;ic=true&amp;cit%3Aprod=ABI%2FINFORM+Collection&amp;_a=ChgyMDIyMDcwODA2MTQ1OTAyNjoxNzE3NjISBTU5OTc4GgpPTkVfU0VBUkNIIg4xNTEuMjEwLjEzNS42MioHMjA0NDMzMzIKMjY0MjQxNTk4NzoNRG9jdW1lbnRJbWFnZUIBMFIGT25saW5lWgJGVGIDUEZUagoyMDIyLzAxLzAxcgoyMDIyLzEyLzMxegCCATJQLTEwMDAwMDEtMzk2NjAtQ1VTVE9NRVItMTAwMDAyNTUvMTAwMDAwMDgtNDc1MDAxMZIBBk9ubGluZcoBb01vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMDMuMC4wLjAgU2FmYXJpLzUzNy4zNtIBElNjaG9sYXJseSBKb3VybmFsc5oCB1ByZVBhaWSqAitPUzpFTVMtTWVkaWFMaW5rc1NlcnZpY2UtZ2V0TWVkaWFVcmxGb3JJdGVtygIPQXJ0aWNsZXxGZWF0dXJl0gIBWfICAPoCAVmCAwNXZWKKAxxDSUQ6MjAyMjA3MDgwNTIxNTIxMTM6ODY0MzIw&amp;_s=T4%2FCoP63%2B%2Bnkp3sll7vh47xCIbc%3D</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 06:21:26</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.proquest.com/abicomplete/docview/2670200711/abstract/91A3AF30EFA645AEPQ/18">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:19118066"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stricker</foaf:surname>
+                        <foaf:givenName>Lukas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Link to external site</foaf:surname>
+                        <foaf:givenName>this link will open in a new window</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pugnetti</foaf:surname>
+                        <foaf:givenName>Carlo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Link to external site</foaf:surname>
+                        <foaf:givenName>this link will open in a new window</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wagner</foaf:surname>
+                        <foaf:givenName>Joël</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Link to external site</foaf:surname>
+                        <foaf:givenName>this link will open in a new window</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Röschmann</foaf:surname>
+                        <foaf:givenName>Angela Zeier</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Link to external site</foaf:surname>
+                        <foaf:givenName>this link will open in a new window</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_86"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Balance sheets</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Business And Economics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Business models</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Climate change</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Emission standards</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Financial services</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Gross Domestic Product--GDP</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Insurance companies</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Insurance industry</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Product development</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Regulation of financial institutions</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Sustainable development</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Value chain</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Green Insurance: A Roadmap for Executive Management</dc:title>
+        <dcterms:abstract>Anthropogenic climate change is accelerating, and severe and widespread consequences are expected in many areas. Although the insurance sector is not closely associated with any of the sustainability dimensions, expectations may change rapidly. Against this background, we analyze the role of insurers, especially in the property and casualty areas, in addressing the environmental and climate risk challenges and developing a truly sustainable, environmentally friendly business model—green insurance. Building on the Principles of Sustainable Insurance set by the United Nations, we develop a comprehensive roadmap along the insurance value chain for executive management to design their company’s sustainability efforts, with special focus on property and casualty. The roadmap indicates actions to be taken as well as metrics to be managed in product development, marketing and sales, risk management and underwriting and operations and claims management towards green insurance. The existing products, risk appetite and operational processes must be reviewed to support sustainability goals and include the full portfolio of activities, including claims. The time to act is now, the sustainability journey is complex and the proposed business model transformation should provide benefits for early movers.</dcterms:abstract>
+        <dc:date>2022</dc:date>
+        <z:language>English</z:language>
+        <z:shortTitle>Green Insurance</z:shortTitle>
+        <z:libraryCatalog>ProQuest</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.proquest.com/abicomplete/docview/2670200711/abstract/91A3AF30EFA645AEPQ/18</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 06:38:19</dcterms:dateSubmitted>
+        <dc:rights>© 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</dc:rights>
+        <dc:description>Num Pages: 221
+Place: Basel, Switzerland
+Publisher: MDPI AG</dc:description>
+        <bib:pages>221</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:19118066">
+        <prism:volume>15</prism:volume>
+        <dc:title>Journal of Risk and Financial Management</dc:title>
+        <dc:identifier>DOI https://doi.org/10.3390/jrfm15050221</dc:identifier>
+        <prism:number>5</prism:number>
+        <dc:identifier>ISSN 19118066</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_86">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/86/Stricker et al. - 2022 - Green Insurance A Roadmap for Executive Managemen.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://media.proquest.com/media/hms/PFT/1/vUD6N?cit%3Aauth=Stricker%2C+Lukas%3BPugnetti%2C+Carlo%3BWagner%2C+Jo%C3%ABl%3BAngela+Zeier+R%C3%B6schmann&amp;cit%3Atitle=Green+Insurance%3A+A+Roadmap+for+Executive+Management&amp;cit%3Apub=Journal+of+Risk+and+Financial+Management&amp;cit%3Avol=15&amp;cit%3Aiss=5&amp;cit%3Apg=221&amp;cit%3Adate=2022&amp;ic=true&amp;cit%3Aprod=ABI%2FINFORM+Collection&amp;_a=ChgyMDIyMDcwODA2MTQ1OTAyNjoxNzE3NjISBTU5OTc4GgpPTkVfU0VBUkNIIg4xNTEuMjEwLjEzNS42MioHMjA1OTU1NjIKMjY3MDIwMDcxMToNRG9jdW1lbnRJbWFnZUIBMFIGT25saW5lWgJGVGIDUEZUagoyMDIyLzAxLzAxcgoyMDIyLzEyLzMxegCCATJQLTEwMDAwMDEtMzk2NjAtQ1VTVE9NRVItMTAwMDAyNTUvMTAwMDAwMDgtNDc1MDAxMZIBBk9ubGluZcoBb01vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMDMuMC4wLjAgU2FmYXJpLzUzNy4zNtIBElNjaG9sYXJseSBKb3VybmFsc5oCB1ByZVBhaWSqAitPUzpFTVMtTWVkaWFMaW5rc1NlcnZpY2UtZ2V0TWVkaWFVcmxGb3JJdGVtygIPQXJ0aWNsZXxGZWF0dXJl0gIBWfICAPoCAVmCAwNXZWKKAxxDSUQ6MjAyMjA3MDgwNTIxNTIxMTM6ODY0MzIw&amp;_s=i%2BGIbmDUv7Eqqy2pML1WWczsb0Y%3D</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 06:38:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.proquest.com/abicomplete/docview/2679722102/abstract/91A3AF30EFA645AEPQ/16">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>13</prism:volume>
+                <dc:title>Games</dc:title>
+                <dc:identifier>DOI https://doi.org/10.3390/g13030035</dc:identifier>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gorbaneva</foaf:surname>
+                        <foaf:givenName>Olga</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ougolnitsky</foaf:surname>
+                        <foaf:givenName>Guennady</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Link to external site</foaf:surname>
+                        <foaf:givenName>this link will open in a new window</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_88"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>game theory</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>intertwined supply networks</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>models of coordination of social and private interests</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>sustainability</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Sustainability of Intertwined Supply Networks: A Game-Theoretic Approach</dc:title>
+        <dcterms:abstract>A formal game-theoretic model of an intertwined supply network, in full and simplified versions, is proposed. Conditions for the sustainable development of an active system are presented in general form and then specified to the class of intertwined supply networks. As an illustration, a concise example of the dynamic Cournot duopoly and a detailed example of the model of Social and Private Interests Coordination Engines (SPICE-model) for a marketing network are considered and analytically investigated and sustainability conditions are established. An important conclusion is that the sustainable development of the active system is possible only under the viability conditions satisfied simultaneously with coordinating the interests of all active agents of the system.</dcterms:abstract>
+        <dc:date>2022</dc:date>
+        <z:language>English</z:language>
+        <z:shortTitle>Sustainability of Intertwined Supply Networks</z:shortTitle>
+        <z:libraryCatalog>ProQuest</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.proquest.com/abicomplete/docview/2679722102/abstract/91A3AF30EFA645AEPQ/16</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 06:51:26</dcterms:dateSubmitted>
+        <dc:rights>© 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</dc:rights>
+        <dc:description>Num Pages: 35
+Place: Basel, Switzerland
+Publisher: MDPI AG</dc:description>
+        <bib:pages>35</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_88">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/88/Gorbaneva et al. - 2022 - Sustainability of Intertwined Supply Networks A G.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://media.proquest.com/media/hms/PFT/1/iXqLN?cit%3Aauth=Gorbaneva%2C+Olga%3BOugolnitsky%2C+Guennady&amp;cit%3Atitle=Sustainability+of+Intertwined+Supply+Networks%3A+A+Game-Theoretic+Approach&amp;cit%3Apub=Games&amp;cit%3Avol=13&amp;cit%3Aiss=3&amp;cit%3Apg=35&amp;cit%3Adate=2022&amp;ic=true&amp;cit%3Aprod=ABI%2FINFORM+Collection&amp;_a=ChgyMDIyMDcwODA2MTQ1OTAyNjoxNzE3NjISBTU5OTc4GgpPTkVfU0VBUkNIIg4xNTEuMjEwLjEzNS42MioHMjAzMjM5MzIKMjY3OTcyMjEwMjoNRG9jdW1lbnRJbWFnZUIBMFIGT25saW5lWgJGVGIDUEZUagoyMDIyLzAxLzAxcgoyMDIyLzEyLzMxegCCATJQLTEwMDAwMDEtMzk2NjAtQ1VTVE9NRVItMTAwMDAyNTUvMTAwMDAwMDgtNDc1MDAxMZIBBk9ubGluZcoBb01vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMDMuMC4wLjAgU2FmYXJpLzUzNy4zNtIBElNjaG9sYXJseSBKb3VybmFsc5oCB1ByZVBhaWSqAitPUzpFTVMtTWVkaWFMaW5rc1NlcnZpY2UtZ2V0TWVkaWFVcmxGb3JJdGVtygIPQXJ0aWNsZXxGZWF0dXJl0gIBWfICAPoCAVmCAwNXZWKKAxxDSUQ6MjAyMjA3MDgwNTIxNTIxMTM6ODY0MzIw&amp;_s=esboauX%2Ba7J8PMY2aRFK5f2YwF4%3D</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-08 06:51:28</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
