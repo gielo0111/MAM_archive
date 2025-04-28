@@ -1,0 +1,887 @@
+Assessment 2: Analysis Report
+AM811001: Analytics for Managers
+Use of Data Analytics for Data Driven Decision Making in
+Lending Club
+Student Name: Komadamperuge Anton Shehantha Gunawardena
+Student ID: 1000123962
+Date of submission: 01.04.2024
+Contents
+1.0 Acronyms Used......................................................................................................................................3
+2.0 Introduction.....................................................................................................................................4
+3.0 Data Description....................................................................................................................................5
+4.0 Data-driven decision-making for lending institutions.......................................................................9
+4.1 Identify key factors that influence the credit risk associated with fintech lending for LC ........9
+4.2 Identifying factors that drive investor Interest in a quality lending portfolio ..........................20
+5.0 Conclusion ...........................................................................................................................................27
+6.0 References............................................................................................................................................28
+Table of Figures
+Figure 1 - Data variables of a cleaned dataset ............................................................................................6
+Figure 2 - Data Coding ................................................................................................................................8
+Figure 3 - Spread of loans in LC................................................................................................................11
+Figure 4 - Charged off loans from loan value............................................................................................12
+Figure 5 - Loan repayments over the income of the borrowers .................................................................12
+Figure 6 - Descriptive analysis of annual income of the borrower vs loan purpose .................................12
+Figure 7 - Annual income of the borrower vs loan purpose.......................................................................13
+Figure 8 - Diagnostic Anova single factor analysis - Annual income vs loan purpose..............................13
+Figure 9 - Income verification status .........................................................................................................14
+Figure 10 - Chi-square analysis - annual income vs annual income verification......................................14
+Figure 11 - Annual Income Vs Annual Income Verification ......................................................................15
+Figure 12 - Chi-square analysis over Loan purpose vs income verification..............................................16
+Figure 13 - Purpose of Loan vs Annual income verification (proportion-wise) ........................................16
+Figure 14 - Descriptive analysis of DTI ratio over three loan purposes ...................................................17
+Figure 15 - Graphical explanation of DTI ratio over three loan purposes................................................17
+Figure 16 - Diagnostic Anova single factor analysis - DIT ratio over loan purpose.....................................18
+Figure 17 - Diagnostic Correlation analysis .............................................................................................19
+Figure 18 - Loan portfolio of LC................................................................................................................21
+Figure 19 - Number of loans over the annual income of the borrower......................................................22
+Figure 20 - Loan value over the annual income of the borrower ..............................................................23
+Figure 21 - Correlation analysis over 17 numerical variables..................................................................24
+Figure 22 - Correlation analysis of 16 numerical variables over “Amount funded by investors.”...........25
+Figure 23 - Predictive analysis - Multi-Lenier Regression analysis..........................................................25
+Figure 24 - RapidMiner Predictive clustering analysis.............................................................................26
+Figure 25 - RapidMiner Centroid Table ....................................................................................................26
+Tables
+Table 1- Data variables used for analysis..................................................................................................10
+Table 2 - Data variables used for analysis.................................................................................................20
+1.0 Acronyms Used
+LC – Lending Club
+P2P – Peer to Peer
+DDDM -Data Driven Decision Making
+DTI – Debt to income
+2.0 Introduction
+Data is one of the most potent weapons any industry can use to analyse past, present and future
+trends in order to compete in the challenging business environment (Gudivada, 2017). Therefore,
+data analysis has become popularised as a new strategy in the contemporary business context,
+which converts raw data to meaningful visualisation and provides meaningful interpretations to
+identify ongoing and future business issues/challenges. Moreover, logical data analytical
+prediction creates more protection for the organisation, allowing it to be ready for future potential
+challenges and overcome them with appropriate predefined solutions (Gudivada, 2017). Therefore,
+this novel strategy is now being used by many organisations rather than traditional decisionmaking methods to compete in complex business issues and find new avenues for solving business
+problems efficiently and effectively (LaVange, 2014).
+Accordingly, the financial sector is one of the leading industries that use data analytics for
+decision-making in the contemporary era. Fintech is a novel financial, technological concept that
+challenges the demanding banking industry by providing simplicity and convenience to customers,
+influencing the use of other financial applications to cater to banking needs (Adamek & Solarz,
+2023). Moreover, Fintech facilitates many financial services and provides opportunities across the
+globe, especially for customers who are in remote areas (Utami & Supriadi, 2023).
+Lending Club is an organisation incorporated in 2006 in California, USA, with the intention of
+helping people with their financial needs; it provides loans to individual borrowers while opening
+an avenue for investors to invest in the borrowings (Lending Club, 2024). Therefore, this
+mechanism is called peer-to-peer lending (P2P), and LC acts as a connecting platform for both the
+borrower and investors (Lending Club, 2024). Moreover, LC evaluates the credibility of the
+applicants and passes the findings to investors for decision-making on their investment. LC only
+makes interest and fee income from borrowers and pays back investment returns to the investors
+on a monthly basis (Lending Club, 2024). Besides, this Fintech Lending and investing application
+was acquired by Radius Bank and contributed to the national economy of the USA by enhancing
+its lending portfolio to five billion US dollars by the end of the first half of 2014 (Lending Club,
+2024).
+Since this Lending Club provide lending from the investor’s capital, it is the responsibility of the
+organisation to pay back interest and capital on a timely basis to protect the investor's interest and
+keep optimum liquidity in the business. Therefore, it is important to identify trustworthy 
+prospective borrowers to ensure the timely collection of loan proceeds to safeguard investor
+interest (Ahmed et al., 2021). Therefore, data analytics is prominent in identifying prospective
+borrowers and finding new lending opportunities for Lending Club to maximise profits and
+investor revenue.
+Therefore, this report discusses two burning issues of Lending Club: Identifying key factors that
+influence the credit risk associated with fintech lending for LC and Identifying factors that drive
+investor interest in a quality lending portfolio within the framework of the data analysis. Moreover,
+this study used descriptive, diagnostic, predictive, and prescriptive data analysis methods to find
+solutions for business problems.
+Section three of the report provides an insightful description of the data set and its attributes. In
+contrast, section four critically discusses the framed business problems and illustrates how data
+analytics provide data-driven solutions for contemporary business issues. Finally, the conclusion
+summarises the report's findings to complete the report.
+3.0 Data Description
+The data set is a collection of data that consists of columns and rows, where columns represent the
+variables of the data set while rows represent the related data to one particular data variable
+(LaVange, 2014). This data is mainly categorised as numerical and categorical data, which are
+further divided into four main categories: nominal, ordinal, interval, and ratio. Identification of the
+variables and a clear understanding of the data set variables influence the use of correct data
+analysis methods to accurately reflect the data problems of a contemporary business context
+(LeMire et al., 2016).
+This database is all about the lending database of Lending Club, which is found on the Kaggle
+website (https://www.kaggle.com/datasets/wordsforthewise/lending-club), holds issued, settled,
+current, late and non-performing loans for the period from 2007 to 2018. Over 1.048 Mn rows and
+151 data variables were found in the database, and all the data types were found there.
+Due to the comprehensiveness of the dataset, data cleaning was challenging, and the data set was
+cleaned with the anticipation of finding meaningful interpretations for the data problems (Ng &
+Winkler, 2014). Consequently, data was filtered to get the latest calendar year data for 2017.
+Therefore, the data had for year 2018 which for a few months, was also removed. Accordingly,
+rows were reduced to 500K, and further cleaning was performed thereafter by carefully analysing 
+all the variables and reducing to fifty-eight variables (columns). Some empty rows were filled with
+zero, and some data rows were removed entirely, which did not have data for important data
+variables. Focusing accurate analysis results for regression and Rapid minor, data was cleaned
+aiming the missing values in the crucial numerical data fields. This exercise was performed using
+pivot tables, Excel functions, and formulas to get the final data set with 212,270 data rows.
+Considering the requirement of analysis, new columns were added to the dataset, such as joint
+annual income, joint DTI ratio, average FICO score (credit rating) and monthly loan instalment.
+After all the cleaning activities, the data set was ready for analysis, and Figure 1 illustrates the data
+variables and descriptions of the cleaned data set. Moreover, data coding was done using the
+database for Rapid Minor; refer to Figure 2 below.
+Figure 1 - Data variables of a cleaned dataset
+Variable Name Data Type Data
+Measurement
+type
+Description
+1 addr_state Categorical Nominal Borrower's Residential state
+2 annual_inc Numerical Ratio Annual income of the borrower
+3 annual_inc_joint Numerical Ratio Joint borrower's annual income
+4 application_type Categorical Nominal Applicant status - Individual/Joint
+5 avg_cur_bal Numerical Ratio Average current balance of all accounts
+6 delinq_2yrs Numerical Ratio
+No of above 30 days past due instances during last 2
+years
+7 delinq_amnt Numerical Ratio Past due amount
+8 dti_joint Numerical Ratio
+Debt to income ratio of single/joint borrower's (Excluding
+mortgage loans & requested LC loan)
+9 earliest_cr_line Categorical Ordinal Borrower’s earliest credit line;
+10 emp_length Categorical Ordinal Employment experience
+11 emp_title Categorical Nominal Borrow's Job title
+12 FICO Score Categorical Ordinal Average FICO Score
+13 funded_amnt_inv Numerical Ratio Amount funded by investors
+14 grade Categorical Ordinal Loan grade provided By LC
+15 home_ownership Categorical Nominal Home ownership status
+16 id Categorical Nominal Loan ID
+17 installment Numerical Ratio Monthly loan instalment
+18 int_rate Numerical Ratio Interest Rate on the loan
+19 Investor Status Categorical Nominal Investor investment Partially/Full
+20 issue_d Categorical Ordinal Date of loan granted
+21 last_credit_pull_d Categorical Ordinal Last loan granted date
+22 last_pymnt_amnt Numerical Ratio Last payment amount
+23 last_pymnt_d Numerical Ratio Last payment
+24 loan_amnt Numerical Ratio Loan amount
+25 loan_status Categorical Nominal loan status (Current, Charged off, Default, etc.)
+26 mort_acc Numerical Ratio No. of mortgage loans
+27 mths_since_last_delinq Numerical Ratio No. of months since last default
+28 mths_since_recent_bc_dlq Numerical Raio Months since most recent bankcard arrears
+29 next_pymnt_d Categorical Ordinal Next payment date
+30 num_accts_ever_120_pd Numerical Ratio No. of loans ever past due over 120 days
+31 num_actv_bc_tl Numerical Ratio No. of active bank cards
+32 num_bc_sats Numerical Ratio Number of satisfactory bankcard accounts
+33 num_bc_tl Numerical Ratio Number of bank cards
+34 num_sats Numerical Ratio Number of satisfactory accounts
+35 num_tl_120dpd_2m Numerical Ratio No. of accounts currently past due over 120 days
+36 num_tl_30dpd Numerical Ratio No. of accounts currently past due over 30 days
+37 num_tl_90g_dpd_24m Numerical
+Ratio Number of accounts 90 or more days past due in last 24
+months
+38 open_acc Numerical Ratio No. of active credit facilities
+39 out_prncp Numerical Ratio Capital outstanding
+40 out_prncp_inv Numerical Ratio Capital outstanding for investors
+41
+Present loan installments
+(Ex. Mortgage Loans) Numerical
+Ratio Current monthly loan instalments before the LC loan
+(excluding mortgage loans)
+42 pub_rec Numerical Ratio No. of default records
+43 pub_rec_bankruptcies Numerical Ratio No. of public defaults
+44 purpose Categorical Nominal Loan purpose
+45 sub_grade Categorical Ordinal Sub Loan grade
+46 term Numerical Ratio Loan Term (Months)
+47 tot_cur_bal Numerical Ratio Total balance of all accounts
+48 tot_hi_cred_lim Numerical Ratio Total high credit/credit limit
+49 total_acc Numerical Ratio Total credit facilities
+50 total_bal_ex_mort Numerical Ratio Total credit balance excluding mortgage
+51 total_bc_limit Numerical Ratio Total bankcard high credit/credit limit
+52 total_il_high_credit_limit Numerical Ratio Total instalment high credit/credit limit
+53 total_pymnt Numerical Ratio Total payments recovered including interest
+54 total_pymnt_inv Numerical Ratio Total recovery of investor funds
+55 total_rec_int Numerical Ratio Interest recovery
+56 total_rec_late_fee Numerical Ratio Late payment fees
+57 total_rec_prncp Numerical Ratio Capital recovery
+58 verification_status Categorical Nominal
+Verification status of annual income via payslips, tax
+returns or bank statements
+Figure 2
+Data Coding
+Figure 2 - Data Coding
+4.0 Data-driven decision-making for lending institutions
+With the acceleration of digitalisation, new fintech solutions influence banking operations. Fintech
+lending is more popularised with automated data-driven decision-making (DDDM) using even
+machine learning algorithms (Gul & Al-Faryan, 2023). In context, DDDM has been popularised
+as a new strategy among organisations, which promotes more precisely identifying opportunities
+and business issues (Marikar & Bandara, 2020). In view of these benefits, lending organisations
+started aggressively using this new strategy in the competitive business environment, considering
+its benefits. In contrast, lending is a profitable business to lending organisations, but there is a high
+tendency to lose the revenus due to bad loans in the lending portfolio. Therefore, data-related
+findings support identifying lending risk, profitable products, quality customer segments, new
+product innovations, and market demands to compete with rivals in challenging environments
+(Gul & Al-Faryan, 2023). Therefore, two critical data problems related to LC are identified and
+analysed based on data analytics techniques to find the root course of the problem and provide
+solutions using DDDM.
+4.1 Identify key factors that influence the credit risk associated with fintech
+lending for LC
+Even though Fintech lending is a novel concept in the financial industry, lending is a traditional
+fund-based financial product for lending organisations. Since this LC platform influences with
+Peer to Peer (P2P) lending mechanism, supply and demand are created through the Internet, and
+investors fund loans without collateral even without knowing the borrowers (Serrano-Cinca et al.,
+2015). Therefore, it has a high tendency to default on loans by the borrowers. Thus, loans not paid
+for a considerable time frame are considered bad loans, and LC sets off those loans, causing
+investors a loss of capital investment and interest income. Since fintech solutions are widely spread
+over new financial solutions, it is important to promptly secure the investor's interest, addressing
+Fintect-related issues (Reddy & Gopalaraman, 2016). Moreover, the loss of capital causes
+financial losses to investors and a loss of confidence decrease the interest in Fintech applications.
+In contrast, this loss of stakeholders' interest may even lead to an impact on the profitability of the
+LC.
+Using data analytics to illustrate this lending problem provides statistical interpretations that
+provide a measurable understating of the problem statement and allows logical decision-making
+(Marikar & Bandara, 2020). Moreover, by using data analytics methodologies, it is essential to
+identify the variable's impact on influencing the credit risk of the borrowers to identify prospective
+borrowers through the Fintech lending platform. Accordingly, Tabel 1 illustrates the list of
+variables used to identify the data problem.
+Table 1- Data variables used for analysis
+Variable Name Data Type Data
+Measurement
+type
+Description
+1 loan_status Categorical Nominal loan status (Current, Charged off, Default,
+etc.)
+2 loan_amnt Numerical Ratio Loan amount
+3 annual_inc Numerical Ratio Annual income of the borrower
+4 annual_inc_joint Numerical Ratio Joint borrower's annual income
+5 purpose Categorical Nominal Loan purpose
+6 verification_status Categorical Nominal Verification status of annual income via
+payslips, tax returns or bank statements
+7 dti_joint Numerical Ratio Debt to income ratio of single/joint borrower's
+(Excluding mortgage loans & requested LC
+loan)
+8 avg_cur_bal Numerical Ratio Average current balance of all accounts
+9 mort_acc Numerical Ratio No. of mortgage loans
+10 FICO Score Categorical Ordinal Average FICO Score
+11 emp_length Categorical Ordinal Employment experience
+12 funded_amnt_inv Numerical Ratio Amount funded by investers
+Initially, descriptive analysis was performed over the loan portfolio to identify the distribution of
+the loans considering the loan status (Figure 3) and identified that there is a variation in the
+charged-off loans considered as bad loans settled by lending club carried 9% from the loan
+portfolio which is above the industry average. (Lending Club, 2024). Moreover, loans segmented
+as default, which is 0%, are the loans of deceased borrowers in the litigation process to settle the
+dues from the borrower’s estate (Lending Club, 2024).
+Figure 3 - Spread of loans in LC
+Only selected the 9% charged off loans for further analysis as this is the segment provides the
+financial loss to LC. Accordingly, Figure 4 below represents the loan purpose of the charge of
+loans and identified that 62% of the charged-off loans are obtained for debt consolidation, and the
+lowest charged-off loans are obtained for vacation loans and green loans. Therefore, the target
+segment is further narrowed down, to debt consolidation, green and vacation loans studying why
+the borrowers do not service debt consolidation loans compared to green and vacation loans. Thus,
+Green and Vacation loans are also further analysed to check what positive factors influence the
+recovery of loans without dues and how the LC can apply the same strategies to the debt
+consolidation loans to minimise the credit risk to secure investor interest.
+Charged Off
+9%
+Current
+58%
+Default, 0%
+Fully Paid
+30%
+In Grace Period, 1%
+Late (16-30 days),
+0%
+Late (31-120 days)
+2%
+Loan Portfolio by number of loan
+Charged Off Current Default
+Fully Paid In Grace Period Late (16-30 days)
+Late (31-120 days)
+Figure 4 - Charged off loans from loan value
+According to Serrano-Cinca et al. (2015), annual income is a substantial variable that showcases
+borrowers' credibility and ability to make satisfactory repayments. Accordingly, Figure 5 below
+explains how the borrower's annual income influences the loan repayment ability and reduces the
+opportunity for loans to be transferred to the non-performing section.
+Figure 5 - Loan repayments over the income of the borrowers
+[a bar chart was here]
+Figure 6 - Descriptive analysis of annual income of the borrower vs loan purpose
+Annual income vs loan purpose
+Debt consolidation Green loan Vacation
+Mean 78404.47431 91513.88889 70930.33523
+Standard Error 415.6423792 14960.94032 3267.682197
+Median 70000 75000 60000
+Mode 60000 40000 50000
+Standard Deviation 44099.24509 63473.89414 43350.70313
+Sample Variance 1944743418 4028935237 1879283462
+Kurtosis 15.62282676 3.03727424 7.838996018
+Skewness 2.648112814 1.732877094 2.444692619
+Range 638872 243800 270320
+Minimum 11128 31200 19680
+Maximum 650000 275000 290000
+Sum 882599167.3 1647250 12483739
+Count 11257 18 176
+62%
+17% 7% 6% 3% 2% 1% 1% 1% 1% 0% 0%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+Charged off Loans
+Loan values
+Charged off Loans from Loan value
+Debt consolidation Credit card refinancing Home improvement Other
+Major purchase Business Medical expenses Moving and relocation
+Car financing Home buying Vacation Green loan
+Figure 7 - Annual income of the borrower vs loan purpose
+Further, to analyse the income of the borrower and three selected loan categories, Debt
+consolidation, Green loan and Vacation loan, descriptive analysis was performed as per Figure 6
+above and claimed the statement of Serrano-Cinca et al. (2015), showcasing green loans which
+are paid satisfactory due to high income level of the borrowers compared to the Debt consolidation
+and vacation loans. However, this illustration does not clearly define why vacation loans are
+servicing better than debt consolidation loans. Therefore, it was encouraged to further analysis the
+behaviour using Anova single factor diagnostic analysis on these three categorical and numerical
+variables as Anova confirmed the statistical significance of the variables.
+Figure 8 - Diagnostic Anova single factor analysis - Annual income vs loan purpose
+Annual income vs loan purpose
+Anova: Single
+Factor
+SUMMARY
+Groups Count Sum Average Variance
+Debt consolidation 11257 882599167.3 78404.47431 1.94E+09
+Green loan 18 1647250 91513.88889 4.03E+09
+Vacation 176 12483739 70930.33523 1.88E+09
+ANOVA
+0
+20000
+40000
+60000
+80000
+100000
+Mean
+Average annual income
+loan purpose
+Mean annual income vs loan purpose
+Green loan Debt consolidation Vacation
+Source of Variation SS df MS F P-value F crit
+Between Groups 12823504540 2 6411752270 3.293419 0.037162 2.996516
+Within Groups 2.22874E+13 11448 1946837737
+Total 2.23002E+13 11450
+Figure 8 confirms that the relationship between the three selected loan purposes and the borrower’s
+annual income is statistically significant as the P value is below the alfa 0.05, which rejects the
+null hypothesis of “There is no relationship between annual income and loan purpose”. In contrast,
+Reddy and Gopalaraman (2016) emphasise that there is a lower probability of defaulting on loans
+if the income sources are verified, which influenced to perform the diagnostic chi-square analysis
+over two categorical variables of income verification and income slabs to analyse the relationship
+between variables. (Figure 9 illustrates the annual income verification status of the LC)
+Figure 9 - Income verification status
+The income verification status.
+ Verified – Income source documents were obtained for verification.
+ Source verified - Call the borrower's company to confirm that the employee works there.
+ Not verified – Some income levels are not targeted to verify, and none of the above verifications
+were obtained.
+Figure 10 - Chi-square analysis - annual income vs annual income verification
+Observed Values
+Annual Income Not Verified Source Verified Verified Grand Total
+1000-10999 989 1882 1008 3879
+11000-20999 1202 1810 1364 4376
+21000-30999 446 853 757 2056
+31000-40999 95 491 554 1140
+Grand Total 2732 5036 3683 11451
+Expected Values
+Annual Income Not Verified Source Verified Verified Grand Total
+1000-10999 925.4587372 1705.933456 1247.607807 3879
+11000-20999 1044.033884 1924.507554 1407.458563 4376
+21000-30999 490.5241464 904.2019038 661.2739499 2056
+31000-40999 271.9832329 501.3570867 366.6596804 1140
+Grand Total 2732 5036 3683 11451
+Chi-square p-value 8.7762E-69
+In reference to the Chi-square analysis as per Figure 10 above, P value is below the alfa value of
+0.05, emphasise the relationship between the annual income and the income verification is
+statistically significant, elaborate that for applicants where the annual income is high, there is a
+high tendency to verify the annual income and wise versa (Figure 11). Therefore, these finding
+relates to the previous analysis in Figure 7, illustrating a high tendency of payback loans by the
+borrowers with good income levels which is also verified by LC (Reddy & Gopalaraman, 2016).
+Figure 11 - Annual Income Vs Annual Income Verification
+Moreover, another diagnostic chi-square analysis was performed with two categorical variables,
+loan purpose and annual income, which is also confirmed that the two variables are statistically
+significant, referring to Figure 12 as the P value is below the alfa value of 0.05 and Figure 13 also
+provides the graphical presentation over the relationship. Therefore, it confirmed that the green
+loan borrowers' annual income is more verified than the Debt consolidation and Vacation loans,
+which influenced the payback loans. Besides, where the income is not verified or only sourced
+verified in most of the debt consolidation loans, which illustrated that borrowers of the debt
+consolidation loans had provided false income details and which influenced the defaulting of the
+loans of debt consolidation (Mian & Sufi, 2015). However, the factors affecting vacation loan
+defaulting risk are still questionable.
+25% 27% 22%
+8%
+49% 41%
+41%
+43%
+26% 31% 37%
+49%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+1000-10999 11000-20999 21000-30999 31000-40999
+income verification
+Annual income
+Annual Income Vs Annual Income Verification
+Not Verified Source Verified Verified
+Figure 12 - Chi-square analysis over Loan purpose vs income verification
+Observed values
+Loan Purpose Not Verified
+Source
+Verified Verified
+Grand
+Total
+Debt consolidation 2686 4951 3620 11257
+Green loan 2 4 12 18
+Vacation 44 81 51 176
+Grand Total 2732 5036 3683 11451
+Expected values
+Row Labels Not Verified
+Source
+Verified Verified
+Grand
+Total
+Debt consolidation 2685.715134 4950.681338 3620.6 11257
+Green loan 4.294472099 7.916164527 5.7894 18
+Vacation 41.99039385 77.4024976 56.607 176
+Grand Total 2732 5036 3683 11451
+Chi-square p-value 0.030860494
+Figure 13 - Purpose of Loan vs Annual income verification (proportion-wise)
+[A bar chart here]
+The debt-to-income (DTI) ratio is one of the crucial lending evaluators for unsecured digital loans,
+where lower DTI is preferred for quality lending, showcasing a positive correlation between loan
+defaults has been proven based on a research study on the Indonesian P2P lending market.
+(Pachlevi & Sopacua, Ivana Oktarina, 2019). Therefore, it influenced further descriptive analysis
+of how DTI impacts the United States P2P lending market. (Figure 14)
+Accordingly, through the descriptive analysis refer to Figure 14 identified that the average DTI on
+Debt consolidation loans is the highest compared to the green and vacation loans. Therefore,
+another diagnostic ANOVA test was performed on the categorical variable (three sub-categories)
+and numerical variables to find the relationship between the variables. (Figure 16)
+Figure 14 - Descriptive analysis of DTI ratio over three loan purposes
+Debt consolidation Green loan Vacation
+Mean 20.12542951 15.50111111 19.56107955
+Standard Error 0.074501094 1.835806334 0.649090515
+Median 20.19 14.51 19.97
+Mode 13.89 19.98 14.31
+Standard Deviation 7.904492351 7.788666645 8.611158772
+Sample Variance 62.48099932 60.6633281 74.1520554
+Kurtosis -0.728987566 -0.673114771 -0.704592787
+Skewness -0.100436431 0.514847144 -0.237749569
+Range 39.63 26.22 39.26
+Minimum 0.13 4.85 0.23
+Maximum 39.76 31.07 39.49
+Sum 226551.96 279.02 3442.75
+Count 11257 18 176
+Figure 15 - Graphical explanation of DTI ratio over three loan purposes
+20.13 19.56
+15.50
+0.00
+5.00
+10.00
+15.00
+20.00
+25.00
+DTI Ratio
+DTI Ratio vs Loan Purpose
+Debt consolidation Vacation Green loan
+Figure 16 - Diagnostic Anova single factor analysis - DIT ratio over loan purpose
+Anova: Single
+Factor
+SUMMARY
+Groups Count Sum Average Variance
+Debt
+consolidation 11257 226551.96 20.12542951 62.48099932
+Green loan 18 279.02 15.50111111 60.6633281
+Vacation 176 3442.75 19.56107955 74.1520554
+ANOVA
+Source of
+Variation SS df MS F P-value F crit
+Between Groups 438.0615597 2 219.0307798 3.495727437 0.03035906 2.996516
+Within Groups 717294.0146 11448 62.65670987
+Total 717732.0762 11450
+Figure 16 Anova analysis represents that the variables are statistically significant as the p-value is
+below the alfa value of 0.05. Referring to Figure 15, it is confirmed that there is a high tendency
+to default on debt consolidation loans compared with Green and vacation loans. However, no
+significant difference is recognised between debt consolidation and vacation loans. Besides,
+vacation loans are associated with emotional spending, and the borrower's psychological
+behaviour also influences payback loans (Chien & Devaney, 2001). Therefore, repayments for
+loans obtained for different purposes such as vacation, education and medical are also correlated
+with the psychological factor of the borrower, which this dataset may not answer as some of the
+human behavioural variables are limited in the dataset (Mchugh & Ranyard, 2012).
+Finally, correlation analysis (Figure 17) was done on some numerical variables, and a negative,
+weak correlation between the average account balance and the DIT ratio was found. This
+emphasises that borrowers who tend to default on loans may have lower credit balances in their
+savings accounts. Other variables analysed with DTI are not correlated for further interpretations.
+Figure 17 - Diagnostic Correlation analysis
+The average
+current
+balance of all
+accounts
+No. of
+mortgage
+loans
+Average
+FICO
+Score
+Employment
+experience
+Loan
+amount
+granted
+Amount
+funded by
+investors DTI Ratio
+The average
+current balance of
+all accounts 1
+No. of mortgage
+loans 0.488078306 1
+Average FICO
+Score 0.09917239 0.130071 1
+Employment
+experience 0.070870455 0.1647476 0.01390109 1
+Loan amount
+granted 0.237754186 0.2424563 0.09785487 0.04903015 1
+Amount funded by
+investors 0.237785785 0.2424955 0.09792162 0.04907188 0.9999952 1
+DTI Ratio -0.104748605 -0.008183 -0.0528239 0.03723544 0.042102 0.0420666 1
+Considering the credit risk involved with fintech P2P lending, LC should focus more on the
+repayment behaviours of the borrowers and consider more insightful evaluations to select the
+prospective borrowers (Serrano-Cinca et al., 2015). Considering only the borrower's income does
+not reflect the ability to repay, whereas considering the expenses along with the income provides
+a more meaningful evaluation for lending (Ahmed et al., 2021). In contrast, considering the DTI
+ratio for lending is more insightful and can build a healthy advances portfolio for LC (Pachlevi &
+Sopacua, Ivana Oktarina, 2019).
+Moreover, Reddy and Gopalaraman (2016) argued that income verification is essential for lending
+evaluations as there is a high tendency to forge income statements to obtain loans. Therefore,
+proper income verification provides a quality lending basket as it reduces the credit risk of falling
+loans to the past due section (Mian & Sufi, 2015 ). Further, promoting more Green and Vacation
+loans, may reduce the non-performing loan ratio of the LC. Customer account balances can also 
+be checked to find the customer can service the loan without default. As such, if the customer's
+monthly average account balance is above the proposed loan instalment, it indicates that the
+customer can service the loan without any financial obligation (Ahmed et al., 2021).
+4.2 Identifying factors that drive investor Interest in a quality lending portfolio
+LC influence P2P lending through Fintech applications where investors are the key stakeholders
+funding the organisation to make a profitable income. Therefore, investor interest is significant,
+and LC is primarily responsible for safeguarding investors by providing profitable investor
+opportunities (Lending Club, 2024).
+P2P lending is always influenced by the investor’s decision-making. Setiawan et al. (2020) argued
+that investor decision-making is not always logical as decision-making is more considered
+socialistic factors like the borrower’s first impression. Therefore, it is essential to investigate the
+factors that influence decision-making on P2P lending to protect investor interest and influence
+investors to make effective decision making on lending investments. Luo et al. (2011) argued that
+addressing investor problems is more curtail than losing investor interest, which can also
+negatively impact the business operation of LC.
+Moreover, data analytics will play a significant role in solving this problem statement as
+descriptive analysis can elaborate the historical data and diagnostic analysis can find the root cause
+of the occurrences while predictive analysis can predict the future trend of the occurrence of the
+negative implications and further illustrate future prospective investor opportunities. Therefore,
+the variables used for analysing the caption problem statement are listed below in Table 2
+Table 2 - Data variables used for analysis
+Variable Name Data Type Data
+Measurement
+type
+Description
+1 loan_status Categorical Nominal loan status (Current, Charged off, Default, etc.)
+2 annual_inc Numerical Ratio Annual income of the borrower
+3 loan_amnt Numerical Ratio Loan amount
+4 funded_amnt_inv Numerical Ratio Amount funded by investors
+5 annual_inc Numerical Ratio Annual income of the borrower
+6 FICO Score Categorical Ordinal Average FICO Score
+7 emp_length Categorical Ordinal Employment experience
+8 dti_joint Numerical Ratio Debt to income ratio of single/joint borrower's
+(Excluding mortgage loans & requested LC
+loan)
+9 term Numerical Ratio Loan Term (Months)
+10 int_rate Numerical Ratio Interest Rate on the loan
+11 Present loan installments
+(Ex. Mortgage Loans)
+Numerical Raio Current monthly loan instalments before the
+LC loan (excluding mortgage loans)
+12 avg_cur_bal Numerical Ratio Average current balance of all accounts
+13 tot_cur_bal Numerical Ratio Total balance of all accounts
+14 num_actv_bc_tl Numerical Raio No. of active bank cards
+15 num_bc_sats Numerical Raio Number of satisfactory bankcard accounts
+16 num_bc_tl Numerical Raio Number of bank cards
+17 tot_hi_cred_lim Numerical Ratio Total high credit/credit limit
+18 total_bal_ex_mort Numerical Ratio Total credit balance excluding mortgage
+19 total_bc_limit Numerical Ratio Total bankcard high credit/credit limit
+20 total_il_high_credit_limit Numerical Ratio Total instalment high credit/credit limit
+21 installment Numerical Ratio Monthly loan instalment
+With the intention of finding what factors influence investors to make lending investments,
+initially, descriptive analysis was performed to idenity the current trends of the business.
+Considering the term “quality lending portfolio”, only the fully paid loans selected from the loan
+basket which is identified as 30% of the total loan portfolio (Figure 18).
+Figure 18 - Loan portfolio of LC
+Charged Off
+9%
+Current
+58%
+Default
+0%
+Fully Paid
+30%
+In Grace Period
+1%
+Late (16-30 days)
+0%
+Late (31-120 days)
+2%
+Loan Portfolio of Lending Club
+Charged Off
+Current
+Default
+Fully Paid
+In Grace Period
+Late (16-30 days)
+Late (31-120 days)
+Therefore, further analysis was performed on fully paid loans to determine the investor's interest
+in the quality lending portfolio. Accordingly, the income level of the borrowers segmented and
+Figure 19 bar chat showcase how settled loans are distributed over the borrowers' income. It is
+found that borrowers who obtain loans and settled are more centric towards low-income earners,
+and 98% of the loans are obtained by borrowers who earn annual income below $ 260,000.
+Moreover, Figure 20 illustrates that 97% of the loan amount is also centric with the same set of
+borrowers who earn an annual income below $ 260,0000. Therefore, with the intention of filtering
+the dataset, focusing on accurate findings and avoiding deviations from mean values, further
+analysis was carried out based on the borrowers earning annual income below $ 260,000 (Ng &
+Winkler, 2014).
+Figure 19 - Number of loans over the annual income of the borrower
+9070
+10117
+3452
+1066
+345
+154
+91 50 26 22 7 12 6 4 6 1 2 1 2 2 1 1 1
+0
+2000
+4000
+6000
+8000
+10000
+12000
+NO. OF LOANS
+ANNUAL INCOME SLABS
+No. of Loans over Annual Income of the borrower
+Figure 20 - Loan value over the annual income of the borrower
+Diagnostic correlation analysis performed using 17 numerical variables to find the correlation with
+the “amount funded by investors” (Figure 21). The correlation analysis (Figure 22) identified that
+the annual income of the borrowers positively correlated with the amount funded by investors,
+which provides a clear understanding that annual income is one of the key variables of investors’
+interest in making investment decision-making (Serrano-Cinca et al., 2015). According to the
+business model, LC makes monthly capital and interest returns once the borrower makes the
+monthly instalment (Lending Club, 2024a). In context, correlation analysis showcases this
+relationship as a strong positive correlation with the monthly instalment and the amount funded
+by the investors. Moreover, Setiawan et al. (2020) claimed that investors are more keen on
+profitable investments and higher monthly returns. Even though the DTI ratio and borrowers'
+credit rating (FICO score) also positively correlated with the amount funded by the investors, the
+correlation is negligible and reflects that the investors are not paying more attention to the more
+critical factors on lending investments due to poor knowledge in the financial literacy. (Pachlevi
+& Sopacua, Ivana Oktarina, 2019).
+10000-60000
+23%
+60000-110000
+44%
+110000-160000
+21%
+160000-210000
+7%
+210000-260000
+2%
+260000-310000
+1%
+310000-360000
+1%
+360000-5660000
+1%
+Loan values over annual income of the borrower
+10000-60000 60000-110000 110000-160000 160000-210000
+210000-260000 260000-310000 310000-360000 360000-5660000
+Figure 21 - Correlation analysis over 17 numerical variables
+Amount
+funded by
+investors
+Annual
+income of
+the
+borrower/s
+Average
+FICO Score
+Employment
+experience DTI
+Loan Term
+(Months)
+Interest Rate
+on the loan
+Monthly
+loan
+instalment
+Average
+current
+balance of
+all accounts
+Total
+balance of
+all accounts
+No. of active
+bank cards
+Number of
+satisfactory
+bankcard
+accounts
+Number of
+bank cards
+Total high
+credit/credit
+limit
+Total credit
+balance
+excluding
+mortgage
+Total
+bankcard
+high
+credit/credit
+limit
+Total
+instalment
+high
+credit/credit
+limit
+Amount funded
+by investors 1
+Annual income of
+the borrower/s 0.530690441 1
+Average FICO
+Score 0.009933852 0.121738591 1
+Employment
+experience 0.085778647 0.106962749 0.065078942 1
+DTI 0.078022112
+-
+0.094132218
+-
+0.138983917 0.064886222 1
+Loan Term
+(Months) 0.39835281 0.169320244
+-
+0.023128009 0.057596154 0.061561765 1
+Interest Rate on
+the loan 0.154328066
+-
+0.111816123
+-
+0.498483741
+-
+0.036738254 0.192590208 0.339658097 1
+Monthly loan
+instalment 0.954843031 0.486718198
+-
+0.049400432 0.073103457 0.096147346 0.177563653 0.210890325 1
+Average current
+balance of all
+accounts 0.245712868 0.426250414 0.127126978 0.1034549
+-
+0.050655882 0.12474004
+-
+0.093158711 0.203881794 1
+Total balance of
+all accounts 0.340040609 0.564475546 0.099658552 0.133908504 0.096773885 0.164674797
+-
+0.077819869 0.293084764 0.822454316 1
+No. of active
+bank cards 0.212875658 0.200679188
+-
+0.278943178 0.127875493 0.216353242 0.065183711 0.12725309 0.230225426
+-
+0.105692305 0.13618971 1
+Number of
+satisfactory
+bankcard
+accounts 0.218204932 0.2223724
+-
+0.031874739 0.125106193 0.140376164 0.065173686 0.002387296 0.218539722
+-
+0.122960814 0.152552209 0.801111767 1
+Number of bank
+cards 0.234354974 0.265712585 0.094011588 0.175838707 0.122774706 0.066482714 -0.06756292 0.224853457
+-
+0.033043051 0.208043048 0.619418342 0.810447557 1
+Total high
+credit/credit limit 0.367403639 0.604450921 0.186243913 0.160227309 0.109086383 0.162256806
+-
+0.128831445 0.315244503 0.77908126 0.98122991 0.174819684 0.228999403 0.290421175 1
+Total credit
+balance excluding
+mortgage 0.305018309 0.457552783
+-
+0.048064307 0.026269606 0.374650263 0.138737448 0.030846387 0.283770369 0.297094124 0.530835204 0.184210395 0.175990738 0.200200839 0.522368765 1
+Total bankcard
+high credit/credit
+limit 0.356088471 0.456422249 0.283970729 0.132902582 0.05510644 0.083906976
+-
+0.188729799 0.322980019 0.128497383 0.345608065 0.476088044 0.647066693 0.640560573 0.466191997 0.296599282 1
+Total instalment
+high credit/credit
+limit 0.233051384 0.399878728 0.075133355 0.001602274 0.409242507 0.107494699
+-
+0.039165189 0.207398642 0.231246015 0.433073619 0.044565763 0.073022204 0.114316185 0.43803943 0.885961199 0.174975125 1
+Figure 22 - Correlation analysis of 16 numerical variables over “Amount funded by investors.”
+[A table here]
+The predictive analysis focuses on independent and dependent numerical data variables to identify
+unexpected business opportunities and threats in business environments (Indriasari et al., 2019).
+Therefore, Multi Lenier Regression analysis was performed considering “Amount funded by
+investors as the dependent (Y) variable and considered all other 16 numerical variables as
+independent (X) variables (Figure 23).
+Figure 23 - Predictive analysis - Multi-Lenier Regression analysis
+[A table here]
+Multiple R represents the correlation of the variables, which emphasises that the dependent
+variable is highly correlated with the independent variables. Moreover, R square illustrates that
+98% of the variation in investor interest for funding for loans is explained by the 16 variables
+listed in the regression list in Figure 23. Significance f is zero, below the alfa value of 0.05,
+illustrating that the variables are statistically significant with the investor funding amount. Apart
+from the three variables of DTI, the total credit balance, excluding mortgage and total instalment
+of a high credit/credit limit, are the only independent variables that are not statistically significant
+with the dependent variable. Therefore, this interpretation confirms that investors' decisions to
+invest in P2P lending are influenced by many borrower-related details. However, some of these
+curtail factors have not yet been identified as crucial by investors.
+Figure 24 - RapidMiner Predictive clustering analysis
+Figure 25 - RapidMiner Centroid Table
+RepidMionr clustering is more suitable for predictive analysis, which uses machine learning
+algorithms to categorise data according to the similarities and provide meaningful interpretation,
+making linkages between variables (RapidMiner Documentation, 2024). Accordingly,
+RapidMinor clustering analysis also interprets the investor behaviour on investor decisions. As
+Setiawan et al. (2020) believed, cluster 4 interprets that when wealthy earners take loans with large
+instalment payments, which increase investors interest for lending investments. Moreover, cluster
+5 explains investors' interest in investing in long-term loans, which have high rates. Although the
+rest of the clusters are not interpreted as only clusters 4 and 5 are related to the data problem.
+In reference to Setiawan et al. (2020), investor decision-making is mainly based on the return on
+investment and the risk involved in the investment opportunity. Moreover, investment decisionmaking is further influenced mainly by three factors: information provided by the lending
+platform, the first impression of the borrower and social and emotional influences (Setiawan et
+al., 2020). Besides, more investors are not literate about financial evaluations, and their investment
+decisions are mainly based on basic evaluation methodologies such as income, savings balance, 
+employment experience and satisfactory bank card details. However, significantly less
+consideration is given to the borrower’s DTI ratio and FICO credit score (Lending Club, 2024a).
+Therefore, LC is primarily responsible for filtering prospective borrowers and providing profitable
+investment opportunities to investors (Luo et al., 2011). Thus, it is recommended that LC share
+the primary knowledge with investors to identify prospective borrowers and make profitable
+investments.
+5.0 Conclusion
+Data analytics is a novel strategy that organisations use to be competitive in demanding markets,
+providing clear and accurate findings to identify and interpret real problems in a business
+environment. Moreover, it opens new avenues for finding solutions to business issues.
+Consequently, two data problems of LC are discussed in this report, namely identifying the factors
+that influence the credit risk in LC and identifying factors that drive investor interest. Therefore,
+many of the analysis techniques, such as descriptive, diagnostic, and predictive, were used to
+understand the data problems of LC, and it was found that the findings are valid and need to be
+actionable to improve revenue and safeguard investor interest.
+Moreover, LC lending evaluation must be improved to maintain a healthy loan portfolio. Thus,
+the DTI ratio and income verification are proven to be evaluated for future lending eveluations,
+whereas LC can do more marketing activities to promote Green and vacation loans, which enhance
+the healthy loan portfolio and reduce the credit risk to the organisation. Considering the investors
+as the primary stakeholders, it is important to provide them with a prospective lending database in
+which to invest, expecting reasonable profits upon investment.
+Accordingly, problems have been addressed by using data analytics, and LC has the opportunity
+to strengthen its strategies to penetrate new markets and enhance revenue with the new product
+development, which will be profitable considering risk factors involved with the current lending
+opportunities. 

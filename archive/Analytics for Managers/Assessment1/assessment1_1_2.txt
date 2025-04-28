@@ -1,0 +1,76 @@
+
+3. Impact of Data Analytics in the Education Industry
+	This section aims to identify three critical business challenges related to student performance and its effects across different contexts through the application of data analytics. By utilizing data-driven insights, educational institutions can confirm these issues and make well-informed, strategic decisions that positively impact both students and the institution.
+
+3.2 Early identification of At-Risk Students
+	At the university level, students often abandon certain subjects they were enrolled in for the academic year. This behavior typically begins with skipping or missing lectures, which may stem from neglect or carelessness, or from struggling to understand the subject. As a result, they fall behind on the class schedule set by the professor and lose track of the course material. When students return after a period of absence, they often find themselves discouraged by their lack of understanding, which leads them to skip lectures and choose to study independently. However, some of these students may not show up for their final exams, while those who do take the exams often have high failure rates. The problem intensifies when this pattern occurs repeatedly, potentially signaling the beginning of a student’s decision to drop out of college. This is a significant concern for universities, particularly in the early years of study. College dropouts have become a widely discussed issue, with numerous analyses aimed at identifying the causes, whether they are social, family-related, organizational, or personal (M. Gascueña & Guadalupe García, 2012). Academic failure increased the likelihood of course attrition by 4.2 times. Students who failed but persisted in their studies often cited a combination of personal, situational, and institutional factors as the cause of their academic challenges. The compounded impact of academic failure on already vulnerable students contributed to the development of strong negative emotions (Ajjawi et al., 2020).
+In the current educational environment, accurately forecasting academic performance remains a significant challenge. Conventional methods typically depend on limited data sources and do not fully account for the complex factors that affect student success (Bagade, 2024).
+	Using predictive and prescriptive analytics would be the most effective approach to thoroughly analyze variables such as 'grades,' 'ethnicity,' 'study time,' and other nominal, ordinal, interval, and ratio data. This analysis would provide various information, from determining which students might need school help to get back on their feet, and what these students could do to improve their grades. By developing models to predict study outcomes early and evaluating them using cross-validation and misclassification errors, we can determine which model achieves the best classification accuracy. This allows us to present predictive results in a way that is easily understandable for students, teachers, and academic staff (Kovačić & Green, 2010). Early identification of at-risk students in a course is crucial. Given the limitations of current academic early warning systems, developing highly accurate prediction models is essential to effectively identify these students at risk (Marbouti et al., 2016).
+
+3.4 Improve Student Retention Strategies 
+	Student retention is a major concern for higher education institutions, with around 30% of students in OECD member countries withdrawing from higher education before earning their degrees (Mah, 2016). Early dropping of subjects, especially during the first year of study, can be attributed to several factors, such as difficulties in adjusting to university life, boredom, lack of interest, poor preparation, limited academic and social involvement, challenges in balancing study demands with personal responsibilities, and dissatisfaction with the course or institution. (Coates, 2014; Hobsons, 2014, as cited in Seidel & Kutieleh, 2017). This causes students to withdraw from their classes or studies.
+	Consequently, higher education institutions are increasingly prioritizing the collection and analysis of dynamic student data through learning analytics. This method allows them to gain a better understanding of students' experiences and enhance their ability to predict and improve learning outcomes (Ferguson, 2012; Fiaidhi, 2014; Ifenthaler, 2015; Ifenthaler et al., 2014; Long and Siemens, 2011, as cited in Mah, 2016). Moreover, digital badges are an innovative technology in education that serve to recognize learners' achievements, knowledge, skills, and competencies in both formal and informal learning environments (EDUCAUSE, 2012; Gibson et al., 2013; Ifenthaler et al., 2016, as cited in Mah, 2016). Student retention primarily concentrates on the student, which is, of course, understandable. Research in this area often seeks to test hypotheses by either investigating or clarifying the student's viewpoint. There are examples (e.g., Thomas, 2002) of studies that deviate from this approach by focusing on the perspective of the institution and examining how it impacts students. In this context, utilizing diagnostic, predictive, and prescriptive analytics proves to be an effective strategy. This approach helps identify the likely causes of student issues, recognize potential student attrition, and suggest methods to mitigate it. By examining various student data, including background (socio-economic factors), personal characteristics (age, employment history, family circumstances, etc.), prior educational experience (such as the institution attended), and living arrangements (on or off-campus), insights can be gained. Additionally, factors like the student's level of engagement, both academically and socially, are also considered in assessing the risk of student retention. (McCarthy, 2019).
+
+
+References
+Ajjawi, R., Dracup, M., Zacharias, N., Bennett, S., & Boud, D. (2020). Persisting students’ explanations of and emotional responses to academic failure. Higher Education Research & Development, 39(2), 185–199. https://doi.org/10.1080/07294360.2019.1664999
+Bagade, P. (2024). Enhanced Academic Performance Forecasting through Multisource Behavioral Data Analysis. International Research Journal of Innovations in Engineering and Technology, 8(8), 167–171. Publicly Available Content Database. https://doi.org/10.47001/IRJIET/2024.808018
+Chen, M. (2024). What Is Data Analytics? An Overview of Methods and Practical Uses. Oracle. https://www.oracle.com/nz/business-analytics/data-analytics/
+Hillier, W. (2023). What Is Ordinal Data? Careerfoundry. https://careerfoundry.com/en/blog/data-analytics/what-is-ordinal-data/
+Jansen, D. (2020). Nominal, Ordinal, Interval & Ratio Data Levels Of Measurement: Explained Simply (With Examples). Gradcoach. https://gradcoach.com/nominal-ordinal-interval-ratio/
+Kovačić, Z. J., & Green, J. S. (2010). Predictive working tool for early identification of ‘at risk’ students. Ako Aotearoa. https://ako.ac.nz/assets/Knowledge-centre/RHPF-c11-tool-for-early-identification-of-at-risk-students/RESEARCH-REPORT-Predictive-Working-Tool-for-Early-Identification-of-At-Risk-Students.pdf
+M. Gascueña, C., & Guadalupe García, R. (2012). STUDY ABOUT THE PROBLEM OF DROPPING OF SUBJECTS BY STUDENTS DURING AN ACADEMIC YEAR AT THE UNIVERSITY. 2588–2597.
+Mah, D.-K. (2016). Learning Analytics and Digital Badges: Potential Impact on Student Retention in Higher Education. Technology, Knowledge and Learning, 21(3), 285–305. https://doi.org/10.1007/s10758-016-9286-8
+Marbouti, F., Diefes-Dux, H. A., & Madhavan, K. (2016). Models for early prediction of at-risk students in a course using standards-based grading. Computers & Education, 103, 1–15. https://doi.org/10.1016/j.compedu.2016.09.005
+McCarthy, J. (2019). A data driven approach to student retention: The impact on leadership behaviour [PhD Thesis, University College Cork]. https://doi.org/10.1007/s10758-016-9286-8
+Namoun, A., & Alshanqiti, A. (2021). Predicting Student Performance Using Data Mining and Learning Analytics Techniques: A Systematic Literature Review. Applied Sciences, 11(1). https://doi.org/10.3390/app11010237
+Nguyen, A., Gardner, L., & Sheridan, D. (2020). Data analytics in higher education: An integrated view. International Journal of Computer Science Issues (IJCSI), 31(1), 61–71.
+Seidel, E., & Kutieleh, S. (2017). Using predictive analytics to target and improve first year student attrition. Australian Journal of Education, 61(2), 200–2018.
+Stevens, E. (2022). What is Nominal Data? Definition, Characteristics and Examples. Careerfoundry. https://careerfoundry.com/en/blog/data-analytics/what-is-nominal-data/
+Yasar, K. (2024). Data analytics (DA). Techtarget. https://www.techtarget.com/searchdatamanagement/definition/data-analytics
+
+
+
+
+
+
+
+######################################################################
+######################################################################
+######################################################################
+######################################################################
+######################################################################
+######################################################################
+######################################################################
+######################################################################
+
+
+2024 03 03 
+
+
+
+3.3 Enhancing Teacher Effectiveness
+
+Teaching effectiveness plays a crucial role in shaping student success and overall institutional performance. An effective teacher not only delivers content but also fosters critical thinking, engagement, and motivation among students. However, measuring and improving teacher effectiveness remains a significant challenge for educational institutions.
+
+In contemporary education, the evaluation of teaching effectiveness is often based on student feedback, peer reviews, and administrative assessments. While these methods provide some insights, they do not comprehensively capture the dynamic nature of teaching and learning. Furthermore, they are often subjective and prone to biases (Darling-Hammond, 2015). To address these limitations, data analytics can be leveraged to enhance teacher effectiveness in multiple ways.
+
+One approach is the use of learning analytics to assess classroom interactions, student engagement levels, and academic performance. Advanced analytics tools can identify patterns in student participation and comprehension, allowing educators to adjust their teaching strategies accordingly (Siemens & Long, 2017). By examining metrics such as attendance, assignment completion rates, and exam performance, institutions can provide targeted support and professional development opportunities for teachers.
+
+Additionally, predictive analytics can help identify teaching methods that yield the highest student success rates. By analyzing historical data, institutions can determine which instructional approaches correlate with improved student learning outcomes. This insight enables educators to refine their teaching styles and adopt evidence-based practices (Picciano, 2018).
+
+Moreover, sentiment analysis of student feedback can offer deeper insights into teacher effectiveness. Natural Language Processing (NLP) techniques can analyze qualitative student comments to identify recurring themes related to teaching strengths and areas for improvement. This method minimizes the biases associated with traditional surveys and provides actionable insights (Mikalef et al., 2020).
+
+Institutions can also leverage real-time dashboards that integrate multiple data sources to monitor teacher performance. These dashboards provide administrators with a comprehensive view of teacher effectiveness, enabling data-driven decision-making for professional development initiatives and resource allocation (Daniel, 2019).
+
+Furthermore, adaptive learning technologies empower educators to personalize their teaching based on student needs. By utilizing AI-driven recommendations, teachers can identify struggling students and tailor instructional materials to bridge learning gaps effectively (Johnson et al., 2021).
+
+In conclusion, enhancing teacher effectiveness through data analytics is a forward-thinking approach that benefits both educators and students. By leveraging learning analytics, predictive modeling, sentiment analysis, and adaptive learning tools, institutions can foster a culture of continuous improvement in teaching practices. This, in turn, leads to higher student engagement, improved academic performance, and overall institutional success.
+
+References
+Daniel, B. K. (2019). Big Data and Learning Analytics in Higher Education: Current Theory and Practice. Springer.
+Darling-Hammond, L. (2015). The Flat World and Education: How America's Commitment to Equity Will Determine Our Future. Teachers College Press.
+Johnson, M., Adams Becker, S., Estrada, V., & Freeman, A. (2021). NMC Horizon Report: 2021 Higher Education Edition. The New Media Consortium.
+Mikalef, P., Pappas, I. O., Krogstie, J., & Giannakos, M. (2020). Big Data Analytics Capabilities: A Systematic Literature Review and Research Agenda. Information Systems and e-Business Management, 18(3), 189–226.
+Picciano, A. G. (2018). Theories and Frameworks for Online Education: Seeking an Integrated Model. Online Learning, 22(3), 166–190.
+Siemens, G., & Long, P. (2017). Penetrating the Fog: Analytics in Learning and Education. EDUCAUSE Review, 46(5), 30–40.

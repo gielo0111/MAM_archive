@@ -1,0 +1,171 @@
+Auto Scheduled	OPAIC MedVR	97 days	Wed 12/03/25	Thu 24/07/25			No	1	$113,704.00
+Auto Scheduled	Sprint 0	10	Wed 12/03/25	Tue 25/03/25			No	1.1	$14,448.00
+Auto Scheduled	Define project Scope, goals, and success criteria	3	Wed 12/03/25	Fri 14/03/25		Engineering Manager	No	1.1.1	$1,272.00
+Auto Scheduled	Feasibility Study	3	Wed 12/03/25	Fri 14/03/25		Senior Product Owner	No	1.1.2	$1,248.00
+Auto Scheduled	Hiring employees	5	Mon 17/03/25	Fri 21/03/25	3	HR Manager	No	1.1.3	$2,320.00
+Auto Scheduled	Define Version Control System	1	Mon 17/03/25	Mon 17/03/25	3	Senior Platforms Engineer	No	1.1.4	$448.00
+Auto Scheduled	Define Cloud Storage	5	Tue 18/03/25	Mon 24/03/25	3,6	Senior Platforms Engineer	No	1.1.5	$2,240.00
+Auto Scheduled	Setup development and testing environments for VR	5	Mon 17/03/25	Fri 21/03/25	3	Senior Platforms Engineer	No	1.1.6	$2,240.00
+Auto Scheduled	Identify VR hardware and software (headsets, controllers)	5	Mon 17/03/25	Fri 21/03/25	3	Senior VR Software Engineer 1	No	1.1.7	$2,000.00
+Auto Scheduled	Identify Project Management tools (Jira)	3	Mon 17/03/25	Wed 19/03/25	3	Senior Product Owner	No	1.1.8	$1,248.00
+Auto Scheduled	Conduct research on culturally responsive healthcare training	3	Mon 17/03/25	Wed 19/03/25	3	Cultural Consultant	No	1.1.9	$1,008.00
+Auto Scheduled	Sprint Review and Retrospective	1	Tue 25/03/25	Tue 25/03/25	3,5,6,7,8,9,10,11	Engineering Manager	No	1.1.10	$424.00
+Auto Scheduled	Sprint 1	9	Wed 26/03/25	Mon 7/04/25			No	1.2	$8,240.00
+Auto Scheduled	Design wireframes and UI/UX flow for the platform	3	Wed 26/03/25	Fri 28/03/25	3,12	Senior VR Designer/Content Developer	No	1.2.1	$888.00
+Auto Scheduled	Emergency Room - Design immersive 3d room	3	Wed 26/03/25	Fri 28/03/25	3,12	Senior VR Software Engineer 1	No	1.2.2	$1,200.00
+Auto Scheduled	Emergency Room - Design VR doctor and patient models	3	Wed 26/03/25	Fri 28/03/25	3,12	Senior VR Software Engineer 2	No	1.2.3	$1,200.00
+Auto Scheduled	Emergency Room - Design interactive medical tools	3	Wed 26/03/25	Fri 28/03/25	3,12	Intermediate Full stack software engineer 1	No	1.2.4	$1,008.00
+Auto Scheduled	Emergency Room - Design Role-playing mechanics (medical scenarios)	3	Wed 26/03/25	Fri 28/03/25	3,12	Intermediate Full stack software engineer 2	No	1.2.5	$1,008.00
+Auto Scheduled	Design culturally inclusive assets	3	Wed 26/03/25	Fri 28/03/25	3,12	Cultural Consultant	No	1.2.6	$1,008.00
+Auto Scheduled	Gather Feedback from lecturer and students.	2	Mon 31/03/25	Tue 1/04/25	14,15,16,17,18,19	Senior Product Owner	No	1.2.7	$832.00
+Auto Scheduled	Design risk Management strategy (tech malfunctions, user adoption challenges)	3	Wed 2/04/25	Fri 4/04/25	20	Risk Management Specialist	No	1.2.8	$672.00
+Auto Scheduled	Sprint Review and Retrospective	1	Mon 7/04/25	Mon 7/04/25	14,15,16,17,18,19,20,21	Engineering Manager	No	1.2.9	$424.00
+Auto Scheduled	Sprint 2	14	Mon 7/04/25	Thu 24/04/25			No	1.3	$11,656.00
+Auto Scheduled	Develop UI/UX flows	3	Mon 7/04/25	Wed 9/04/25	14,19,20,21	Senior VR Software Engineer 1	No	1.3.1	$1,200.00
+Auto Scheduled	Testing UI/UX flows	2	Thu 10/04/25	Fri 11/04/25	24	Senior QA Engineer	No	1.3.2	$592.00
+Auto Scheduled	Emergency Room - Develop immersive Room	3	Tue 8/04/25	Thu 10/04/25	15,22	Senior VR Software Engineer 2	No	1.3.3	$1,200.00
+Auto Scheduled	Emergency Room - Develop VR doctor and patient models	3	Tue 8/04/25	Thu 10/04/25	16,22	Intermediate Full stack software engineer 1	No	1.3.4	$1,008.00
+Auto Scheduled	Emergency Room - Develop interactive medical tools	3	Tue 8/04/25	Thu 10/04/25	17,22	Intermediate Full stack software engineer 2	No	1.3.5	$1,008.00
+Auto Scheduled	Emergency Room - Develop role-playing mechanics	3	Tue 8/04/25	Thu 10/04/25	18,22	Associate full stack software Engineer 1	No	1.3.6	$768.00
+Auto Scheduled	Testing of Emergency Room	2	Fri 11/04/25	Mon 14/04/25	26,27,28,29	Senior QA Engineer	No	1.3.7	$592.00
+Auto Scheduled	Gather feedback from lecturer and students	2	Tue 15/04/25	Wed 16/04/25	30	Senior Product Owner	No	1.3.8	$832.00
+Auto Scheduled	Completion of UI/UX flows	0	Wed 16/04/25	Wed 16/04/25	25,31	Senior QA Engineer	Yes	1.3.9	$0.00
+Auto Scheduled	Completion of Emergency Room	0	Wed 16/04/25	Wed 16/04/25	30,31	Senior QA Engineer	Yes	1.3.10	$0.00
+Auto Scheduled	Design lecturer dashboard to review student performance	3	Thu 17/04/25	Mon 21/04/25	22,32,33	Senior VR Designer/Content Developer	No	1.3.11	$888.00
+Auto Scheduled	Design LMS integration requirements	3	Thu 17/04/25	Mon 21/04/25	22,32,33	Senior VR Software Engineer 1	No	1.3.12	$1,200.00
+Auto Scheduled	Design multi-user capabilities	3	Thu 17/04/25	Mon 21/04/25	22,32,33	Senior VR Software Engineer 1	No	1.3.13	$1,200.00
+Auto Scheduled	Gather feedback from lecturer and students	2	Tue 22/04/25	Wed 23/04/25	34,35,36	Senior Product Owner	No	1.3.14	$832.00
+Auto Scheduled	Sprint review and Retrospective	1	Thu 24/04/25	Thu 24/04/25	24,25,26,27,28,29,30,31,32,33,34,35,36,37	Intermediate Full stack software engineer 1	No	1.3.15	$336.00
+Auto Scheduled	Sprint 3	9	Fri 25/04/25	Wed 7/05/25			No	1.4	$14,048.00
+Auto Scheduled	Deploy to test Environment	3	Fri 25/04/25	Tue 29/04/25	32,33,38	Senior Platforms Engineer	No	1.4.1	$1,344.00
+Auto Scheduled	Completion of Deployment to Test Environment	0	Tue 29/04/25	Tue 29/04/25	40	Senior Platforms Engineer	Yes	1.4.2	$0.00
+Auto Scheduled	Develop lecturer dashboard	3	Fri 25/04/25	Tue 29/04/25	37,38	Senior VR Software Engineer 2	No	1.4.3	$1,200.00
+Auto Scheduled	Testing of lecturer dashboard	2	Wed 30/04/25	Thu 1/05/25	42	Fullstack software engineer Intern 1	No	1.4.4	$400.00
+Auto Scheduled	Completion lecturer dashboard	0	Thu 1/05/25	Thu 1/05/25	43	Senior QA Engineer	Yes	1.4.5	$0.00
+Auto Scheduled	Develop LMS integration	3	Fri 25/04/25	Tue 29/04/25	35,38	Senior VR Software Engineer 2	No	1.4.6	$1,200.00
+Auto Scheduled	Testing LMS integration	2	Wed 30/04/25	Thu 1/05/25	45	Senior QA Engineer	No	1.4.7	$592.00
+Auto Scheduled	Completion of LMS integration	0	Thu 1/05/25	Thu 1/05/25	46	Senior QA Engineer,Risk Management Specialist	Yes	1.4.8	$0.00
+Auto Scheduled	Develop multi-user capabilities/collaboration (multiple users in the same VR space)	3	Fri 25/04/25	Tue 29/04/25	36,38	Senior VR Software Engineer 2	No	1.4.9	$1,200.00
+Auto Scheduled	Testing of multi-user capabilities	2	Wed 30/04/25	Thu 1/05/25	48	Senior QA Engineer	No	1.4.10	$592.00
+Auto Scheduled	Completion of multi-user capabilities	0	Thu 1/05/25	Thu 1/05/25	49	Senior QA Engineer	Yes	1.4.11	$0.00
+Auto Scheduled	Design risk management strategy (tech malfunctions, user adoption challenges)	3	Fri 2/05/25	Tue 6/05/25	47,50	Risk Management Specialist	No	1.4.12	$672.00
+Auto Scheduled	Preparation for preproduction requirements	3	Fri 2/05/25	Tue 6/05/25	32,33,47,50	Senior Platforms Engineer	No	1.4.13	$1,344.00
+Auto Scheduled	Intensive Care Unit - Design Immersive 3d room	3	Fri 25/04/25	Tue 29/04/25	38	Intermediate Full stack software engineer 1	No	1.4.14	$1,008.00
+Auto Scheduled	Intensive Care Unit - Design VR doctor and patient models	3	Fri 25/04/25	Tue 29/04/25	38	Intermediate Full stack software engineer 2	No	1.4.15	$1,008.00
+Auto Scheduled	Intensive Care Unit - Design interactive medical tools	3	Fri 25/04/25	Tue 29/04/25	38	Fullstack software engineer Intern 1	No	1.4.16	$600.00
+Auto Scheduled	Intensive Care Unit - Design role-playing mechanics	3	Fri 25/04/25	Tue 29/04/25	38	Fullstack software engineer Intern 2	No	1.4.17	$600.00
+Auto Scheduled	Gather feedback from lecturers and students	2	Wed 30/04/25	Thu 1/05/25	53,54,55,56	Senior Product Owner	No	1.4.18	$832.00
+Auto Scheduled	Performance testing of Test Environment	3	Wed 30/04/25	Fri 2/05/25	41	Senior VR Software Engineer 2	No	1.4.19	$1,200.00
+Auto Scheduled	Sprint Review and Retrospective	1	Wed 7/05/25	Wed 7/05/25	40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58	Associate full stack software Engineer 1	No	1.4.20	$256.00
+Auto Scheduled	Sprint 4	13	Thu 8/05/25	Mon 26/05/25			No	1.5	$15,528.00
+Auto Scheduled	Deploy to Test Environment	1	Thu 8/05/25	Thu 8/05/25	59	Intermediate Full stack software engineer 1	No	1.5.1	$336.00
+Auto Scheduled	Develop Risk management actions	3	Thu 8/05/25	Mon 12/05/25	51,59	Senior VR Software Engineer 2	No	1.5.2	$1,200.00
+Auto Scheduled	Integration Testing	2	Tue 13/05/25	Wed 14/05/25	62,52	Intermediate Full stack software engineer 2	No	1.5.3	$672.00
+Auto Scheduled	Completion of Pre-prod requirements	3	Thu 15/05/25	Mon 19/05/25	63,52	Senior Platforms Engineer	No	1.5.4	$1,344.00
+Auto Scheduled	Deploy to staging environment	2	Tue 20/05/25	Wed 21/05/25	64	Senior Platforms Engineer	No	1.5.5	$896.00
+Auto Scheduled	End to End testing of Staging Environment	2	Thu 22/05/25	Fri 23/05/25	65	Senior QA Engineer	No	1.5.6	$592.00
+Auto Scheduled	Creation of User Training Manual	2	Thu 8/05/25	Fri 9/05/25	59	Trainer	No	1.5.7	$608.00
+Auto Scheduled	User Training for Students and Lecturers	1	Mon 12/05/25	Mon 12/05/25	59,67	Trainer	No	1.5.8	$304.00
+Auto Scheduled	Completion of User Training and lecture to Students and Lecturers	0	Mon 12/05/25	Mon 12/05/25	68	Trainer	Yes	1.5.9	$0.00
+Auto Scheduled	Deploy to Production	0	Fri 23/05/25	Fri 23/05/25	66	Senior Platforms Engineer	Yes	1.5.10	$0.00
+Auto Scheduled	Intensive Care Unit - Develop immersive hospital room	3	Thu 8/05/25	Mon 12/05/25	53,59	Fullstack software engineer Intern 5	No	1.5.11	$600.00
+Auto Scheduled	Intensive Care Unit - Develop VR doctor and patient models	3	Thu 8/05/25	Mon 12/05/25	54,59	Fullstack software engineer Intern 4	No	1.5.12	$600.00
+Auto Scheduled	Intensive Care Unit - Develop interactive medical tools	3	Thu 8/05/25	Mon 12/05/25	55,59	Fullstack software engineer Intern 3	No	1.5.13	$600.00
+Auto Scheduled	Intensive Care Unit - Develop role-playing mechanics	3	Thu 8/05/25	Mon 12/05/25	56,59	Intermediate Full stack software engineer 2	No	1.5.14	$1,008.00
+Auto Scheduled	Testing Intensive Care Unit	2	Tue 13/05/25	Wed 14/05/25	71,72,73,74	Fullstack software engineer Intern 1	No	1.5.15	$400.00
+Auto Scheduled	Completion of Intensive Care Unit	0	Wed 14/05/25	Wed 14/05/25	75	Senior QA Engineer	Yes	1.5.16	$0.00
+Auto Scheduled	Medical Ward - Design Immersive 3d room	3	Thu 8/05/25	Mon 12/05/25	59	Associate full stack software Engineer 1	No	1.5.17	$768.00
+Auto Scheduled	Medical Ward - Design VR Doctor and patient models	3	Thu 8/05/25	Mon 12/05/25	59	Associate full stack software Engineer 2	No	1.5.18	$768.00
+Auto Scheduled	Medical Ward - Design interactive medical tools	3	Thu 8/05/25	Mon 12/05/25	59	Fullstack software engineer Intern 1	No	1.5.19	$600.00
+Auto Scheduled	Medical Ward - Design role-playing mechanics	3	Thu 8/05/25	Mon 12/05/25	59	Fullstack software engineer Intern 2	No	1.5.20	$600.00
+Auto Scheduled	Gather Feedback from lecturer and students	2	Tue 13/05/25	Wed 14/05/25	77,78,79,80	Senior Product Owner	No	1.5.21	$832.00
+Auto Scheduled	Plan performance improvements	3	Thu 8/05/25	Mon 12/05/25	59	Senior Platforms Engineer,Senior VR Software Engineer 1	No	1.5.22	$2,544.00
+Auto Scheduled	Sprint Review and Retrospective	1	Mon 26/05/25	Mon 26/05/25	61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82	Associate full stack software Engineer 2	No	1.5.23	$256.00
+Auto Scheduled	Sprint 5	6	Tue 27/05/25	Tue 3/06/25			No	1.6	$8,672.00
+Auto Scheduled	Deploy to Test Environment	1	Tue 27/05/25	Tue 27/05/25	83	Associate full stack software Engineer 1	No	1.6.1	$256.00
+Auto Scheduled	Develop performance improvements	3	Tue 27/05/25	Thu 29/05/25	82,83	Intermediate Full stack software engineer 1	No	1.6.2	$1,008.00
+Auto Scheduled	Medical Ward - Develop Immersive 3d room	3	Tue 27/05/25	Thu 29/05/25	77,83	Associate full stack software Engineer 2	No	1.6.3	$768.00
+Auto Scheduled	Medical Ward - Develop VR Doctor and patient models	3	Tue 27/05/25	Thu 29/05/25	78,83	Fullstack software engineer Intern 1	No	1.6.4	$600.00
+Auto Scheduled	Medical Ward - Develop interactive medical tools	3	Tue 27/05/25	Thu 29/05/25	79,83	Fullstack software engineer Intern 2	No	1.6.5	$600.00
+Auto Scheduled	Medical Ward - Develop role-playing mechanics	3	Tue 27/05/25	Thu 29/05/25	80,83	Fullstack software engineer Intern 3	No	1.6.6	$600.00
+Auto Scheduled	Testing of Medical Ward	2	Fri 30/05/25	Mon 2/06/25	87,88,89,90	Fullstack software engineer Intern 4	No	1.6.7	$400.00
+Auto Scheduled	Completion of Medical Ward	0	Mon 2/06/25	Mon 2/06/25	91	Senior QA Engineer	Yes	1.6.8	$0.00
+Auto Scheduled	Operating Room - Design Immersive 3d room	3	Tue 27/05/25	Thu 29/05/25	83	Fullstack software engineer Intern 5	No	1.6.9	$600.00
+Auto Scheduled	Operating Room - Design VR Doctor and patient models	3	Tue 27/05/25	Thu 29/05/25	83	Fullstack software engineer Intern 4	No	1.6.10	$600.00
+Auto Scheduled	Operating Room - Design interactive medical tools	3	Tue 27/05/25	Thu 29/05/25	83	Intermediate Full stack software engineer 2	No	1.6.11	$1,008.00
+Auto Scheduled	Operating Room - Design role-playing mechanics	3	Tue 27/05/25	Thu 29/05/25	83	Senior VR Software Engineer 1	No	1.6.12	$1,200.00
+Auto Scheduled	Gather Feedback from lecturer and students	2	Fri 30/05/25	Mon 2/06/25	93,94,95,96	Senior Product Owner	No	1.6.13	$832.00
+Auto Scheduled	Sprint Review and Retrospective	1	Tue 3/06/25	Tue 3/06/25	85,86,87,88,89,90,91,92,93,94,95,96,97	Fullstack software engineer Intern 1	No	1.6.14	$200.00
+Auto Scheduled	Sprint 6	6	Wed 4/06/25	Wed 11/06/25			No	1.7	$8,728.00
+Auto Scheduled	Deploy to Test Environment	1	Wed 4/06/25	Wed 4/06/25	98	Fullstack software engineer Intern 2	No	1.7.1	$200.00
+Auto Scheduled	Operating Room - Develop Immersive 3d room	3	Wed 4/06/25	Fri 6/06/25	93,98	Fullstack software engineer Intern 3	No	1.7.2	$600.00
+Auto Scheduled	Operating Room - Develop VR Doctor and patient models	3	Wed 4/06/25	Fri 6/06/25	94,98	Fullstack software engineer Intern 4	No	1.7.3	$600.00
+Auto Scheduled	Operating Room - Develop interactive medical tools	3	Wed 4/06/25	Fri 6/06/25	95,98	Fullstack software engineer Intern 5	No	1.7.4	$600.00
+Auto Scheduled	Operating Room - Develop role-playing mechanics	3	Wed 4/06/25	Fri 6/06/25	96,98	Associate full stack software Engineer 2	No	1.7.5	$768.00
+Auto Scheduled	Testing of Operating Room	2	Mon 9/06/25	Tue 10/06/25	101,102,103,104	Associate full stack software Engineer 1	No	1.7.6	$512.00
+Auto Scheduled	Completion of Operating Room	0	Tue 10/06/25	Tue 10/06/25	105	Senior QA Engineer	Yes	1.7.7	$0.00
+Auto Scheduled	Maternity Care - Design Immersive 3d room	3	Wed 4/06/25	Fri 6/06/25	98	Intermediate Full stack software engineer 1	No	1.7.8	$1,008.00
+Auto Scheduled	Maternity Care - Design VR Doctor and patient models	3	Wed 4/06/25	Fri 6/06/25	98	Intermediate Full stack software engineer 2	No	1.7.9	$1,008.00
+Auto Scheduled	Maternity Care - Design interactive medical tools	3	Wed 4/06/25	Fri 6/06/25	98	Senior VR Software Engineer 1	No	1.7.10	$1,200.00
+Auto Scheduled	Maternity Care - Design role-playing mechanics	3	Wed 4/06/25	Fri 6/06/25	98	Senior VR Software Engineer 2	No	1.7.11	$1,200.00
+Auto Scheduled	Gather Feedback from lecturer and students	2	Mon 9/06/25	Tue 10/06/25	107,108,109,110	Senior Product Owner	No	1.7.12	$832.00
+Auto Scheduled	Sprint Review and Retrospective	1	Wed 11/06/25	Wed 11/06/25	100,101,102,103,104,105,106,107,108,109,110,111	Fullstack software engineer Intern 5	No	1.7.13	$200.00
+Auto Scheduled	Sprint 7	7	Thu 12/06/25	Fri 20/06/25			No	1.8	$9,080.00
+Auto Scheduled	Deploy to Test Environment	1	Thu 12/06/25	Thu 12/06/25	112	Fullstack software engineer Intern 4	No	1.8.1	$200.00
+Auto Scheduled	Maternity Care - Develop Immersive 3d room	3	Thu 12/06/25	Mon 16/06/25	107,112	Fullstack software engineer Intern 3	No	1.8.2	$600.00
+Auto Scheduled	Maternity Care - Develop VR Doctor and patient models	3	Thu 12/06/25	Mon 16/06/25	108,112	Fullstack software engineer Intern 2	No	1.8.3	$600.00
+Auto Scheduled	Maternity Care - Develop interactive medical tools	3	Thu 12/06/25	Mon 16/06/25	109,112	Fullstack software engineer Intern 1	No	1.8.4	$600.00
+Auto Scheduled	Maternity Care - Develop role-playing mechanics	3	Thu 12/06/25	Mon 16/06/25	110,112	Associate full stack software Engineer 2	No	1.8.5	$768.00
+Auto Scheduled	Testing of Maternity Care	2	Tue 17/06/25	Wed 18/06/25	115,116,117,118	Associate full stack software Engineer 1	No	1.8.6	$512.00
+Auto Scheduled	Completion of Maternity Care	1	Thu 19/06/25	Thu 19/06/25	119	Senior QA Engineer	No	1.8.7	$296.00
+Auto Scheduled	Behavioral and Mental Health Room - Design Immersive 3d room	3	Thu 12/06/25	Mon 16/06/25	112	Intermediate Full stack software engineer 2	No	1.8.8	$1,008.00
+Auto Scheduled	Behavioral and Mental Health Room - Design VR Doctor and patient models	3	Thu 12/06/25	Mon 16/06/25	112	Intermediate Full stack software engineer 1	No	1.8.9	$1,008.00
+Auto Scheduled	Behavioral and Mental Health Room - Design interactive medical tools	3	Thu 12/06/25	Mon 16/06/25	112	Senior VR Software Engineer 2	No	1.8.10	$1,200.00
+Auto Scheduled	Behavioral and Mental Health Room - Design role-playing mechanics	3	Thu 12/06/25	Mon 16/06/25	112	Senior VR Software Engineer 1	No	1.8.11	$1,200.00
+Auto Scheduled	Gather Feedback from lecturer and students	2	Tue 17/06/25	Wed 18/06/25	121,122,123,124	Senior Product Owner	No	1.8.12	$832.00
+Auto Scheduled	Sprint Review and Retrospective	1	Fri 20/06/25	Fri 20/06/25	114,115,116,117,118,119,120,121,122,123,124,125	Associate full stack software Engineer 1	No	1.8.13	$256.00
+Auto Scheduled	Sprint 8	6	Mon 23/06/25	Mon 30/06/25			No	1.9	$8,480.00
+Auto Scheduled	Deploy to Higher Environment	1	Mon 23/06/25	Mon 23/06/25	126	Intermediate Full stack software engineer 1	No	1.9.1	$336.00
+Auto Scheduled	Behavioral and Mental Health Room - Develop Immersive 3d room	3	Mon 23/06/25	Wed 25/06/25	121,126	Senior VR Software Engineer 2	No	1.9.2	$1,200.00
+Auto Scheduled	Behavioral and Mental Health Room - Develop VR Doctor and patient models	3	Mon 23/06/25	Wed 25/06/25	122,126	Associate full stack software Engineer 2	No	1.9.3	$768.00
+Auto Scheduled	Behavioral and Mental Health Room - Develop interactive medical tools	3	Mon 23/06/25	Wed 25/06/25	123,126	Intermediate Full stack software engineer 2	No	1.9.4	$1,008.00
+Auto Scheduled	Behavioral and Mental Health Room - Develop role-playing mechanics	3	Mon 23/06/25	Wed 25/06/25	124,126	Fullstack software engineer Intern 1	No	1.9.5	$600.00
+Auto Scheduled	Testing of Behavioral and Mental Health Room	2	Thu 26/06/25	Fri 27/06/25	129,130,131,132	Fullstack software engineer Intern 2	No	1.9.6	$400.00
+Auto Scheduled	Completion of Behavioral and Mental Health Room	0	Fri 27/06/25	Fri 27/06/25	133	Senior QA Engineer	Yes	1.9.7	$0.00
+Auto Scheduled	Family Room - Design Immersive 3d room	3	Mon 23/06/25	Wed 25/06/25	126	Fullstack software engineer Intern 3	No	1.9.8	$600.00
+Auto Scheduled	Family Room - Design VR Doctor and patient models	3	Mon 23/06/25	Wed 25/06/25	126	Fullstack software engineer Intern 4	No	1.9.9	$600.00
+Auto Scheduled	Family Room - Design interactive medical tools	3	Mon 23/06/25	Wed 25/06/25	126	Fullstack software engineer Intern 5	No	1.9.10	$600.00
+Auto Scheduled	Family Room - Design role-playing mechanics	3	Mon 23/06/25	Wed 25/06/25	126	Senior VR Software Engineer 1	No	1.9.11	$1,200.00
+Auto Scheduled	Gather Feedback from lecturer and students	2	Thu 26/06/25	Fri 27/06/25	135,136,137,138	Senior Product Owner	No	1.9.12	$832.00
+Auto Scheduled	Sprint Review and Retrospective	1	Mon 30/06/25	Mon 30/06/25	128,129,130,131,132,133,134,135,136,137,138,139	Intermediate Full stack software engineer 2	No	1.9.13	$336.00
+Auto Scheduled	Sprint 9	6	Tue 1/07/25	Tue 8/07/25			No	1.10	$7,872.00
+Auto Scheduled	Deploy to Higher Environment	1	Tue 1/07/25	Tue 1/07/25	140	Fullstack software engineer Intern 5	No	1.10.1	$200.00
+Auto Scheduled	Family Room - Develop Immersive 3d room	3	Tue 1/07/25	Thu 3/07/25	135,140	Fullstack software engineer Intern 4	No	1.10.2	$600.00
+Auto Scheduled	Family Room - Develop VR Doctor and patient models	3	Tue 1/07/25	Thu 3/07/25	136,140	Fullstack software engineer Intern 3	No	1.10.3	$600.00
+Auto Scheduled	Family Room - Develop interactive medical tools	3	Tue 1/07/25	Thu 3/07/25	137,140	Fullstack software engineer Intern 2	No	1.10.4	$600.00
+Auto Scheduled	Family Room - Develop role-playing mechanics	3	Tue 1/07/25	Thu 3/07/25	138,140	Fullstack software engineer Intern 1	No	1.10.5	$600.00
+Auto Scheduled	Testing of Family Room	2	Fri 4/07/25	Mon 7/07/25	143,144,145,146	Associate full stack software Engineer 1	No	1.10.6	$512.00
+Auto Scheduled	Completion of Family Room	0	Mon 7/07/25	Mon 7/07/25	147	Senior QA Engineer	Yes	1.10.7	$0.00
+Auto Scheduled	Neonatal Intensive Care Unit (NICU) - Design Immersive 3d room	3	Tue 1/07/25	Thu 3/07/25	140	Associate full stack software Engineer 2	No	1.10.8	$768.00
+Auto Scheduled	Neonatal Intensive Care Unit (NICU) - Design VR Doctor and patient models	3	Tue 1/07/25	Thu 3/07/25	140	Intermediate Full stack software engineer 1	No	1.10.9	$1,008.00
+Auto Scheduled	Neonatal Intensive Care Unit (NICU) - Design interactive medical tools	3	Tue 1/07/25	Thu 3/07/25	140	Intermediate Full stack software engineer 2	No	1.10.10	$1,008.00
+Auto Scheduled	Neonatal Intensive Care Unit (NICU) - Design role-playing mechanics	3	Tue 1/07/25	Thu 3/07/25	140	Senior VR Designer/Content Developer	No	1.10.11	$888.00
+Auto Scheduled	Gather Feedback from lecturer and students	2	Fri 4/07/25	Mon 7/07/25	149,150,151,152	Senior Product Owner	No	1.10.12	$832.00
+Auto Scheduled	Sprint Review and Retrospective	1	Tue 8/07/25	Tue 8/07/25	142,143,144,145,146,147,148,149,150,151,152,153	Associate full stack software Engineer 2	No	1.10.13	$256.00
+Auto Scheduled	Sprint 10	12	Wed 9/07/25	Thu 24/07/25			No	1.11	$6,952.00
+Auto Scheduled	Deploy to Higher Environment	1	Wed 9/07/25	Wed 9/07/25	154	Intermediate Full stack software engineer 1	No	1.11.1	$336.00
+Auto Scheduled	Neonatal Intensive Care Unit (NICU) - Develop Immersive 3d room	3	Wed 9/07/25	Fri 11/07/25	149,154	Fullstack software engineer Intern 5	No	1.11.2	$600.00
+Auto Scheduled	Neonatal Intensive Care Unit (NICU) - Develop VR Doctor and patient models	3	Wed 9/07/25	Fri 11/07/25	150,154	Fullstack software engineer Intern 4	No	1.11.3	$600.00
+Auto Scheduled	Neonatal Intensive Care Unit (NICU) - Develop interactive medical tools	3	Wed 9/07/25	Fri 11/07/25	151,154	Fullstack software engineer Intern 3	No	1.11.4	$600.00
+Auto Scheduled	Neonatal Intensive Care Unit (NICU) - Develop role-playing mechanics	3	Wed 9/07/25	Fri 11/07/25	152,154	Fullstack software engineer Intern 2	No	1.11.5	$600.00
+Auto Scheduled	Testing of Neonatal Intensive Care Unit (NICU)	2	Mon 14/07/25	Tue 15/07/25	157,158,159,160	Intermediate Full stack software engineer 1	No	1.11.6	$672.00
+Auto Scheduled	Completion of Neonatal Intensive Care Unit (NICU)	0	Tue 15/07/25	Tue 15/07/25	161	Senior QA Engineer	Yes	1.11.7	$0.00
+Auto Scheduled	Preparation and Completion of Pre-prod requirements	2	Wed 16/07/25	Thu 17/07/25	154,162	Senior Platforms Engineer	No	1.11.8	$896.00
+Auto Scheduled	Deploy to staging environment	1	Fri 18/07/25	Fri 18/07/25	163	Senior Platforms Engineer	No	1.11.9	$448.00
+Auto Scheduled	End to End testing of Staging Environment	3	Mon 21/07/25	Wed 23/07/25	164	Senior QA Engineer	No	1.11.10	$888.00
+Auto Scheduled	Update of User Training Manual	2	Wed 16/07/25	Thu 17/07/25	162	Trainer	No	1.11.11	$608.00
+Auto Scheduled	User Training for Students and Lecturers	1	Fri 18/07/25	Fri 18/07/25	166	Trainer	No	1.11.12	$304.00
+Auto Scheduled	Completion of Manual and User Training to Students and Lecturers	0	Fri 18/07/25	Fri 18/07/25	166,167	Trainer	Yes	1.11.13	$0.00
+Auto Scheduled	Deploy to Production	0	Wed 23/07/25	Wed 23/07/25	165	Senior Platforms Engineer	Yes	1.11.14	$0.00
+Auto Scheduled	Sprint Review and Retrospective	1	Thu 24/07/25	Thu 24/07/25	156,157,158,159,160,161,162,163,164,165,166,167,168,169	Senior VR Software Engineer 1	No	1.11.15	$400.00
+Auto Scheduled	Project Closure	0	Thu 24/07/25	Thu 24/07/25	170	Engineering Manager	Yes	1.11.16	$0.00

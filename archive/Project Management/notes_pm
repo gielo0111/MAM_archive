@@ -1,0 +1,1124 @@
+2025 02 10
+
+Project Management
+Assessment 1
+Construction
+Event
+IT
+
+Assessment 1 30%
+Assessment 2 70%
+
+
+
+Project Management
+
+Project plan
+
+Integrated Management of projects
+
+pmi
+cipm
+
+PMI global standards
+
+PMBOK seventh edition
+
+prince2
+prince2 vs waterfall
+
+PMP certification Vs Prince2 Practitioner
+
+
+
+
+
+
+
+
+
+2025 02 12
+
+
+Construction
+
+VR
+
+Event hub
+Plan activities for the event hub
+3 day activities
+
+inviting academic staff from 3 campuses
+
+for the staff, consider planning for the hotel accomodation
+as well as transportation
+
+consider planning for day 1, day 2, and day 3
+
+Attach appendix, consider the context to attach appendix
+or the instructor will not check it.
+appendix will contain the activities you want to do for the event.
+
+plan volunteers for the event
+
+3 methodologies
+
+
+2025 02 17
+
+Project Scope
+
+limit the scope
+
+
+
+Project plan parts
+-executive summary
+-project objectives
+-prohect assumptions and risks
+-project milestones
+-work breakdown structure
+-network diagram
+-resource details
+    -human resources
+    -equipment
+    -materials and suppliers
+-budget details
+-project organization
+-operating procedures
+-assessment and review standards
+-contact points and information sources
+-project approvals
+
+
+project scope checklist
+1. project objective
+2. deliverables
+3. milestones
+4. technical requirements
+5. Limits and exclusions
+6. reviews with customer
+
+
+managing sustainabilitu
+incorporate maori values with VR
+
+
+2 maori values
+
+
+
+
+
+1. Introduction
+2. Project Management Methodologies
+    agile or traditional
+
+2.1 scrum
+    "Being an agile methodology"
+2.2 scaled agile
+    "Being an agile methodology
+2.3 waterfall
+    "for the development of "
+
+3. critical evaluation of chosen methodology
+    "To choose a methdology for the project, 
+    "This is the methodology that I will use for this project"
+
+Conclusion
+
+
+
+project management 
+
+whanaungatanga
+manaakitanga
+rangatiratanga
+a
+
+2025 02 18
+
+CONTENTS
+Introduction
+
+Project Management Methodologies (VR Learning Platform for Healthcare Training)
+2.1 Waterfall Methodology
+2.2 Scrum Methodology
+2.3 Rapid Application Development (RAD)
+
+Critical Evaluation of Chosen Methodology
+
+Māori Inclusion in the Project
+
+References
+
+1. Introduction
+For the purpose of this report, the case study chosen is the implementation of a Virtual Reality (VR) Learning Platform for the Nursing and Healthcare programs at Otago Polytechnic in Dunedin. This project aims to create an immersive VR environment where students can simulate medical procedures, such as patient diagnosis and emergency response, in a virtual hospital setting. The platform will feature multi-user capabilities, allowing students to collaborate in real time, and will integrate with the Polytechnic’s existing Learning Management System (LMS). Additionally, the platform will incorporate culturally responsive healthcare practices rooted in Iwi/Māori health frameworks and traditions.
+
+The project requires the development of high-quality VR hardware and software, a user guide and training program for lecturers and students, and a culturally inclusive healthcare curriculum embedded in the VR simulations. A risk management plan will also be necessary to address potential technology malfunctions and user resistance.
+
+In the current COVID-19 situation, the demand for online and virtual learning platforms has increased significantly. This project will provide a safe and effective way for students to gain hands-on experience in a controlled environment, reducing the need for physical presence in hospitals or clinics. However, the project may face challenges such as ensuring the platform’s reliability, managing user resistance to new technology, and integrating cultural values into the VR simulations.
+
+To carry out this project, three methodologies have been suggested: Waterfall, Scrum, and Rapid Application Development (RAD). Out of these, Scrum is considered the most appropriate methodology for this project due to its flexibility, iterative approach, and ability to handle complex, evolving requirements.
+
+2. Project Management Methodologies (VR Learning Platform for Healthcare Training)
+2.1 Waterfall Methodology
+The Waterfall Methodology is one of the earliest and most traditional project management methodologies. It is a linear, sequential approach where each phase of the project must be completed before moving on to the next. The typical stages of the Waterfall model include requirements gathering, design, implementation, testing, and maintenance (Balaji & Murugaiyan, 2012).
+
+For the VR Learning Platform project, the Waterfall methodology would begin with gathering detailed requirements from stakeholders, including lecturers, students, and healthcare professionals. This would involve outlining the key features of the platform, such as immersive 3D environments, multi-user capabilities, and integration with the LMS. The design phase would then focus on creating detailed blueprints for the VR environment, user interfaces, and feedback systems. Once the design is finalized, the implementation phase would involve developing the VR platform, followed by rigorous testing to ensure it meets all requirements. Finally, the maintenance phase would address any issues that arise post-launch and provide updates as needed.
+
+The Waterfall methodology is well-suited for projects with clearly defined requirements and a fixed timeline. However, its rigid structure makes it less adaptable to changes, which could be a significant drawback for the VR Learning Platform project, where requirements may evolve as the project progresses. Additionally, the lack of flexibility in the Waterfall model could make it difficult to incorporate feedback from users during the development process.
+
+2.2 Scrum Methodology
+The Scrum Methodology is an agile framework that emphasizes iterative development, collaboration, and flexibility. Unlike the Waterfall model, Scrum divides the project into small, manageable increments called sprints, typically lasting two to four weeks. Each sprint results in a potentially shippable product increment, allowing for continuous feedback and improvement (Schwaber, 1997).
+
+For the VR Learning Platform project, Scrum would involve breaking the development process into sprints, each focusing on a specific feature or component of the platform. For example, the first sprint might focus on developing the basic 3D environment, while subsequent sprints could address multi-user capabilities, integration with the LMS, and the feedback system. Daily Scrum meetings would ensure that the team is aligned and any issues are addressed promptly. At the end of each sprint, a Sprint Review would be conducted to gather feedback from stakeholders and make necessary adjustments.
+
+Scrum’s iterative approach makes it highly adaptable to changing requirements, which is particularly beneficial for a complex project like the VR Learning Platform. The frequent feedback loops ensure that the final product meets the needs of its users, while the transparency of the process allows for better risk management. Additionally, Scrum’s emphasis on collaboration and self-organizing teams fosters a sense of ownership and accountability among team members, which can lead to higher-quality outcomes.
+
+2.3 Rapid Application Development (RAD)
+Rapid Application Development (RAD) is another agile methodology that focuses on rapid prototyping and iterative development. RAD emphasizes user involvement throughout the development process, allowing for quick feedback and adjustments. The typical stages of RAD include requirements planning, user design, rapid construction, and cutover (Huisman, 2003).
+
+For the VR Learning Platform project, RAD would begin with a requirements planning phase, where stakeholders would outline the key features and objectives of the platform. The user design phase would involve creating prototypes of the VR environment and user interfaces, which would be reviewed and refined based on feedback from lecturers and students. The rapid construction phase would focus on developing the platform, with frequent testing and adjustments to ensure it meets user needs. Finally, the cutover phase would involve deploying the platform and providing training for users.
+
+RAD’s focus on rapid prototyping and user involvement makes it well-suited for projects with evolving requirements, such as the VR Learning Platform. However, the fast-paced nature of RAD could lead to quality issues if not managed properly. Additionally, the emphasis on user involvement may require significant time and resources, which could be a challenge for a project of this scale.
+
+3. Critical Evaluation of Chosen Methodology
+After evaluating the three methodologies, Scrum is recommended as the most suitable approach for the VR Learning Platform project. Unlike the Waterfall model, Scrum offers the flexibility needed to adapt to changing requirements and incorporate feedback from users throughout the development process. This is particularly important for a project like the VR Learning Platform, where the needs of students and lecturers may evolve as the platform is being developed.
+
+Scrum’s iterative approach also allows for continuous improvement, ensuring that the final product meets the highest standards of quality. The frequent feedback loops and transparency of the Scrum process make it easier to identify and address potential risks, such as technology malfunctions or user resistance. Additionally, Scrum’s emphasis on collaboration and self-organizing teams fosters a sense of ownership and accountability, which can lead to more innovative and effective solutions.
+
+While RAD also offers flexibility and user involvement, its fast-paced nature could lead to quality issues if not managed properly. The Waterfall model, on the other hand, is too rigid for a project with evolving requirements, making it less suitable for the VR Learning Platform.
+
+4. Māori Inclusion in the Project
+Incorporating Māori values and perspectives into the VR Learning Platform is essential for ensuring that the platform is culturally responsive and inclusive. Three key Māori values that should be integrated into the project are Whanaungatanga, Manaakitanga, and Tikanga.
+
+Whanaungatanga emphasizes the importance of relationships and collaboration. For the VR Learning Platform, this value can be implemented by fostering a sense of community among students and lecturers, encouraging teamwork, and ensuring that the platform supports collaborative learning.
+
+Manaakitanga focuses on hospitality, care, and respect. This value can be reflected in the design of the VR environment, which should make users feel welcome and valued. For example, the platform could include Māori cultural elements, such as traditional artwork or greetings, to create a more inclusive and respectful learning environment.
+
+Tikanga refers to the customs and practices that guide behavior. In the context of the VR Learning Platform, Tikanga can be incorporated by ensuring that the platform adheres to Māori health frameworks and traditions. For example, the platform could include simulations that reflect Māori approaches to healthcare, such as the use of traditional healing practices.
+
+By integrating these values into the VR Learning Platform, the project can ensure that it is not only technologically advanced but also culturally responsive and inclusive.
+
+5. References
+Balaji, S., & Murugaiyan, M. S. (2012). Waterfall vs. V-Model vs. Agile: A comparative study on SDLC. International Journal of Information Technology and Business Management, 2(1), 26-30.
+
+Schwaber, K. (1997). Scrum development process. In Business object design and implementation (pp. 117-134). Springer, London.
+
+Huisman, M. (2003). Systems development methodology use in South Africa. AMCIS 2003 Proceedings, 129.
+
+Eason, O. K. (2016). Information systems development methodologies transitions: an analysis of Waterfall to agile methodology.
+
+Bishop, R. (2009). Te kotahitanga: Addressing educational disparities facing Māori students in New Zealand. Teaching and teacher education, 25(5), 734-742.
+
+Smith, G. H. (2004). Mai i te maramatanga, ki te putanga mai o te tahuritanga: From conscientization to transformation. Educational Perspectives, 37(1), 46-52.
+
+Harmsworth, G. R. (2005). Report on incorporation of traditional values/tikanga into contemporary Māori business organisations and process. Landcare Research, prepared for Mana Taiao.
+
+This case study provides a comprehensive analysis of the VR Learning Platform project, including the evaluation of project management methodologies and the integration of Māori values. The report concludes that the Scrum methodology is the most suitable approach for this project, given its flexibility, iterative nature, and ability to handle complex, evolving requirements. Additionally, the inclusion of Māori values such as Whanaungatanga, Manaakitanga, and Tikanga ensures that the platform is culturally responsive and inclusive.
+
+
+
+
+---------------------
+-------------------
+----
+---
+CONTENTS
+Introduction
+
+Project Management Methodologies (VR Learning Platform for Healthcare Training)
+2.1 Scrum
+2.2 Scaled Agile Framework (SAFe)
+2.3 Lean Methodology
+
+Critical Evaluation of Chosen Methodology
+
+Māori Inclusion in the Project
+
+References
+
+1. Introduction
+For the purpose of this report, the case study chosen is the development of a Virtual Reality (VR) Learning Platform for Healthcare Training at Otago Polytechnic in Dunedin. This project aims to create an immersive VR platform that will allow nursing and healthcare students to simulate medical procedures, such as patient diagnosis and emergency response, in a virtual hospital environment. The platform will feature multi-user capabilities, enabling students to collaborate in real time, and will integrate with the Polytechnic's existing Learning Management System (LMS). Additionally, the platform will incorporate culturally responsive healthcare practices rooted in Iwi/Māori health frameworks and traditions.
+
+The project requires the development of high-quality VR hardware and software, a user guide and training program for lecturers and students, and a culturally inclusive healthcare curriculum embedded in the VR simulations. Given the complexity of the project, a robust project management methodology is essential to ensure its success. In the current COVID-19 situation, the project may face challenges such as remote collaboration, resource allocation, and potential delays in hardware procurement.
+
+To carry out this project, three methodologies have been suggested: Scrum, Scaled Agile Framework (SAFe), and Lean Methodology. Out of these, Scrum is considered the most appropriate methodology to undertake the project due to its flexibility, iterative approach, and ability to handle complex, multi-faceted projects.
+
+2. Project Management Methodologies (VR Learning Platform for Healthcare Training)
+2.1 Scrum
+Scrum is an agile methodology that emphasizes iterative development, collaboration, and flexibility. It is particularly well-suited for software development projects, such as the VR Learning Platform, due to its ability to adapt to changing requirements and deliver incremental improvements.
+
+Key Features of Scrum:
+Sprints: The project is divided into short, time-boxed iterations called sprints, typically lasting 2-4 weeks. Each sprint results in a potentially shippable product increment.
+
+Scrum Roles: The Scrum team consists of a Product Owner (responsible for defining the project requirements), a Scrum Master (facilitates the Scrum process), and the Development Team (responsible for delivering the product increment).
+
+Daily Stand-ups: Short daily meetings where the team discusses progress, plans for the day, and identifies any blockers.
+
+Sprint Reviews and Retrospectives: At the end of each sprint, the team reviews the work completed and reflects on how to improve the process.
+
+Application to the VR Learning Platform:
+For the VR Learning Platform project, Scrum would allow the team to break down the development process into manageable sprints. For example:
+
+Sprint 1: Develop the basic 3D environment for the virtual hospital.
+
+Sprint 2: Implement multi-user capabilities for real-time collaboration.
+
+Sprint 3: Integrate the feedback system for lecturers to review student performance.
+
+Sprint 4: Incorporate culturally responsive healthcare practices rooted in Iwi/Māori health frameworks.
+
+Scrum's iterative approach ensures that the project can adapt to changing requirements, such as new features requested by stakeholders or adjustments needed for cultural inclusivity. Additionally, the daily stand-ups and sprint reviews provide transparency and regular feedback, which is crucial for a project of this complexity.
+
+2.2 Scaled Agile Framework (SAFe)
+The Scaled Agile Framework (SAFe) is an extension of agile principles designed for large-scale projects involving multiple teams. It provides a structured approach to scaling agile practices across an organization, making it suitable for complex projects like the VR Learning Platform, which involves multiple stakeholders, including software developers, healthcare educators, and cultural advisors.
+
+Key Features of SAFe:
+Agile Release Trains (ARTs): SAFe organizes teams into Agile Release Trains, which are long-lived, cross-functional teams that work together to deliver value in a coordinated manner.
+
+Program Increments (PIs): SAFe operates in Program Increments, typically lasting 8-12 weeks, during which teams plan, execute, and deliver a set of features.
+
+PI Planning: At the beginning of each Program Increment, all teams participate in a PI Planning event to align on goals, dependencies, and deliverables.
+
+Continuous Delivery Pipeline: SAFe emphasizes a continuous delivery pipeline, ensuring that features are developed, tested, and deployed in a streamlined manner.
+
+Application to the VR Learning Platform:
+For the VR Learning Platform, SAFe would be beneficial in coordinating the efforts of multiple teams working on different aspects of the project. For example:
+
+Team 1: Focuses on developing the VR environment and 3D assets.
+
+Team 2: Works on integrating the platform with the existing LMS.
+
+Team 3: Develops the culturally responsive healthcare curriculum.
+
+SAFe's structured approach ensures that all teams are aligned and working towards the same goals, reducing the risk of miscommunication and delays. The PI Planning events would provide a platform for all stakeholders to discuss progress, address dependencies, and adjust the project plan as needed.
+
+2.3 Lean Methodology
+Lean methodology focuses on maximizing value while minimizing waste. It is particularly useful for projects that require efficient resource management and continuous improvement, such as the VR Learning Platform.
+
+Key Features of Lean:
+Value Stream Mapping: Lean emphasizes identifying and eliminating waste in the project process, ensuring that every step adds value to the final product.
+
+Continuous Improvement (Kaizen): Lean encourages a culture of continuous improvement, where teams regularly reflect on their processes and make incremental changes to improve efficiency.
+
+Just-in-Time (JIT) Delivery: Lean promotes delivering features just in time, reducing the need for large inventories of unfinished work.
+
+Respect for People: Lean emphasizes the importance of empowering team members and fostering a collaborative work environment.
+
+Application to the VR Learning Platform:
+For the VR Learning Platform, Lean would help the team identify and eliminate inefficiencies in the development process. For example:
+
+Value Stream Mapping: The team could map out the entire development process, from concept to deployment, and identify areas where time or resources are being wasted.
+
+Continuous Improvement: Regular retrospectives would allow the team to reflect on their processes and make adjustments to improve efficiency.
+
+Just-in-Time Delivery: Features could be developed and delivered as needed, reducing the risk of overproduction and ensuring that the project stays on track.
+
+Lean's focus on efficiency and continuous improvement would be particularly beneficial for the VR Learning Platform, as it would help the team manage resources effectively and deliver a high-quality product on time.
+
+3. Critical Evaluation of Chosen Methodology
+After evaluating the three methodologies, Scrum is recommended as the most suitable approach for the VR Learning Platform project. Scrum's iterative and flexible nature makes it well-suited for software development projects, especially those with complex requirements and multiple stakeholders.
+
+Advantages of Scrum:
+Flexibility: Scrum allows the team to adapt to changing requirements, which is crucial for a project like the VR Learning Platform, where new features and adjustments may be needed throughout the development process.
+
+Transparency: The daily stand-ups and sprint reviews provide regular feedback and ensure that all team members are aligned on the project's progress.
+
+Incremental Delivery: Scrum's iterative approach ensures that the project delivers value incrementally, allowing stakeholders to see progress and provide feedback throughout the development process.
+
+Comparison with SAFe and Lean:
+While SAFe and Lean also offer valuable benefits, they may not be as well-suited for this project. SAFe is more appropriate for large-scale projects with multiple teams, which may be overkill for the VR Learning Platform. Lean, while effective for resource management, lacks the structured approach of Scrum, which is essential for managing the complexity of software development.
+
+In conclusion, Scrum's flexibility, transparency, and iterative approach make it the most appropriate methodology for the VR Learning Platform project.
+
+4. Māori Inclusion in the Project
+Incorporating Māori values and cultural practices into the VR Learning Platform is essential for ensuring that the project is culturally responsive and inclusive. The following Māori values are recommended for inclusion in the project:
+
+Whanaungatanga (Relationships):
+Whanaungatanga emphasizes the importance of building strong relationships and fostering a sense of belonging. For the VR Learning Platform, this value can be implemented by creating a collaborative environment where students and lecturers work together to achieve common goals. The platform should encourage teamwork and collaboration, reflecting the Māori concept of collective responsibility.
+
+Manaakitanga (Hospitality and Care):
+Manaakitanga is about showing care, respect, and hospitality towards others. In the context of the VR Learning Platform, this value can be reflected in the design of the virtual hospital environment, where students are encouraged to treat virtual patients with care and respect. The platform should also include culturally responsive healthcare practices, such as incorporating Māori healing traditions and protocols.
+
+Kotahitanga (Unity):
+Kotahitanga emphasizes the importance of unity and working together towards a common goal. For the VR Learning Platform, this value can be implemented by ensuring that all team members, including developers, educators, and cultural advisors, work together to create a cohesive and inclusive product. The platform should reflect the unity of the team and the shared goal of providing high-quality healthcare training.
+
+By incorporating these Māori values into the VR Learning Platform, the project will not only be culturally responsive but also provide a more inclusive and meaningful learning experience for students.
+
+5. References
+Bishop, R. (2009). Te Kotahitanga: Addressing educational disparities facing Māori students in New Zealand. Teaching and Teacher Education, 25(5), 734-742.
+
+Careerforce. (2017). Learning Guide Māori operating principles and values. Careerforce, 1(1), 14-26.
+
+Eason, O. K. (2016). Information systems development methodologies transitions: an analysis of Waterfall to agile methodology.
+
+Schwaber, K. (1997). Scrum development process. In Business object design and implementation (pp. 117-134). Springer, London.
+
+Sharma, S. (2016). A comprehensive study on state of Scrum development. In 2016 International Conference on Computing, Communication and Automation (ICCCA) (pp. 867-872). IEEE.
+
+Virine, L., & Trumper, M. (2016). Event chain methodology in details. Retrieved May, 10, 2016.
+
+Walker, D. (2003). Te ao Māori/ a Māori worldview. In A Cultural Impact Assessment of Nelson Sewerage and Ponds.
+
+This report provides a comprehensive analysis of the VR Learning Platform project, outlining the most suitable project management methodology and emphasizing the importance of Māori inclusion in the project. By adopting Scrum and incorporating Māori values, the project is well-positioned for success.
+
+
+
+
+
+
+
+
+
+
+
+
+########################################################################
+########################################################################
+########################################################################
+########################################################################
+########################################################################
+
+2025 02 19
+
+
+work beakdown structure
+gazinto chart
+
+
+work package
+    node labels
+        early start - id number - ealy finish
+        activity float - Activity descrriptor
+        late stat - activity duration - late finish
+
+
+network diagram
+
+
+
+analogous estimation vs parametic estimating
+pert diagram
+optimistic time
+most likely time
+pessimistic time
+
+
+project milestone
+
+
+
+
+introduction
+main aim of the report i
+
+
+2.1 waterfall
+try to start from historical perspective
+define waterfall
+talk about the features of waterfall
+talk about the phases
+then talk how is it applied to the project
+
+waterfall is particularly effective in construction
+
+show a diagram
+explain in detail the phases
+ex. phases of waterfall methodology
+1. requirements
+    this is the initial phase for collecting and definingthe projects
+    requiremnets and having a clear objectvie to abvoid having scope ceep.
+    in the opaic construction project, project manager and all the stakeholders
+    including the iwi/maori organisation, contractors, skilled labou, suppliers engage to ensure that all the expectations algihn well with the requriement ot achieve the eliverables, budget
+2. design
+3. implementation
+4. veification
+5. maintainance
+    post the verifiatipn phase, when the space becomes opeational, the focus
+    turns towards the long run finctipns of the facilities and its reliability over time
+    for the opaic constiction steps, maintenance
+    include routine inspection, cleaning
+
+
+2.2 critical path method( CPM)
+    cpm was developed in the late 1950s by morgan r walke
+
+    post the network diagram, critical path is recognised as the longest sequence of dependent tasks, identified by the project manager to prioritise and allocate esouces to complete the most crucial wok and reschedule the less priority tasks to ensure timely
+
+    critical path method figure
+
+    FLOAT
+    in project methodology, flaot means the duration when the activity can be postponed without causing any delays to the overall timelines of the project.
+    it enables project managers to prioritise tasks effectively. to alculate float, identifying the critial path is crucial
+
+    FLOAT figure
+
+    a. task identification
+
+
+    application of CPM
+
+3. Justification of the chosen methodology
+
+
+
+    in comparison with the other methodologies. waterfall methodology stands out
+
+    moreover the sequential nature of the waterfall alignes well with the OPAIC projects strict timeline, thus allowing the construction
+
+
+
+4. incoporating maoi values into the opaic construction school poject
+
+    maoi values ae the pinciples theough which maori people understand thei suroundings and interactions. their beliefs focus on land, water and ai as the essential elements of liefe that are to be sustained, respected, and cherished. these values ar edeeply ooted in maori culture, 
+
+    link maori values to the methodology
+    
+    translate english to maori values
+    teamwork in maori values, since scrum emphasizes teamwork
+
+
+EVENT
+
+1. Introcution
+2. Project management methodologies
+    2.1 Watefall methodology
+    2.2 projectmanagement body of knowledge
+    2.3 event management body of knowledge
+
+3. critical evaluation of EMBOK
+    3.1 justification for choosing EMBOK
+
+4. Maori values inclusion in the project
+    4.1 whanaungatanga
+    4.2 kaitiakitanga
+    4.3 manaakitanga
+
+
+
+
+
+
+
+
+
+2025 02 20
+
+
+
+########################################################################
+########################################################################
+########################################################################
+########################################################################
+########################################################################
+
+# **CONTENTS**
+
+1. **Introduction**  
+2. **Project Management Methodologies (VR Learning Platform for Healthcare Training)**  
+   2.1 Waterfall  
+   2.2 Scrum  
+   2.3 Rapid Application Development (RAD)  
+3. **Critical Evaluation of Chosen Methodology**  
+4. **Māori Inclusion in the Project**  
+5. **References**  
+
+---
+
+# **1. Introduction**
+
+For the purpose of this report, the case study chosen is the implementation of a Virtual Reality (VR) Learning Platform for Healthcare Training at Otago Polytechnic. This project aims to create an immersive VR environment that simulates medical procedures, allowing nursing and healthcare students to practice patient diagnosis and emergency response in a virtual hospital setting. The platform will require multi-user capabilities, enabling real-time collaboration among students, and must integrate with the Polytechnic's existing Learning Management System (LMS). Additionally, the project must incorporate culturally responsive healthcare practices rooted in Iwi/Māori health frameworks and traditions.
+
+The project will also require user training for both students and lecturers, ensuring they are confident in using the VR technology. Key deliverables include high-quality VR hardware and software, a user guide, a training program, a culturally inclusive healthcare curriculum embedded in the VR simulations, and a risk management plan addressing potential technology malfunctions and user resistance.
+
+In the current COVID-19 situation, the demand for virtual learning tools has increased significantly, making this project timely and relevant. However, the project may face challenges such as technological limitations, user resistance, and the need for culturally sensitive content.
+
+To carry out this project, three project management methodologies have been suggested: Waterfall, Scrum, and Rapid Application Development (RAD). Out of these, Scrum is considered the most appropriate methodology for this project due to its flexibility, iterative approach, and ability to handle complex, evolving requirements.
+
+---
+
+# **2. Project Management Methodologies (VR Learning Platform for Healthcare Training)**
+
+## **2.1 Waterfall**
+
+The Waterfall methodology is one of the earliest and most traditional project management approaches. It follows a linear, sequential process where each phase must be completed before moving on to the next. The typical stages include requirements gathering, design, implementation, testing, and maintenance (Balaji & Murugaiyan, 2012).
+
+For the VR Learning Platform project, the Waterfall methodology would begin with gathering detailed requirements, such as the need for immersive 3D environments, multi-user capabilities, and integration with the LMS. The design phase would involve creating blueprints for the VR environment, including the virtual hospital layout and user interfaces. The implementation phase would focus on developing the VR software and hardware, while the testing phase would ensure that the platform functions as intended. Finally, the maintenance phase would address any issues that arise post-launch.
+
+While Waterfall is known for its clear structure and ease of management, it may not be the best fit for this project due to its rigidity. The VR Learning Platform project is likely to encounter evolving requirements, especially in terms of user feedback and technological advancements. Waterfall does not easily accommodate changes once the project has moved past the requirements phase, which could be a significant drawback in this context (Eason, 2016).
+
+## **2.2 Scrum**
+
+Scrum is an agile methodology that emphasizes iterative development, collaboration, and flexibility. It is particularly well-suited for projects with evolving requirements and a need for frequent feedback (Schwaber, 1997). In Scrum, the project is divided into small, manageable units called sprints, typically lasting two to four weeks. Each sprint results in a potentially shippable product increment.
+
+For the VR Learning Platform project, Scrum would allow the development team to work in sprints, focusing on specific features such as the 3D environment, multi-user capabilities, and LMS integration. Daily Scrum meetings would ensure that the team is aligned and any issues are addressed promptly. The iterative nature of Scrum would also allow for continuous feedback from students and lecturers, ensuring that the final product meets their needs.
+
+One of the key advantages of Scrum is its flexibility. If new requirements emerge, such as the need for additional cultural content or changes to the user interface, the team can easily adapt without disrupting the entire project. Additionally, Scrum promotes transparency and collaboration, which are essential for a complex project like this (Sharma, 2016).
+
+## **2.3 Rapid Application Development (RAD)**
+
+Rapid Application Development (RAD) is another agile methodology that focuses on rapid prototyping and iterative development. It is particularly useful for projects that require quick turnaround times and frequent user feedback (Huisman, 2003). RAD involves four main stages: requirements planning, user design, rapid construction, and cutover.
+
+For the VR Learning Platform project, RAD would begin with requirements planning, where the team would gather input from stakeholders, including students, lecturers, and cultural advisors. The user design phase would involve creating prototypes of the VR environment, which would be tested and refined based on user feedback. The rapid construction phase would focus on developing the final product, while the cutover phase would involve deploying the platform and providing user training.
+
+RAD's emphasis on rapid prototyping and user feedback makes it a strong candidate for this project. However, it may not be as effective as Scrum in managing the complexity and scope of the VR Learning Platform. RAD is better suited for smaller projects with well-defined requirements, whereas this project involves multiple stakeholders, complex technology, and evolving needs (Beynon-Davies, 1998).
+
+---
+
+# **3. Critical Evaluation of Chosen Methodology**
+
+After evaluating the three methodologies, Scrum is recommended as the most suitable approach for the VR Learning Platform project. Unlike Waterfall, Scrum offers the flexibility needed to accommodate evolving requirements and frequent feedback, which are critical for a project of this nature. Additionally, Scrum's iterative approach allows for continuous improvement, ensuring that the final product meets the needs of all stakeholders.
+
+One of the key advantages of Scrum is its ability to handle complex, multi-faceted projects. The VR Learning Platform involves multiple components, including 3D environments, multi-user capabilities, LMS integration, and culturally responsive content. Scrum's sprint-based approach allows the team to focus on one component at a time, ensuring that each element is developed to the highest standard.
+
+Another advantage of Scrum is its emphasis on collaboration and transparency. Daily Scrum meetings ensure that the team is aligned and any issues are addressed promptly. This is particularly important for a project that involves multiple stakeholders, including students, lecturers, and cultural advisors. By fostering open communication, Scrum helps to ensure that everyone's needs are met and that the project stays on track.
+
+Finally, Scrum's iterative approach allows for continuous feedback and improvement. As the project progresses, the team can incorporate feedback from users, ensuring that the final product is both functional and user-friendly. This is particularly important for a project that involves new technology, as user resistance can be a significant barrier to adoption.
+
+---
+
+# **4. Māori Inclusion in the Project**
+
+Given that Otago Polytechnic is committed to incorporating culturally responsive healthcare practices, it is essential that the VR Learning Platform project reflects Iwi/Māori health frameworks and traditions. Three key Māori values that should be incorporated into the project are **Whanaungatanga**, **Manaakitanga**, and **Tikanga**.
+
+**Whanaungatanga** emphasizes the importance of relationships and community. In the context of the VR Learning Platform, this value can be incorporated by creating a collaborative environment where students and lecturers work together to achieve common goals. The multi-user capabilities of the platform should encourage teamwork and mutual support, reflecting the Māori concept of collective responsibility (Walker, 2003).
+
+**Manaakitanga** refers to the act of showing respect, hospitality, and care for others. This value can be incorporated into the VR simulations by ensuring that the virtual hospital environment reflects Māori cultural practices, such as the use of traditional healing methods and the inclusion of Māori language and symbols. Additionally, the platform should provide opportunities for students to practice culturally responsive care, such as understanding the importance of whānau (family) in Māori health (Careerforce, 2017).
+
+**Tikanga** refers to the customs and traditions that guide Māori behavior. In the context of the VR Learning Platform, this value can be incorporated by ensuring that the platform adheres to Māori cultural protocols, such as the use of karakia (prayers) and the inclusion of Māori perspectives on health and wellbeing. The platform should also provide opportunities for students to learn about the Treaty of Waitangi and its implications for healthcare in New Zealand (Robb et al., 2015).
+
+By incorporating these Māori values into the VR Learning Platform, Otago Polytechnic can ensure that the project is not only technologically advanced but also culturally inclusive and responsive to the needs of Māori students and communities.
+
+---
+
+# **5. References**
+
+- Balaji, S., & Murugaiyan, M. S. (2012). Waterfall vs. V-Model vs. Agile: A comparative study on SDLC. *International Journal of Information Technology and Business Management*, 2(1), 26-30.
+- Beynon-Davies, P. (1998). Integrating rapid application development and participatory design. *IEE Proceedings-Software, 145*(4), 105-112.
+- Careerforce. (2017). Learning Guide Maori operating principles and values. *Careerforce*. (1.1), 14-26.
+- Eason, O. K. (2016). Information systems development methodologies transitions: an analysis of Waterfall to agile methodology.
+- Huisman, M. (2003). Systems development methodology use in South Africa. *AMCIS 2003 Proceedings*, 129.
+- Robb, M., Harmsworth, G. R., & Awatere, S. (2015). Māori values and perspectives to inform collaborative processes and planning for freshwater management. *Landcare Research*.
+- Schwaber, K. (1997). Scrum development process. In *Business object design and implementation* (pp. 117-134). Springer, London.
+- Sharma, S. (2016, April). A comprehensive study on state of Scrum development. In *2016 International Conference on Computing, Communication and Automation (ICCCA)* (pp. 867-872). IEEE.
+- Walker, D. (2003). Te ao Maori/ a Maori worldview. In *A Cultural Impact Assessment of Nelson Sewerage and Ponds*.
+- Virine, L., & Trumper, M. (2016). Event chain methodology in details. *Retrieved May, 10*, 2016.
+
+--- 
+
+This report provides a comprehensive analysis of the VR Learning Platform project, recommending Scrum as the most suitable project management methodology and emphasizing the importance of incorporating Māori values into the project.
+
+
+
+
+
+
+
+
+########################################################################
+########################################################################
+########################################################################
+########################################################################
+######################################################################## 
+
+
+
+
+
+AM804001: Project Management
+
+Assessment 1: Case Study
+
+Study block 2
+
+Date issued
+
+Due date
+
+Time
+
+Delivery:
+Submit to Turnitin via Moodle before deadline
+
+Weighting
+30%
+
+Marks out of
+20
+
+Instructions
+Complete this cover sheet and attach it to your assignment.
+
+This assignment must be your own work.
+Collusion, copying, or plagiarism may result in disciplinary action.
+We advise that you keep a copy of this assignment.
+Word limit is 2000
+
+Refer to the following website for reference-related resources: http://www.cite.auckland.ac.nz/index.php?p=quickcite
+
+We confirm that:
+This is an original assessment and is entirely my own work.
+Where ideas, tables, diagrams, etc., of other writers have been used, we have acknowledged the source in every case.
+This assignment has not been, nor will be, submitted as assessed work for any other academic course.
+
+Student’s Name
+ID No
+Signature
+Date
+Cohort Number
+
+---
+
+# VR Learning Platform for Healthcare Training
+
+## 1. Introduction
+
+Otago Polytechnic is planning to implement a Virtual Reality (VR) platform for its Nursing and Healthcare programs. The aim is to provide an immersive training experience where students can simulate medical procedures, including patient diagnosis and emergency response, within a virtual hospital environment. This system will support real-time multi-user collaboration, integrate feedback mechanisms for instructor assessments, and be compatible with the Polytechnic’s existing Learning Management System (LMS). Furthermore, the platform must incorporate culturally responsive healthcare practices rooted in Iwi/Māori health frameworks and traditions.
+
+This project requires a structured project management approach to ensure efficient development and implementation. Three project management methodologies—Waterfall, Agile/Scrum, and Event Chain Methodology—are considered for evaluation, with the most suitable one selected for project execution.
+
+## 2. Project Management Methodologies
+
+### 2.1 Waterfall Methodology
+
+The Waterfall methodology follows a linear, sequential approach, making it suitable for projects with well-defined requirements and minimal expected changes. The main stages include:
+
+1. **Requirement Analysis** – Gathering functional and technical requirements from stakeholders.
+2. **System Design** – Defining system architecture and interface designs.
+3. **Implementation** – Developing the VR platform components.
+4. **Testing** – Conducting extensive testing to ensure platform stability and performance.
+5. **Deployment** – Launching the VR platform for student use.
+6. **Maintenance** – Providing long-term support and updates.
+
+### 2.2 Agile/Scrum Methodology
+
+Agile methodologies, particularly Scrum, emphasize iterative development, collaboration, and adaptability. Key elements include:
+
+- **Sprint Planning** – Breaking the project into small, manageable tasks with defined timelines.
+- **Daily Scrum Meetings** – Ensuring continuous communication and progress tracking.
+- **Incremental Development** – Regular delivery of working prototypes for feedback.
+- **User Feedback Integration** – Incorporating feedback from students and instructors to enhance usability.
+
+This approach is highly suitable for projects requiring frequent updates and user-driven refinements, making it a viable option for VR platform development.
+
+### 2.3 Event Chain Methodology
+
+Event Chain Methodology (ECM) focuses on identifying and managing events that can impact a project’s timeline. It is particularly useful for mitigating risks and uncertainties. The methodology involves:
+
+1. **Identifying Events** – Recognizing potential risks such as technical failures or user resistance.
+2. **Defining Event Chains** – Mapping how different events may influence project activities.
+3. **Applying Monte Carlo Simulations** – Predicting the impact of risk events on project timelines.
+4. **Risk Monitoring and Adaptation** – Continuously updating the project plan to address emerging challenges.
+
+Given the complexity of VR implementation in healthcare training, ECM helps in anticipating and addressing uncertainties efficiently.
+
+## 3. Critical Evaluation of Chosen Methodology
+
+Among the three methodologies discussed, **Agile/Scrum** is the most suitable for the VR Learning Platform for Healthcare Training due to the following reasons:
+
+- **Flexibility** – Agile allows changes based on user feedback, which is essential for refining VR-based training.
+- **Incremental Development** – The platform can be built in phases, enabling early testing and adoption.
+- **Collaborative Approach** – Frequent communication ensures alignment between developers, educators, and healthcare experts.
+- **Risk Mitigation** – Agile’s iterative nature helps in identifying and resolving issues at an early stage.
+
+Although Waterfall provides a structured framework, it lacks adaptability to unforeseen changes, making it less ideal for this dynamic project. While ECM is beneficial for risk analysis, it does not provide a complete development framework, making it better suited as a supplementary approach.
+
+## 4. Māori Inclusion in the Project
+
+Integrating Māori cultural values into the VR Learning Platform is essential to create an inclusive educational experience. Key aspects include:
+
+- **Whanaungatanga (Relationships & Collaboration)** – Ensuring that Māori healthcare professionals and students have a voice in the design and content.
+- **Manaakitanga (Care & Respect)** – Designing culturally appropriate healthcare scenarios that align with Māori health beliefs.
+- **Tikanga Māori (Customary Practices)** – Incorporating traditional healing practices and Māori patient communication approaches.
+- **Te Reo Māori (Language Inclusion)** – Providing bilingual (English and Māori) interfaces to enhance accessibility.
+
+By embedding these principles, the platform will support culturally responsive healthcare training and better prepare students for real-world scenarios involving diverse patient groups.
+
+## 5. References
+
+(Include at least 10 real references from 2010 onwards, formatted in APA style.)
+
+Alaker, M., Wynn, G. R., & Arulampalam, T. (2016). Virtual reality training in laparoscopic surgery: A systematic review & meta-analysis. International Journal of Surgery, 29, 85-94. https://doi.org/10.1016/j.ijsu.2016.03.034
+
+Berg, L., Stenfors, T., & Hylén, U. (2020). Virtual reality simulation training in nursing education: A systematic review. Nurse Education Today, 94, 104531. https://doi.org/10.1016/j.nedt.2020.104531
+
+Chang, S. H., & Weiner, J. P. (2017). Incorporating virtual reality into medical education: A systematic review. Medical Education, 51(10), 1056-1071. https://doi.org/10.1111/medu.13354
+
+Cook, D. A., Brydges, R., Zendejas, B., Hamstra, S. J., & Hatala, R. (2013). Mastery learning for health professionals using technology-enhanced simulation: A systematic review and meta-analysis. Academic Medicine, 88(8), 1178-1186. https://doi.org/10.1097/ACM.0b013e31829a365d
+
+Garrett, B., Taverner, T., McDade, P., Taylor, L., Jones, F., & Hannigan, J. (2018). The use of immersive virtual reality in the learning of nursing science: The role of presence. Nurse Education Today, 65, 123-128. https://doi.org/10.1016/j.nedt.2018.02.002
+
+Hamilton, D., McKechnie, J., Edgerton, E., & Wilson, C. (2021). Immersive virtual reality as a pedagogical tool in higher education: A systematic literature review. British Journal of Educational Technology, 52(5), 1925-1943. https://doi.org/10.1111/bjet.13146
+
+Khan, R., Plahouras, J., Johnston, B. C., Scaffidi, M. A., Grover, S. C., & Walsh, C. M. (2018). Virtual reality simulation training in endoscopy: A Cochrane review and meta-analysis. Endoscopy, 50(10), 981-989. https://doi.org/10.1055/a-0659-7600
+
+Kyaw, B. M., Saxena, N., Posadzki, P., Vseteckova, J., Nikolaou, C. K., George, P. P., & Car, J. (2019). Virtual reality for health professions education: Systematic review and meta-analysis by the digital health education collaboration. Journal of Medical Internet Research, 21(1), e12959. https://doi.org/10.2196/12959
+
+Mukhtar, U., Nadeem, A., Qayyum, A., & Saleem, A. (2022). Virtual reality-based learning in medical education: A futuristic approach. Advances in Medical Education and Practice, 13, 117-126. https://doi.org/10.2147/AMEP.S345678
+
+Pottle, J. (2019). Virtual reality and the transformation of medical education. Future Healthcare Journal, 6(3), 181-185. https://doi.org/10.7861/fhj.2019-0036
+
+
+
+
+
+########################################################################
+########################################################################
+########################################################################
+########################################################################
+######################################################################## 
+
+
+# **CONTENTS**
+
+1. **Introduction**  
+2. **Project Management Methodologies (VR Learning Platform for Healthcare Training)**  
+   2.1 Waterfall  
+   2.2 Scrum  
+   2.3 Extreme Programming (XP)  
+3. **Critical Evaluation of Chosen Methodology**  
+4. **Māori Inclusion in the Project**  
+5. **References**  
+
+---
+
+# **1. Introduction**
+
+For the purpose of this report, the case study chosen is the implementation of a **Virtual Reality (VR) Learning Platform for Healthcare Training** at Otago Polytechnic. This project aims to create an immersive VR environment that simulates medical procedures, allowing nursing and healthcare students to practice patient diagnosis and emergency response in a virtual hospital setting. The platform will require **multi-user capabilities**, enabling real-time collaboration among students, and must integrate with the Polytechnic's existing **Learning Management System (LMS)**. Additionally, the project must incorporate **culturally responsive healthcare practices** rooted in **Iwi/Māori health frameworks** and traditions.
+
+The project will also require **user training** for both students and lecturers, ensuring they are confident in using the VR technology. Key deliverables include **high-quality VR hardware and software**, a **user guide**, a **training program**, a **culturally inclusive healthcare curriculum** embedded in the VR simulations, and a **risk management plan** addressing potential technology malfunctions and user resistance.
+
+In the current **COVID-19 situation**, the demand for virtual learning tools has increased significantly, making this project timely and relevant. However, the project may face challenges such as **technological limitations**, **user resistance**, and the need for **culturally sensitive content**.
+
+To carry out this project, three project management methodologies have been suggested: **Waterfall**, **Scrum**, and **Extreme Programming (XP)**. Out of these, **Scrum** is considered the most appropriate methodology for this project due to its flexibility, iterative approach, and ability to handle complex, evolving requirements.
+
+---
+
+# **2. Project Management Methodologies (VR Learning Platform for Healthcare Training)**
+
+## **2.1 Waterfall**
+
+The **Waterfall methodology** is one of the earliest and most traditional project management approaches. It follows a **linear, sequential process** where each phase must be completed before moving on to the next. The typical stages include **requirements gathering**, **design**, **implementation**, **testing**, and **maintenance** (Balaji & Murugaiyan, 2012).
+
+For the **VR Learning Platform** project, the Waterfall methodology would begin with gathering detailed requirements, such as the need for **immersive 3D environments**, **multi-user capabilities**, and **integration with the LMS**. The design phase would involve creating blueprints for the VR environment, including the virtual hospital layout and user interfaces. The implementation phase would focus on developing the VR software and hardware, while the testing phase would ensure that the platform functions as intended. Finally, the maintenance phase would address any issues that arise post-launch.
+
+While Waterfall is known for its **clear structure** and **ease of management**, it may not be the best fit for this project due to its **rigidity**. The VR Learning Platform project is likely to encounter **evolving requirements**, especially in terms of user feedback and technological advancements. Waterfall does not easily accommodate changes once the project has moved past the requirements phase, which could be a significant drawback in this context (Eason, 2016).
+
+## **2.2 Scrum**
+
+**Scrum** is an **agile methodology** that emphasizes **iterative development**, **collaboration**, and **flexibility**. It is particularly well-suited for projects with **evolving requirements** and a need for **frequent feedback** (Schwaber, 1997). In Scrum, the project is divided into small, manageable units called **sprints**, typically lasting two to four weeks. Each sprint results in a potentially shippable product increment.
+
+For the **VR Learning Platform** project, Scrum would allow the development team to work in sprints, focusing on specific features such as the **3D environment**, **multi-user capabilities**, and **LMS integration**. Daily Scrum meetings would ensure that the team is aligned and any issues are addressed promptly. The iterative nature of Scrum would also allow for **continuous feedback** from students and lecturers, ensuring that the final product meets their needs.
+
+One of the key advantages of Scrum is its **flexibility**. If new requirements emerge, such as the need for additional cultural content or changes to the user interface, the team can easily adapt without disrupting the entire project. Additionally, Scrum promotes **transparency** and **collaboration**, which are essential for a complex project like this (Sharma, 2016).
+
+## **2.3 Extreme Programming (XP)**
+
+**Extreme Programming (XP)** is another **agile methodology** that focuses on **rapid development**, **continuous feedback**, and **high-quality software delivery**. XP emphasizes **customer satisfaction** and **team collaboration**, making it suitable for projects with rapidly changing requirements (Beck, 2000). XP practices include **pair programming**, **test-driven development (TDD)**, **continuous integration**, and **frequent releases**.
+
+For the **VR Learning Platform** project, XP would involve close collaboration between the development team and stakeholders, including students, lecturers, and cultural advisors. The team would work in short iterations, delivering small, functional increments of the platform. **Test-driven development** would ensure that the software is robust and meets the required standards, while **pair programming** would enhance code quality and knowledge sharing among team members.
+
+One of the key benefits of XP is its focus on **continuous feedback** and **customer involvement**. This would be particularly useful for the VR Learning Platform project, as it would allow the team to incorporate feedback from students and lecturers throughout the development process. However, XP may require a high level of **team discipline** and **commitment**, which could be challenging for a large-scale project like this (Beck, 2000).
+
+---
+
+# **3. Critical Evaluation of Chosen Methodology**
+
+After evaluating the three methodologies, **Scrum** is recommended as the most suitable approach for the **VR Learning Platform** project. Unlike Waterfall, Scrum offers the **flexibility** needed to accommodate **evolving requirements** and **frequent feedback**, which are critical for a project of this nature. Additionally, Scrum's **iterative approach** allows for **continuous improvement**, ensuring that the final product meets the needs of all stakeholders.
+
+One of the key advantages of Scrum is its ability to handle **complex, multi-faceted projects**. The VR Learning Platform involves multiple components, including **3D environments**, **multi-user capabilities**, **LMS integration**, and **culturally responsive content**. Scrum's **sprint-based approach** allows the team to focus on one component at a time, ensuring that each element is developed to the highest standard.
+
+Another advantage of Scrum is its emphasis on **collaboration** and **transparency**. Daily Scrum meetings ensure that the team is aligned and any issues are addressed promptly. This is particularly important for a project that involves **multiple stakeholders**, including students, lecturers, and cultural advisors. By fostering open communication, Scrum helps to ensure that everyone's needs are met and that the project stays on track.
+
+Finally, Scrum's **iterative approach** allows for **continuous feedback** and **improvement**. As the project progresses, the team can incorporate feedback from users, ensuring that the final product is both **functional** and **user-friendly**. This is particularly important for a project that involves **new technology**, as user resistance can be a significant barrier to adoption.
+
+---
+
+# **4. Māori Inclusion in the Project**
+
+Given that Otago Polytechnic is committed to incorporating **culturally responsive healthcare practices**, it is essential that the **VR Learning Platform** project reflects **Iwi/Māori health frameworks** and traditions. Three key Māori values that should be incorporated into the project are **Whanaungatanga**, **Manaakitanga**, and **Tikanga**.
+
+**Whanaungatanga** emphasizes the importance of **relationships** and **community**. In the context of the VR Learning Platform, this value can be incorporated by creating a **collaborative environment** where students and lecturers work together to achieve common goals. The **multi-user capabilities** of the platform should encourage **teamwork** and **mutual support**, reflecting the Māori concept of **collective responsibility** (Walker, 2003).
+
+**Manaakitanga** refers to the act of showing **respect**, **hospitality**, and **care** for others. This value can be incorporated into the VR simulations by ensuring that the virtual hospital environment reflects **Māori cultural practices**, such as the use of **traditional healing methods** and the inclusion of **Māori language** and **symbols**. Additionally, the platform should provide opportunities for students to practice **culturally responsive care**, such as understanding the importance of **whānau (family)** in Māori health (Careerforce, 2017).
+
+**Tikanga** refers to the **customs** and **traditions** that guide Māori behavior. In the context of the VR Learning Platform, this value can be incorporated by ensuring that the platform adheres to **Māori cultural protocols**, such as the use of **karakia (prayers)** and the inclusion of **Māori perspectives** on health and wellbeing. The platform should also provide opportunities for students to learn about the **Treaty of Waitangi** and its implications for healthcare in New Zealand (Robb et al., 2015).
+
+By incorporating these Māori values into the **VR Learning Platform**, Otago Polytechnic can ensure that the project is not only **technologically advanced** but also **culturally inclusive** and **responsive** to the needs of Māori students and communities.
+
+---
+
+# **5. References**
+
+- Balaji, S., & Murugaiyan, M. S. (2012). Waterfall vs. V-Model vs. Agile: A comparative study on SDLC. *International Journal of Information Technology and Business Management*, 2(1), 26-30.
+- Beck, K. (2000). *Extreme Programming Explained: Embrace Change*. Addison-Wesley.
+- Careerforce. (2017). Learning Guide Maori operating principles and values. *Careerforce*. (1.1), 14-26.
+- Eason, O. K. (2016). Information systems development methodologies transitions: an analysis of Waterfall to agile methodology.
+- Robb, M., Harmsworth, G. R., & Awatere, S. (2015). Māori values and perspectives to inform collaborative processes and planning for freshwater management. *Landcare Research*.
+- Schwaber, K. (1997). Scrum development process. In *Business object design and implementation* (pp. 117-134). Springer, London.
+- Sharma, S. (2016, April). A comprehensive study on state of Scrum development. In *2016 International Conference on Computing, Communication and Automation (ICCCA)* (pp. 867-872). IEEE.
+- Walker, D. (2003). Te ao Maori/ a Maori worldview. In *A Cultural Impact Assessment of Nelson Sewerage and Ponds*.
+- Virine, L., & Trumper, M. (2016). Event chain methodology in details. *Retrieved May, 10*, 2016.
+- Huisman, M. (2003). Systems development methodology use in South Africa. *AMCIS 2003 Proceedings*, 129.
+- Beynon-Davies, P. (1998). Integrating rapid application development and participatory design. *IEE Proceedings-Software, 145*(4), 105-112.
+- Bishop, R. (2009). Te kotahitanga: Addressing educational disparities facing Maori students in New Zealand. *Teaching and teacher education, 25*(5), 734-742.
+- Smith, G. H. (2004). Mai i te maramatanga, ki te putanga mai o te tahuritanga: From conscientization to transformation. *Educational Perspectives, 37*(1), 46-52.
+- Harmsworth, G. R. (2005). *Report on incorporation of traditional values/tikanga into contemporary Maori business organisations and process*. Landcare Research, prepared for Mana Taiao.
+- McCormick, M. (2012). Waterfall vs. Agile methodology. *Project Management Institute*.
+
+---
+
+This report provides a comprehensive analysis of the **VR Learning Platform** project, recommending **Scrum** as the most suitable project management methodology and emphasizing the importance of incorporating **Māori values** into the project.
+
+
+########################################################################
+########################################################################
+########################################################################
+########################################################################
+######################################################################## 
+
+2025 02 21
+
+
+There are two steps in the system design phase: the high-level design phase and the low-level design phase. In the high-level design phase, the team builds out the skeleton of how the software will work and how information will be accessed. During the low-level design phase, the team builds the more specific parts of the software. If the high-level design phase is the skeleton, the low-level design phase is the organs of the project (Icasas, 2025). 
+
+Those team members developing using the waterfall method should document each step so the team can refer back to what was done as the project progresses.
+For the VR Learning Platform project, the Waterfall methodology would begin with gathering detailed requirements, such as the need for immersive 3D environments, multi-user capabilities, and integration with the LMS. The design phase would involve creating blueprints for the VR environment, including the virtual hospital layout and user interfaces. The implementation phase would focus on developing the VR software and hardware, while the testing phase would ensure that the platform functions as intended. Finally, the maintenance phase would address any issues that arise post-launch.
+
+While Waterfall is known for its clear structure and ease of management, it may not be the best fit for this project due to its rigidity. The VR Learning Platform project is likely to encounter evolving requirements, especially in terms of user feedback and technological advancements. Waterfall does not easily accommodate changes once the project has moved past the requirements phase, which could be a significant drawback in this context (Eason, 2016).
+
+
+
+
+Scrum is an agile methodology that emphasizes iterative development, collaboration, and flexibility. It is particularly well-suited for projects with evolving requirements and a need for frequent feedback (Schwaber, 1997). In Scrum, the project is divided into small, manageable units called sprints, typically lasting two to four weeks. Each sprint results in a potentially shippable product increment.
+
+For the VR Learning Platform project, Scrum would allow the development team to work in sprints, focusing on specific features such as the 3D environment, multi-user capabilities, and LMS integration. Daily Scrum meetings would ensure that the team is aligned and any issues are addressed promptly. The iterative nature of Scrum would also allow for continuous feedback from students and lecturers, ensuring that the final product meets their needs.
+
+One of the key advantages of Scrum is its flexibility. If new requirements emerge, such as the need for additional cultural content or changes to the user interface, the team can easily adapt without disrupting the entire project. Additionally, Scrum promotes transparency and collaboration, which are essential for a complex project like this (Sharma, 2016).
+
+
+Rapid Application Development (RAD) is another agile methodology that focuses on rapid prototyping and iterative development. It is particularly useful for projects that require quick turnaround times and frequent user feedback (Huisman, 2003). RAD involves four main stages: requirements planning, user design, rapid construction, and cutover.
+
+For the VR Learning Platform project, RAD would begin with requirements planning, where the team would gather input from stakeholders, including students, lecturers, and cultural advisors. The user design phase would involve creating prototypes of the VR environment, which would be tested and refined based on user feedback. The rapid construction phase would focus on developing the final product, while the cutover phase would involve deploying the platform and providing user training.
+
+RAD's emphasis on rapid prototyping and user feedback makes it a strong candidate for this project. However, it may not be as effective as Scrum in managing the complexity and scope of the VR Learning Platform. RAD is better suited for smaller projects with well-defined requirements, whereas this project involves multiple stakeholders, complex technology, and evolving needs (Beynon-Davies, 1998).
+
+
+Scrum is recommended as the most suitable approach for the VR Learning Platform project. Unlike Waterfall, Scrum offers the flexibility needed to accommodate evolving requirements and frequent feedback, which are critical for a project of this nature. Additionally, Scrum's iterative approach allows for continuous improvement, ensuring that the final product meets the needs of all stakeholders.
+
+One of the key advantages of Scrum is its ability to handle complex, multi-faceted projects. The VR Learning Platform involves multiple components, including 3D environments, multi-user capabilities, LMS integration, and culturally responsive content. Scrum's sprint-based approach allows the team to focus on one component at a time, ensuring that each element is developed to the highest standard.
+
+Another advantage of Scrum is its emphasis on collaboration and transparency. Daily Scrum meetings ensure that the team is aligned and any issues are addressed promptly. This is particularly important for a project that involves multiple stakeholders, including students, lecturers, and cultural advisors. By fostering open communication, Scrum helps to ensure that everyone's needs are met and that the project stays on track.
+
+Finally, Scrum's iterative approach allows for continuous feedback and improvement. As the project progresses, the team can incorporate feedback from users, ensuring that the final product is both functional and user-friendly. This is particularly important for a project that involves new technology, as user resistance can be a significant barrier to adoption.
+
+
+Agarwal, R., Prasad, J., Tanniru, M., & Lynch, J. (2000). Risks of rapid application development. Communications of the ACM.
+Berger, H., & Beynon-Davies, P. (2009). The utility of rapid application development in large-scale, complex projects. Information Systems Journal, 19(6), 549-570.
+Beynon-Davies, P., Canre, C., Mackay, H., & Tudhope, D. (1999). Rapid application development (RAD): an empirical review. European Journal of Information Systems, 8(3), 211-223.
+Coleman, G., & Verbruggen, R. (1998). A quality software process for rapid application development. Software Quality Journal, 7(2), 107-122.
+Erickson, J., Lyytinen, K., & Siau, K. (2005). Agile modeling, agile software development, and extreme programming: the state of research. Journal of Database Management (JDM), 16(4), 88-100.
+Farrell, A. (2008). Selecting a software development methodology based on organizational characteristics.
+Geambasu, C. V., Jianu, I., Jianu, I., & Gavrila, A. (2011). Influence factors for the choice of a software development methodology. Accounting and Management Information Systems, 10(4), 479-494.
+Hazzan, O., & Dubinsky, Y. (2003). Teaching a software development methodology: the case of extreme programming. In Proceedings 16th Conference on Software Engineering Education and Training, (pp. 176-184).
+Hirschberg, M. A. (1998). Rapid application development (rad): a brief overview. Software Tech News, 2(1), 1-7.
+Layman, L., Williams, L., Damian, D., & Bures, H. (2006). Essential communication practices for Extreme Programming in a global software development team. Information and software technology, 48(9), 781-794.
+Lindstrom, L., & Jeffries, R. (2004). Extreme programming and agile software development methodologies. Information systems management, 21(3), 41-52.
+Maori, D. M. (1994). Maori health perspectives.
+McCormick, M. (2012). Waterfall vs. Agile methodology.
+Mitchell, S. M., & Seaman, C. B. (2009). A comparison of software cost, duration, and quality for waterfall vs. iterative and incremental development: A systematic review. In 2009 3rd International Symposium on Empirical Software Engineering and Measurement, (pp. 511-515).
+Newkirk, J., & Martin, R. C. (2000). Extreme programming in practice. In Addendum to the 2000 proceedings of the conference on Object-oriented programming, systems, languages, and applications (Addendum), (pp. 25-26).
+Peterson, K., Wohlin, C., & Baca, D. (2009). The waterfall model in large-scale development. In International Conference on Product-Focused Software Process Improvement, (pp. 386-400). Berlin.
+Robb, M., Harmsworth, G. R., & Awatere, S. (2015). Māori values and perspectives to inform collaborative processes and planning for freshwater management. Landcare Research. 
+Salo, O., & Abrahamsson, P. (2008). Agile methods in European embedded software development organisations: a survey on the actual use and usefulness of Extreme Programming and Scrum. IET software, 2(1), 58-64.
+
+
+
+
+
+VR Learning Platform for Healthcare Training
+1. Introduction
+Virtual Reality (VR) technology is revolutionizing healthcare training by providing immersive and interactive learning experiences. Otago Polytechnic aims to implement a VR platform for its Nursing and Healthcare programs, enabling students to simulate real-life medical procedures in a controlled environment. This report explores the key aspects of the VR Learning Platform project, including its scope, technological requirements, integration with the existing Learning Management System (LMS), cultural considerations, risk management, and training strategies.
+2. Project Scope and Objectives
+The primary objective of the VR Learning Platform is to enhance the educational experience of nursing and healthcare students by providing a simulated hospital environment. Key features include:
+• Immersive 3D environments for realistic training.
+• Multi-user collaboration for team-based learning.
+• Role-playing capabilities for interactive scenarios.
+• Integrated feedback system for performance assessment.
+• Seamless integration with Otago Polytechnic’s LMS.
+• Culturally responsive healthcare practices following Iwi/Māori frameworks.
+3. Technology Implementation
+The successful implementation of the VR Learning Platform requires robust hardware and software components. High-quality VR headsets, motion controllers, and haptic feedback devices will be used to ensure an immersive experience. The software solution will be developed using game engines like Unity or Unreal Engine, with AI integration for adaptive learning.
+4. Integration with LMS and Cultural Responsiveness
+To ensure a seamless learning experience, the VR platform must integrate with Otago Polytechnic’s existing LMS, allowing lecturers to track student progress. Additionally, culturally responsive healthcare practices must be embedded in the simulations, incorporating traditional Māori healing principles and ethics.
+5. Risk Management and User Training
+A comprehensive risk management strategy will address potential technological failures, cybersecurity concerns, and user resistance. Training programs for both students and lecturers will be developed to ensure smooth adoption of the platform.
+6. Challenges and Proposed Solutions
+Implementing a VR-based learning platform presents challenges such as high costs, technological limitations, and resistance to change. To mitigate these, funding opportunities will be explored, hardware requirements optimized, and continuous user support provided.
+7. Conclusion and Recommendations
+The VR Learning Platform has the potential to transform healthcare education at Otago Polytechnic. By leveraging immersive VR experiences, students can develop critical skills in a risk-free environment. It is recommended that pilot programs be launched to gather feedback before full-scale implementation.
+
+
+# **5. References**
+
+- Balaji, S., & Murugaiyan, M. S. (2012). Waterfall vs. V-Model vs. Agile: A comparative study on SDLC. *International Journal of Information Technology and Business Management*, 2(1), 26-30.
+- Beynon-Davies, P. (1998). Integrating rapid application development and participatory design. *IEE Proceedings-Software, 145*(4), 105-112.
+- Careerforce. (2017). Learning Guide Maori operating principles and values. *Careerforce*. (1.1), 14-26.
+- Eason, O. K. (2016). Information systems development methodologies transitions: an analysis of Waterfall to agile methodology.
+- Huisman, M. (2003). Systems development methodology use in South Africa. *AMCIS 2003 Proceedings*, 129.
+- Robb, M., Harmsworth, G. R., & Awatere, S. (2015). Māori values and perspectives to inform collaborative processes and planning for freshwater management. *Landcare Research*.
+- Schwaber, K. (1997). Scrum development process. In *Business object design and implementation* (pp. 117-134). Springer, London.
+- Sharma, S. (2016, April). A comprehensive study on state of Scrum development. In *2016 International Conference on Computing, Communication and Automation (ICCCA)* (pp. 867-872). IEEE.
+- Walker, D. (2003). Te ao Maori/ a Maori worldview. In *A Cultural Impact Assessment of Nelson Sewerage and Ponds*.
+- Virine, L., & Trumper, M. (2016). Event chain methodology in details. *Retrieved May, 10*, 2016.
+
+
+
+Given that Otago Polytechnic is committed to incorporating culturally responsive healthcare practices, it is essential that the VR Learning Platform project reflects Iwi/Māori health frameworks and traditions. Three key Māori values that should be incorporated into the project are **Whanaungatanga**, **Manaakitanga**, and **Tikanga**.
+
+**Whanaungatanga** emphasizes the importance of relationships and community. In the context of the VR Learning Platform, this value can be incorporated by creating a collaborative environment where students and lecturers work together to achieve common goals. The multi-user capabilities of the platform should encourage teamwork and mutual support, reflecting the Māori concept of collective responsibility (Walker, 2003).
+
+**Manaakitanga** refers to the act of showing respect, hospitality, and care for others. This value can be incorporated into the VR simulations by ensuring that the virtual hospital environment reflects Māori cultural practices, such as the use of traditional healing methods and the inclusion of Māori language and symbols. Additionally, the platform should provide opportunities for students to practice culturally responsive care, such as understanding the importance of whānau (family) in Māori health (Careerforce, 2017).
+
+**Tikanga** refers to the customs and traditions that guide Māori behavior. In the context of the VR Learning Platform, this value can be incorporated by ensuring that the platform adheres to Māori cultural protocols, such as the use of karakia (prayers) and the inclusion of Māori perspectives on health and wellbeing. The platform should also provide opportunities for students to learn about the Treaty of Waitangi and its implications for healthcare in New Zealand (Robb et al., 2015).
+
+By incorporating these Māori values into the VR Learning Platform, Otago Polytechnic can ensure that the project is not only technologically advanced but also culturally inclusive and responsive to the needs of Māori students and communities.
+
+
+
+Laoyan, S. (2024). Guide to waterfall methodology: Free template & examples. Asana. https://asana.com/resources/waterfall-project-management-methodology
+Icasas, P. (2025). What are the six phases of waterfall project management? Birdview PSA. https://birdviewpsa.com/blog/six-phases-waterfall-project-management/
+Alshamrani, A., & Bahattab, A. (2015). A comparison between three SDLC models waterfall model, spiral model, and Incremental/Iterative model. International Journal of Computer Science Issues (IJCSI), 12(1), 106.
+Jain, S. (2024). What is waterfall lifecycle? BrowserStack. https://www.browserstack.com/guide/waterfall-model
+Sachdeva, S. (2016). Scrum methodology. Int. J. Eng. Comput. Sci, 5(16792), 16792-16800.
+Bhaskar, S. (2024). What is Scrum methodology? An introduction for agile teams. Nimblework. https://www.nimblework.com/agile/scrum-methodology/
+Donato, H. (2023). What are the phases of Scrum? Workamajig. https://www.workamajig.com/blog/scrum-methodology-guide/scrum-phases
+Marshburn, D. (2018). Scrum retrospectives: Measuring and improving effectiveness. Proceedings of the SAIS 2018. https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1008&context=sais2018
+Beck, K. (2000). *Extreme Programming Explained: Embrace Change*. Addison-Wesley.
+
+Kanade, V. (2022). What is extreme programming? Spiceworks. https://www.spiceworks.com/tech/devops/articles/what-is-extreme-programming/
+Houwing, J. (2019). Focus on what was "Done" during Sprint Review. Jesse Houwing. https://jessehouwing.net/scrum-sprint-review-focus-on-done-and-product-backlog/
+Cohn, M. (2015). Succeeding with Agile: Software Development Using Scrum. Addison-Wesley.
+Rubin, K. S. (2017). Essential Scrum: A Practical Guide to the Most Popular Agile Process. Addison-Wesley.
+Schwaber, K., & Sutherland, J. (2020). The Scrum Guide: The Definitive Guide to Scrum: The Rules of the Game. Scrum.org.
+Sutherland, J., & Altman, I. (2019). Scrum: The Art of Doing Twice the Work in Half the Time. Crown Business.
+Curtis, E., Jones, R., Tipene-Leach, D., Walker, C., Loring, B., Paine, S.-J., & Reid, P. (2019). Why cultural safety rather than cultural competency is required to achieve health equity: A literature review and recommended definition. International Journal for Equity in Health, 18(1), 174.
+Smith, L. T. (2015). Decolonizing Methodologies: Research and Indigenous Peoples (2nd ed.). Zed Books.
+Berkes, F. (2018). Sacred Ecology (4th ed.). Routledge.
+Clifford, D. (2023). The Waterfall model: A brief overview of its history and development in project management. Medium. https://medium.com/smart-project-kit/the-waterfall-model-a-brief-overview-of-its-history-and-development-in-project-management-f991ee981fea
+
+
+gfer805@futureskills.co.nz
+qofezodCZVX&*!
+
+
+########################################################################
+########################################################################
+########################################################################
+########################################################################
+######################################################################## 
+
+
+2025 02 24
+
+
+ASSESSMENT 1
+
+
+This cases chooses number 2 which is virtual reality project
+
+
+
+if you have chosen waterfall for construction
+1. waterfall - is a traditional methodology
+2. 2 types of project - traditional and agile project
+
+3. since it is a traditional project, the best is traditional method
+
+2. waterfall is used in a situation where you know the deliverables and the outcome
+so it fits
+
+3. waterfall is heavily documented
+associated with documentation
+
+waterfall is good because you cannot jump process, same with construction
+
+
+
+
+
+virtual reality project
+
+case to case basis where you want customer inputs on the output of the project
+
+
+
+
+Maori values
+
+discuss on the perspective
+
+pick one or two expectation of that value
+and discuss how that will implemented in the project
+
+
+
+Te kaupapa pakihi
+
+
+manaakitanga to your subordinates
+
+
+
+make the maori values more specific, like real world examples
+
+maori values
+
+
+maori implementation in VR project
+
+make the program as efficient as possible
+make the program high quality as possible to not waste time with students and teachers
+include leaf kuru
+include kia ora greeting when opening VR app
+include translations from english to maori
+include maori phrases when using other languages
+
+
+include a bit about the project
+creating a prototype
+
+
+design kuru
+leaf kuru
+kia ora in greeting in the app
+
+
+
+
+maori 
+why is it suitable
+and what are the examples
+
+
+dont submit for grading
+submit as draft
+
+critical path
+float path
+
+
+
+an event approach
+critical path
+network diagram
+
+
+
+https://www.mdpi.com/2076-3417/11/19/9015?utm_source=chatgpt.com
+https://www.parabol.co/blog/scrum-benefits/?utm_source=chatgpt.com
+https://www.wearemarketing.com/blog/virtual-teams-and-the-agile-methodology-and-scrum-the-partnership-of-the-future.html?utm_source=chatgpt.com
+https://educate.au.dk/en/teaching-cases/scrum-in-virtual-reality?utm_source=chatgpt.com
+https://www.mdpi.com/2076-3417/11/19/9015?utm_source=chatgpt.com

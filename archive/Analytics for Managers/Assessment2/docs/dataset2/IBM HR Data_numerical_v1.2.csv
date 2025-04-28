@@ -1,0 +1,26 @@
+﻿problems,
+,"1. Factors that affect attrition(overtime, etc)"
+,2. Identifying employees at risk of resignation
+,3. Identifying employees at risk of resigning based on tenure from the company
+,
+,
+notes,
+scatter plot,
+regression,
+,
+,
+,
+,Problem Statement
+,"The goal is to investigate the relationship between employee attrition and overtime work in the organization. Specifically, we aim to understand whether employees who work overtime are more likely to leave the company compared to those who do not work overtime."
+,
+,Research Question
+,Why do employees who work overtime have higher attrition rates compared to those who do not work overtime?
+,
+,Objectives
+,Compare Attrition Rates: To compare the attrition rates between employees who work overtime and those who do not.
+,"Identify Differences: To identify any significant differences in job satisfaction, work-life balance, and other factors between employees who work overtime and those who do not."
+,Provide Recommendations: To provide recommendations for reducing attrition rates among employees who work overtime.
+,Methodology
+,Chi-Square Test: Perform a chi-square test to determine if there is a significant association between attrition and overtime.
+,"T-Tests or ANOVA: Conduct t-tests or ANOVA to compare job satisfaction, work-life balance, and other factors between employees who work overtime and those who do not."
+,Analysis and Insights: Analyze the results and provide actionable insights and recommendations.

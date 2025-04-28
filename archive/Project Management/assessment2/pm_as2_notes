@@ -1,0 +1,781 @@
+milestones
+
+
+
+activities for VR scrum
+
+Epic 1 Project Setup & Planning
+-Define project scope, goals, and success criteria
+-Configure version control system (GIT)
+-configure Cloud storage
+-Setup development and testing environments for VR
+-Identify required VR hardware and software (headsets, controllers)
+-identify project Management tools (Jira)
+-Develop a risk management strategy (tech malfunctions, user adoption challenges).
+
+
+Epic 2 Research & Design
+-Conduct research on culturally responsive healthcare training (Iwi/Māori frameworks).
+-Design immersive 3D hospital environment and patient simulations.
+-Plan multi-user interaction & role-playing mechanics.
+-Map out LMS integration requirements.
+-Develop wireframes and UI/UX flow for the platform.
+-Gather feedback from lecturers and students.
+
+Epic 3 VR Environment & Asset Development
+-Build 3D hospital environments (wards, ER, consultation rooms).
+-Create culturally inclusive assets and medical scenarios.
+-Implement VR patient models with realistic conditions.
+-Develop interactive medical tools (stethoscope, IVs, monitors).
+-Integrate real-world healthcare workflows into the VR environment.
+
+Epic 4 Multi-User & Role-Playing System
+-Implement real-time collaboration (multiple users in the same VR space).
+-Develop role-based functionality (students as doctors/nurses, lecturers as observers).
+-Enable voice communication and in-VR annotations.
+-Test multi-user interactions and refine networking stability.
+
+
+Epic 5 Feedback & Assessment System
+-Design a lecturer dashboard to review student performance.
+-Implement automated feedback & scoring for medical procedures.
+-Allow students to receive real-time feedback on their actions.
+-Ensure feedback aligns with healthcare best practices and cultural guidelines.
+
+Epic 6 LMS Integration
+Develop API connections between the VR platform and the existing LMS.
+Enable automatic reporting of student performance into LMS.
+Allow lecturers to assign, track, and grade VR training sessions.
+Ensure compliance with Otago Polytechnic’s learning management requirements.
+
+Epic 7. User Training & Documentation
+- Create a user-friendly guide for students and lecturers.
+- Develop onboarding tutorials within the VR experience.
+- Conduct training sessions to ensure adoption.
+- Gather user feedback to improve ease of use.
+
+Epic 8. Optimization & Performance Testing
+- Optimize VR rendering for smooth performance (reduce latency, enhance graphics).
+- Ensure platform runs effectively on required VR hardware.
+- Test for bugs, usability issues, and accessibility concerns.
+- Conduct stress tests for multi-user scalability.
+
+Epic 9 Deployment & Launch
+- Finalize software packaging for distribution.
+- Implement security and data protection measures.
+- Conduct a pilot rollout with a test group.
+- Gather last-minute feedback before the full release.
+
+Epic 10. Post-Launch Support & Future Enhancements
+- Monitor user adoption and collect feedback.
+- Provide technical support & bug fixes.
+- Update training materials based on feedback.
+- Expand scenarios and add new medical case studies over time.
+
+
+
+2025 03 12
+
+
+Project Manager
+Project Type
+Deliverables
+Project Management Method: Scrum
+Project Budget
+    Material Resources
+    Human Resources
+    Others
+    Grand Total
+Project Schedule
+    Start
+    Completion
+Milestones
+    Milestones
+    Date became milestones
+Risks
+
+2. Background and purpose
+    Brief background of OPAIC doing the initiation of this project.
+    Relating to why this project 
+    What is the purpose?
+
+3. Project Scope
+    A project scope is the total of tasks and activities that has to be completed in a project(citation)
+    In project management, defining project scope through a list of inclusiosn and exlcusions determines what the project will and will not cover.
+    Define Project Scope
+    use citations
+
+3.1 Project objective
+    a. to construct a learning space that will accomodate up to 30 students with a 3d pritting technology in a frabrication lab that will meet the growing needs of OPAICs construction school and support hands on learning
+    **What you want to deliver
+    b. implement sustainable and green building principles
+    c. maori values
+
+3.2 Deliverables
+    According to Malsam(2024), the result of project activities are known as deliverablrs.
+    ***
+    Add table of deliverables
+    *Tangible Deliverables
+    *Intangible deliverables
+    
+3.3 Milestones
+    SUmmary milestones and dates
+
+3.4 Technical Requirements
+    Define Technical requirements
+    The next section fo the report will present tehe functional and non fucntional requiremnts
+
+3.4.1 Functional Requirements
+    Define
+    Table 5
+        Functional Requirements
+        Explanation
+            eg. classroom and lab space for 30 students,
+            fabrication lab with 3d printing
+            safety and security systems
+            audio visual and IT infrastructure
+
+3.4.2 Non-FUnctional Requirements
+    Define
+    Table 6
+        eg. scalability, reliability, redundancy
+
+9 out of 66 pages
+
+3.5 Project Exclusions
+    Define project exclusions
+    Project exclusions refer to the concept of deliberate removal of particular elements or components from a construction project, sometimes done with the aim of cost-cussting, timetable......
+
+    Define what is not included in the project
+
+    ***Table 7
+        Exclusions
+        Description
+
+3.6 Project Limitations
+    Define
+
+    ***Table
+        Limitations
+        Description
+            eg. Time, Budget
+
+
+4. Project assumptions
+    According to ...., project assumptions refer to assertions or circumstances that are believed to be true or certain for planning reasons, but cannot be proved
+
+    Table
+        Project assumtpions
+        Explanations
+
+        SUfficient budget allocation
+        well allocated schedule
+        council approval
+        resources availability
+
+5. Methodology
+    define scrum
+    discuss why 
+    The next section will justify waterfall  as the mmost suitable methodology in OPAIC level 8 reconstruction
+
+
+5.1. justification
+
+    Waterfall is chosen being well suited methodology for the OPAIC level 9 reconstruction project because of waterfall is a phased strucutred methodology with leanr approoach, which is consistent with the predicable nature of the construction prohect. Mentioned that this methodology divides the project into distinct, consecutive ohases mwith each ohase completed before the next one begins, This method is especially suitable for the OPAIC level 8 reconstruction as activities and tasks in this project are expected to be done i nphases and sequentiallty as earlier tasks are expected to be done and completed before the next tasks. THis will help prevent rework or errors.
+    phase diagram
+
+5.2. Maori Values inclusion
+    Same as assessment 1, discuss the 2 maori values
+
+    Kaitiakitanga
+
+    Korero
+
+
+6. Project risks and risk management plan
+    Definition 
+    what is risk
+    what is risk management
+    Gachie defined project risk as a complex idea that includes both possible advantages and disadvantages for project goals, emphasiszing the significance of proactive risk management at each stage of the project's life cycle. While hayashie and kame, defined risk management plan as a set of steps to identify all all potential uncertainties, assess their impact and minimize or prevent losses during the project life cyucle. FUtrehmore, prerrera discussed that sisks are classified in to three types, known risks, unknown risks, unknowable risks
+    Table 11 shows the risk management plan to becarried out during the OPAIC level 8 renovation.
+
+
+    Risk diagram
+
+    Risk table
+        risk description
+        risk manager
+        likelihood of risk occurrence
+        impact of the risk
+        risk register
+        risk action
+
+
+7. Project Organisation
+    In order to improve efetivenenss, roganisational structure uses a framework that maps 
+
+    table
+        names, roles, responsibility, reporting 
+
+
+8. COmmunications with stakeholders
+
+8.1 stakehodlers identification
+    define
+    stakeholder identification is a dynmamic and improtant process that requires a combination of conceptual intellectual, and interpersonal skills to ensure project success. FIrthermore, stakeholders are typaclly classified into internal and external groups. define internal and external stakeholders
+
+    stakehodlers identification
+    table
+        stakeholder
+        role
+        influence level(low, medium, high)
+        decisional influence (low, medium, high)
+        Internal/External
+
+
+    8.2 Stakehodlers communication management plan
+
+    stakeholders communication management plan
+    table
+        communication
+        purpose
+        stakeholder/recipient
+        role
+        owner/sender
+
+
+9. Change Management Plan
+    define 
+
+    Diagram
+
+    table
+    change management process
+        steps
+        activity
+        objective
+        incharge
+        method of communication
+
+
+    sample request for change form
+
+10. project estimation techniques
+    define
+
+    parametric estimation
+    threepoint estimation
+    bottom up estimate
+    analogous estimation
+
+11. budget
+    define
+
+    table budget
+    OPAIC level 8 renovation budget
+        description
+        quantity
+        amount
+        total
+
+12. Quality COntrol and AUdit
+    Define
+        1. Planning phase
+            ISO 9001 Clause 6.1: Actions to address risks and opportunities
+        2. Procurement Phase
+        3.  Execution and Mnitoring Phase  
+            ISO 9001
+        4. CLoseout Phase
+            ISO 9001 Clause 9.1.2: Customer Satisfaction
+
+    In essecne applying these ISO 9001 clauses at each pahse ensures that the OPAIC prohect maintains conssitnet qualtiy ,satisfies sustainability goalsm and respects cultural values throught the prohect lifecycle
+
+13. Project closure
+    1. final payments
+    2. post construction 
+    3. 
+    4. 
+    5. testing and commisioaning
+    6. adressing snag list
+    7. financial managemnt
+    8. planning for future projects
+
+cost
+wbs
+milestones
+
+nz.talent.com
+
+
+
+
+
+
+
+EVENTS
+
+
+
+
+\
+
+
+Project name
+Project manager
+Prohject type Edicational software developemnt project
+project goal
+deliverables
+    tangible deliberables
+        the online simulation game platform
+        game source code
+
+    intangible deliverables
+        interactive learning experience
+        collaborative learning envi
+        student satisafaction
+        knowledge transfer
+
+
+prohect management method
+    water scrum fall hybrid method
+
+project budget
+    cost category
+        personnel resource allocation
+        software tools licensing
+        infrastrucutre costs
+        training and documentation cost
+        contigency fund
+        total cost
+    estimated total amount
+
+    comment: human, non human, others
+        
+
+project schedule
+    project
+    no of days
+    start days
+    end date
+
+    phase
+    no of days
+    start date
+    end date
+
+
+    250 days
+
+Milestones
+    Milestones
+    Expected Date
+    
+    comment: set 0 days
+
+Risks
+    1. techinical challenges
+
+
+2. Background and purpose
+
+3. Project Scope
+
+3.1 Objectives
+    what are the objectives of the project
+
+3.2 Deliverables
+    Define 
+
+    Table 1
+    Tangible and intangible delbirrablrs
+
+        Tangible deliberables
+            past game repository
+            training materials and documentation
+        DEscription
+
+    Intangible deliverables
+        interactive learning experience
+        collaborative learning environment
+        knowledge transfer
+        student satisfaction
+        cultural sensitivity integration
+    Description
+
+3.3 Milestone
+    Define
+    
+    Table
+        Phase
+        Milestones
+        Date became milestones
+
+    
+3.4 Technical requirements
+    Technical requirements are the technical details; all of the specifications needed to design, build, deploy and operate the system, 
+
+3.4.1 FUnctional requirements
+    FUnctional requirements refer to what the system should do and typpically describe processes like data input
+
+    Table
+        No
+        FUnctional requirements
+            game simulation
+            User authentication and access control
+            real time collaboration tools
+            learning repo
+            maori cultural sensitivity integration
+        Description
+            The game should need to be a siulation of a real world project management scenario, specifically a skycraper in central auckland
+            The game should provide a role palyt prpject team where 
+
+3.4.2 non functional requirements
+    
+    table 4
+        non functional requirements
+            perfomrance
+            scalability
+            availability
+            security
+            usability
+            compatibility
+            backup and disaster recovery
+        description
+
+
+        table 
+            exclusions
+                physical hardware development
+                third part tool integration
+                mobile application development
+                real time project tracking and external databse integration
+                virtual reality and augmented reality features
+            description
+
+
+lImitiations
+    table
+
+
+Table 6
+    limitaion
+        time limit
+        budget
+        legal
+        infrsastruction
+    description
+
+4. Project assumption
+    define
+
+    table 7
+        assumptions
+            availability of human resources
+            tech infrastructure
+            budget adn financial
+            platform compatibility
+            timeframe and milestones
+        explanation
+
+5. Methodology
+
+5.1 justification
+
+5.2 Maori Inclusion
+    
+6. Project risk and risk managemtn plan
+    Define
+        first step si risk identification
+
+    Table 8
+    RIsk Manamgent plan
+        project risk
+
+7. Project organization 
+    define
+
+    table 9
+    project organization
+        name status
+        fucntional roles
+        responsibilites
+        reporting to
+
+8. Communciations with stakeholders
+    define
+
+    for online simulation game development project at OPAIC, stakeholder communication would consist of regular updates, collaborative discussions and document sharing to align all parties involved with the projets obejctives. this is about establising a fomalized commnicational patternm ,whcich will include tools routiens and techniques such as scrum mettings, proejct reports, emaiol updates and feedback sessions, Adjustments in commnincation to meet the needs and expectation fo multiple stakeholders is key
+
+8.1 stakeholders identification
+
+    table
+    stakeholder identification table
+        role
+            OPAIC board
+            program director OPAIC
+            project manager
+            scrum master/tech lead
+            Finance manager
+        influence leel
+        decisional influence
+        interval/external
+
+
+    table 11
+    stakeholders communication management Plan
+        stakeholder
+        role
+        purpose
+        mode/channel of communication
+        frequency
+        time
+        participants
+
+
+    three point estimate
+
+11. budget
+
+    table
+    prseonnel cost
+        role
+        hourly rate
+        hours estimated
+        total cost
+        source
+
+13. Project Closure
+
+
+
+2025 03 20
+
+# VR Learning Platform for Healthcare Training
+
+## 1. Executive Summary
+
+The VR Learning Platform for Healthcare Training is an innovative project aimed at enhancing the educational experience for Nursing and Healthcare students at Otago Polytechnic. The platform will leverage virtual reality (VR) technology to simulate real-world medical procedures, enabling students to practice and refine their skills in a safe, immersive environment. The platform will feature multi-user capabilities, allowing students to collaborate in real-time, and will integrate with the Polytechnic's existing Learning Management System (LMS). Additionally, the platform will incorporate culturally responsive healthcare practices rooted in Iwi/Māori health frameworks and traditions.
+
+The project will be managed using the Scrum methodology, ensuring flexibility, iterative development, and continuous stakeholder feedback. The key deliverables include the development of immersive 3D environments, role-playing simulations, an integrated feedback system, and user training programs for both students and lecturers. The project will also address potential risks, such as technology malfunctions and user resistance, through a comprehensive risk management plan.
+
+The estimated budget for the project is NZD 250,000, with a projected completion timeline of 12 months. The project will be executed in six sprints, each focusing on specific deliverables, culminating in the final release of the VR platform.
+
+## 2. Background and Purpose
+
+Otago Polytechnic is committed to providing high-quality, career-focused education to its students. The Nursing and Healthcare programs are among the most popular, with a strong emphasis on practical, hands-on training. However, the COVID-19 pandemic has highlighted the need for innovative, flexible learning solutions that can adapt to changing circumstances, such as lockdowns and social distancing measures.
+
+The VR Learning Platform for Healthcare Training aims to address these challenges by providing students with a virtual environment where they can practice medical procedures, collaborate with peers, and receive real-time feedback from lecturers. The platform will also incorporate culturally responsive healthcare practices, ensuring that students are equipped to provide care that is sensitive to the needs of diverse populations, particularly Māori communities.
+
+The purpose of this project is to create a state-of-the-art VR platform that enhances the learning experience for Nursing and Healthcare students, improves their practical skills, and prepares them for real-world healthcare scenarios. The platform will also support lecturers in delivering high-quality education, even in remote or hybrid learning environments.
+
+## 3. Project Scope
+
+### 3.1 Objectives
+
+The primary objectives of the VR Learning Platform for Healthcare Training project are:
+
+1. **Develop an Immersive VR Environment**: Create a virtual hospital environment where students can simulate medical procedures, such as patient diagnosis and emergency response.
+2. **Enable Multi-User Collaboration**: Allow multiple students to collaborate in real-time within the VR environment, facilitating teamwork and communication skills.
+3. **Integrate Feedback System**: Develop an integrated feedback system that allows lecturers to review student performance and provide constructive feedback.
+4. **Cultural Responsiveness**: Incorporate culturally responsive healthcare practices rooted in Iwi/Māori health frameworks and traditions.
+5. **User Training**: Provide comprehensive training programs for students and lecturers to ensure they are confident in using the VR technology.
+6. **Integration with LMS**: Ensure seamless integration with Otago Polytechnic's existing Learning Management System (LMS).
+
+### 3.2 Deliverables
+
+#### Tangible Deliverables
+
+| **Deliverable**                          | **Description**                                                                 |
+|------------------------------------------|---------------------------------------------------------------------------------|
+| VR Hardware                              | High-quality VR headsets and controllers for students and lecturers.            |
+| VR Software                              | Immersive 3D environments and role-playing simulations for medical procedures.  |
+| Feedback System                          | Integrated system for lecturers to review and provide feedback on student performance. |
+| User Guide                               | Comprehensive guide for using the VR platform, including troubleshooting tips.  |
+| Training Program                         | Training sessions for students and lecturers on how to use the VR platform.     |
+| Culturally Inclusive Curriculum          | Curriculum embedded in the VR simulations that reflects Iwi/Māori health frameworks. |
+
+#### Intangible Deliverables
+
+| **Deliverable**                          | **Description**                                                                 |
+|------------------------------------------|---------------------------------------------------------------------------------|
+| Enhanced Learning Experience             | Improved practical skills and confidence for students through immersive VR training. |
+| Increased Student Satisfaction           | Higher levels of student satisfaction due to engaging and interactive learning. |
+| Improved Lecturer Efficiency             | Lecturers can provide more effective feedback and monitor student progress more efficiently. |
+| Cultural Competence                      | Students gain a deeper understanding of culturally responsive healthcare practices. |
+
+### 3.3 Milestones
+
+| **Milestone**                            | **Date**               | **Description**                                                                 |
+|------------------------------------------|------------------------|---------------------------------------------------------------------------------|
+| Project Kick-off                         | 01/11/2023            | Official start of the project, including team formation and initial planning.  |
+| VR Hardware Procurement                  | 15/11/2023            | Purchase and delivery of VR headsets and controllers.                          |
+| VR Environment Development               | 15/12/2023            | Completion of the initial 3D virtual hospital environment.                     |
+| Feedback System Integration              | 15/01/2024            | Integration of the feedback system with the VR platform.                       |
+| User Training Program Development        | 15/02/2024            | Development of training materials and sessions for students and lecturers.     |
+| Final Platform Release                   | 15/04/2024            | Full release of the VR platform, including all features and integrations.      |
+| Project Closure                          | 30/04/2024            | Final review, documentation, and handover to Otago Polytechnic.                |
+
+### 3.4 Technical Requirements
+
+#### 3.4.1 Functional Requirements
+
+| **Requirement**                          | **Description**                                                                 |
+|------------------------------------------|---------------------------------------------------------------------------------|
+| Multi-User Collaboration                 | The platform must support real-time collaboration for up to 10 users.           |
+| Immersive 3D Environment                 | The VR environment must be highly immersive, with realistic medical scenarios.  |
+| Feedback System                          | Lecturers must be able to review and provide feedback on student performance.   |
+| LMS Integration                          | The platform must integrate seamlessly with Otago Polytechnic's LMS.            |
+| Cultural Responsiveness                  | The platform must include culturally responsive healthcare practices.           |
+
+#### 3.4.2 Non-Functional Requirements
+
+| **Requirement**                          | **Description**                                                                 |
+|------------------------------------------|---------------------------------------------------------------------------------|
+| Performance                              | The platform must have a response time of less than 1 second for all actions.   |
+| Security                                 | The platform must protect student data and comply with data protection laws.    |
+| Scalability                              | The platform must support up to 500 concurrent users.                           |
+| Usability                                | The platform must be easy to use, with intuitive controls and navigation.       |
+| Reliability                              | The platform must have a 99% uptime guarantee.                                  |
+
+### 3.5 Project Exclusions
+
+| **Exclusion**                            | **Description**                                                                 |
+|------------------------------------------|---------------------------------------------------------------------------------|
+| Mobile Application Development           | The project will not include the development of a mobile application.           |
+| Ongoing Maintenance                      | The project does not cover ongoing maintenance after the final release.         |
+| Additional Hardware                      | The project will not provide additional VR hardware beyond the initial purchase.|
+
+### 3.6 Project Limitations
+
+| **Limitation**                           | **Description**                                                                 |
+|------------------------------------------|---------------------------------------------------------------------------------|
+| Budget Constraints                       | The project is limited to a budget of NZD 250,000.                              |
+| Timeline                                 | The project must be completed within 12 months.                                 |
+| Resource Availability                    | The project is dependent on the availability of skilled VR developers.          |
+| Integration with LMS                    | The project is limited by the capabilities of Otago Polytechnic's existing LMS. |
+
+## 4. Project Assumptions
+
+| **Assumption**                           | **Description**                                                                 |
+|------------------------------------------|---------------------------------------------------------------------------------|
+| Stakeholder Availability                 | Stakeholders will be available for regular feedback and review sessions.        |
+| Technology Readiness                     | The required VR technology is mature and readily available.                     |
+| User Acceptance                          | Students and lecturers will be willing to adopt the new VR platform.            |
+| Budget Stability                         | The project budget will remain stable throughout the project duration.          |
+
+## 5. Methodology
+
+### 5.1 Justification
+
+The Scrum methodology is well-suited for the VR Learning Platform project due to its iterative and flexible nature. Scrum allows for continuous feedback and adaptation, which is crucial for a project involving cutting-edge technology like VR. The project will be divided into six sprints, each focusing on specific deliverables, such as the development of the VR environment, integration with the LMS, and user training. Daily stand-up meetings, sprint reviews, and retrospectives will ensure that the project stays on track and that any issues are addressed promptly.
+
+Scrum also promotes collaboration and transparency, which are essential for a project with multiple stakeholders, including students, lecturers, and IT staff. By using Scrum, the project team can ensure that the final product meets the needs of all stakeholders and delivers maximum value.
+
+## 6. Project Risks and Risk Management Plan
+
+| **Risk**                                | **Likelihood** | **Impact** | **Risk Score** | **Mitigation Actions**                                                                 |
+|-----------------------------------------|----------------|------------|----------------|---------------------------------------------------------------------------------------|
+| Technology Malfunctions                 | High           | High       | 25             | Regular testing and quality assurance throughout the development process.             |
+| User Resistance                         | Medium         | High       | 15             | Provide comprehensive training and support to students and lecturers.                |
+| Budget Overruns                         | Medium         | Medium     | 10             | Monitor expenses closely and adjust the project scope if necessary.                   |
+| Delays in Development                   | Medium         | Medium     | 10             | Use agile methodologies to adapt to changes and ensure timely delivery.               |
+| Integration Issues with LMS             | Low            | High       | 5              | Conduct thorough testing of the integration with the LMS before the final release.    |
+
+## 7. Project Organisation
+
+| **Name**            | **Role**          | **Responsibilities**                                                                 | **Reporting To** |
+|---------------------|-------------------|-------------------------------------------------------------------------------------|------------------|
+| Project Manager     | Project Manager   | Overall project management, including scope, schedule, and budget.                 | Project Sponsor  |
+| Scrum Master        | Scrum Master      | Facilitates Scrum processes, removes impediments, and ensures team productivity.    | Project Manager  |
+| Product Owner       | Product Owner     | Represents stakeholders, prioritizes the product backlog, and ensures value delivery.| Project Manager  |
+| VR Developer        | Developer         | Develops the VR environment and simulations.                                        | Scrum Master     |
+| LMS Integration     | Developer         | Integrates the VR platform with the existing LMS.                                   | Scrum Master     |
+| UX/UI Designer      | Designer          | Designs the user interface and ensures usability.                                   | Scrum Master     |
+| QA Tester           | Tester            | Conducts quality assurance testing throughout the development process.              | Scrum Master     |
+
+## 8. Communications with Stakeholders
+
+### 8.1 Stakeholders Identification
+
+| **Stakeholder**            | **Role**                          | **Influence Level** | **Decisional Influence** | **Internal/External** |
+|----------------------------|-----------------------------------|---------------------|--------------------------|-----------------------|
+| Project Sponsor            | Otago Polytechnic Executive       | High                | High                     | Internal              |
+| Students                   | End-users of the VR platform      | Medium              | Low                      | Internal              |
+| Lecturers                  | End-users of the VR platform      | Medium              | Medium                   | Internal              |
+| IT Department              | Technical support and integration | High                | Medium                   | Internal              |
+| Māori Health Consultants   | Cultural advisors                | High                | High                     | External              |
+
+### 8.2 Stakeholder Communications Management Plan
+
+| **Role**                  | **Purpose**                      | **Mode/Channel** | **Frequency** | **Participants** |
+|---------------------------|----------------------------------|------------------|---------------|------------------|
+| Project Sponsor           | Project updates and approvals    | Email/Meetings   | Weekly        | Project Manager  |
+| Students                  | Feedback and training            | Workshops        | Monthly       | Scrum Master     |
+| Lecturers                 | Feedback and training            | Workshops        | Monthly       | Scrum Master     |
+| IT Department             | Technical updates and support    | Meetings         | Bi-weekly     | Scrum Master     |
+| Māori Health Consultants  | Cultural integration feedback    | Meetings         | Monthly       | Product Owner    |
+
+## 9. Change Management Plan
+
+The change management plan will follow a structured process to ensure that any changes to the project scope, schedule, or budget are carefully evaluated and approved. The process will include:
+
+1. **Change Request Submission**: Stakeholders can submit change requests through a formal process, detailing the nature of the change and its impact.
+2. **Change Evaluation**: The Project Manager, Scrum Master, and Product Owner will evaluate the change request, considering its impact on the project.
+3. **Approval**: If the change is approved, it will be added to the product backlog and prioritized for implementation in the next sprint.
+4. **Implementation**: The change will be implemented during the next sprint, with regular updates provided to stakeholders.
+
+## 10. Project Estimation Technique
+
+The project will use a combination of **bottom-up estimation** and **parametric estimation** to ensure accuracy. Bottom-up estimation will be used to break down the project into smaller tasks, with each task estimated individually. Parametric estimation will be used to adjust the estimates based on historical data from similar projects.
+
+## 11. Budget
+
+The estimated budget for the project is NZD 250,000, with the following breakdown:
+
+| **Phase**                | **Estimated Cost (NZD)** |
+|--------------------------|--------------------------|
+| VR Hardware              | 50,000                  |
+| VR Software Development  | 100,000                 |
+| Feedback System          | 30,000                  |
+| User Training            | 20,000                  |
+| LMS Integration          | 20,000                  |
+| Contingency              | 30,000                  |
+
+## 12. Quality Control and Audit
+
+Quality control will be integrated into every sprint, with regular testing and reviews to ensure that the VR platform meets all functional and non-functional requirements. An independent audit will be conducted at the end of the project to ensure compliance with project standards and stakeholder expectations.
+
+## 13. Project Closure
+
+| **Activity**                             | **Date**               | **Description**                                                                 |
+|------------------------------------------|------------------------|---------------------------------------------------------------------------------|
+| Final Product Review                     | 15/04/2024            | Review of the final VR platform with stakeholders.                              |
+| User Training Completion                 | 20/04/2024            | Completion of training sessions for students and lecturers.                     |
+| Handover to Otago Polytechnic            | 25/04/2024            | Formal handover of the VR platform and all documentation.                       |
+| Project Closure Meeting                  | 30/04/2024            | Final project review and closure meeting with all stakeholders.                 |
+
+## References
+
+1. Schwaber, K. (2004). *Agile Project Management with Scrum*. Microsoft Press.
+2. Highsmith, J., & Cockburn, A. (2001). Agile software development: The business of innovation. *Computer*, 34(9), 120-127.
+3. Aziz, E. E. (2015). Project closing: The small process group with big impact. *Paper presented at PMI® Global Congress 2015---EMEA, London, England. Newtown Square, PA: Project Management Institute.*
+4. Boogaard, K. (2020). *What are Project Assumptions?* Wrike.com. https://www.wrike.com/blog/what-are-project-assumptions/
+5. Brammer, S., & Clark, T. (2020). COVID‐19 and management education: Reflections on challenges, opportunities, and potential futures. *British Journal of Management*, 31(3), 453.
+6. Chang, G. C., & Yano, S. (2020). How are countries addressing the Covid-19 challenges in education? A snapshot of policy measures. *World Educ. blog*.
+7. Dolfing, H. (2015). *Budgeting a Scrum Project.* HenricoDolfing. https://www.henricodolfing.com/2015/08/agile-budgeting.html
+8. Fageha, M. K., & Aibinu, A. A. (2013). Managing project scope definition to improve stakeholders' participation and enhance project outcome. *Procedia-Social and Behavioral Sciences*, 74, 154-164.
+9. Goodrich, B. (2015). *Analogous estimating vs Parametric estimating.* PM Learning Solutions. https://www.pmlearningsolutions.com/blog/analogous-estimating-vs-parametric-estimating-pmp-concept-4
+10. Gumz, J. (2006). Help! Your project has been selected for an audit---what now? *Paper presented at PMI® Global Congress 2006---EMEA, Madrid, Spain. Newtown Square, PA: Project Management Institute.*
+11. Heinemann, L., Hummel, B., & Steidl, D. (2014). Teamscale: Software quality control in real-time. *Companion Proceedings of the 36th International Conference on Software Engineering*, 592-595.
+12. Hughes, K. (2019). *Project Organisation 101: How to structure your project.* ProjectManager.com https://www.projectmanager.com/blog/project-organization-101
+13. Jaber, H., Marle, F., Vidal, L. A., & Didiez, L. (2018). Criticality and propagation analysis of impacts between project deliverables. *Research in Engineering Design*, 29(1), 87-106.
+14. Kwon, H., & Kang, C. W. (2019). Improving project budget estimation accuracy and precision by analyzing reserves for both identified and unidentified risks. *Project Management Journal*, 50(1), 86-100.
+15. McAbee, J. (2021). *A Complete Guide to Milestone Charts.* Wrike.com. https://www.wrike.com/blog/milestone-charts-guide/
+
+## Appendix
+
+- **Appendix A**: Detailed Work Breakdown Structure (WBS)
+- **Appendix B**: Risk Register
+- **Appendix C**: Stakeholder Analysis Matrix
+- **Appendix D**: Change Request Form Template
+- **Appendix E**: Project Schedule (Gantt Chart)

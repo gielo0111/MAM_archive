@@ -1,0 +1,420 @@
+ 
+_________________________________________________________________________________
+
+MAMC01803 Analytics for Managers
+Assignment 2 - Report
+_________________________________________________________________________________
+Study Block 1	10th February – 11th April, 2025
+Date issued	
+Due date	7th April (Monday W9)	Time	Before 9:00 AM
+Delivery:	Submit to Turnitin via Moodle before deadline
+Weighting	70%
+Marks out of	30
+Instructions	Complete this cover sheet and attach to you your assignment.
+•	This assignment must be your own work.
+•	Collusion, copying or plagiarism may result in disciplinary action.
+•	We advise that you keep a copy of this assignment.
+•	Word limit is 3000
+
+Refer to following website for reference related resources:
+https://studentservices.op.ac.nz/assets/Uploads/OP-APA-7th-quick-guide-May-2020.pdf
+
+	I confirm that: 
+This is an original assessment and is entirely my own work. 
+Where ideas, tables, diagrams etc. of other writers have been used, I have acknowledged the source in every case. 
+This assignment has not been, nor will be, submitted as assessed work for any other academic course. 
+Student’s Name	 ID No 	Signature 
+ Gielo Joseph Fernandez
+	737214696	 Gielo
+Date	 March 24, 2025	Cohort Number 	 1
+
+
+
+Table of Contents
+1. INTRODUCTION	1
+2. IBM EMPLOYEE ATTRITION DATASET	2
+2.1 Table of categorization of variables into categorical or nominal along with the description of the variables	3
+3. Business Problems	5
+3.1 Identifying and analysing factors affecting attrition rate in a company	5
+3.2 Identifying and Analysing Factors that affect Job Satisfaction in a company	12
+3.3 Identifying and Analysing Factors that affect Relationship Satisfaction in a company	14
+4. Conclusion	26
+5. References	26
+
+
+1. INTRODUCTION
+	In the HR world, analytics in human resources have been around for years, as far as 1900s, traces of notion of measurement in human resources can be found (Marler & and Boudreau, 2017). So, what is HR Analytics? HR analytics is by using statistical methods to integrate HR, talent management, financial, and operational data to create insights on how investments in human capital assets contribute to key business outcomes such as generating revenue, minimizing expenses, mitigating risks, and executing strategic plans (Lalwani, 2025).
+	This report aims to analyse an HR department of a big company in management of workforce, with a focus on handling employee retention, job satisfaction, and work-life balance. Using different types of analytics method, and with the support of relevant and recent articles, this report showcases how HR management can leverage analytics methods to make confident data driven decisions that is supported by data. 
+This dataset was selected from Kaggle (Ghate, 2020). From this dataset, we identified problems relating to factors affecting attrition, work-life balance, and job satisfaction. We used the 4 different analytics techniques (Descriptive, Diagnostic, Predictive, Prescriptive) along with journal articles to analyse the dataset.
+Section two discusses the dataset that will be used in this report. Section three discusses the three business problems identified, as well as analyses done and recommendation. Lastly, Section four concludes the report and provides the limitation of the study.
+
+2. IBM EMPLOYEE ATTRITION DATASET
+A dataset is an organized collection of data. The most basic representation of a dataset is data elements presented in tabular form. Each column represents a particular variable. Each row corresponds to a given value of that column’s variable (Pecherskiy, 2016). Each column is categorised into numerical or categorical data. Then it is further categorised into the four levels of measurement: nominal, ordinal, interval and ratio. These levels are used to categorize and describe data based on their characteristics and properties (Stevens, 2023).
+This dataset is about the employee attrition of IBM employees which were created by IBM data scientists, which was sourced from Kaggle (Ghate, 2020). The dataset consists of over 23436 rows, and 37 columns. This dataset can be used to address real world issues such as employee attrition, work life balance, job satisfaction, etc.. 
+Regarding data cleaning the following steps were executed. First, rows that contained empty values were removed. Second, rows that had misaligned values or values that contained data from a different column were removed. Third, rows, that contained values ‘Test’ were removed as well. Since we have columns that contained categorical values, we needed to coded them into numerical values so that we can do clustering or prescriptive analytics. After data cleaning, we are left with 10005 rows for data analyses.
+For data coding, the table below shows the equivalent numerical value based on the categorical representation.
+Table 1 
+Data Coding
+Variables	Coding
+Attrition	0 = 'Current Employee', 1 = 'Voluntary Resignation'
+Business Travel Frequency	0 = 'Non-Travel', 1 = 'Travel_Rarely', 2 = 'Travel_Frequently'
+Department	0 = 'Sales', 1 = 'Human Resources', 2 = 'Research & Development'
+Education Field	0 = 'Life Sciences', 1 = 'Human Resources', 2 = 'Marketing', 3 = 'Medical', 4 = 'Technical Degree', 5 = 'Other'
+Gender	0 = 'Male', 1 = 'Female'
+Job Role	0 = 'Healthcare Representative', 1 = 'Human Resources', 2 = 'Laboratory Technician', 3 = 'Manager', 4 = 'Manufacturing Director', 5 = 'Research Director', 6 = 'Research Scientist', 7 = 'Sales Executive', 8 = 'Sales Representative'
+Marital Status	0 = 'Single', 1 = 'Divorced', 2 = 'Married'
+Age Over18	0 = 'No', 1 = 'Yes'
+Overtime	0 = 'No', 1 = 'Yes'
+Employee Source	0 = 'Adzuna', 1 = 'Company Website', 2 = 'GlassDoor', 3 = 'Indeed', 4 = 'Jora', 5 = 'Linkedin', 6 = 'Recruit.net', 7 = 'Referral', 8 = 'Seek'
+Duration At Company	0 = '0-2', 1 = '3-4', 2 = '5-6', 3 = '7-8', 4 = '9-40'
+Hourly Rate Bracket	0 = '30-45', 1 = '46-60', 2 = '61-75', 3 = '76-90', 4 = '91-100’
+ 
+
+2.1 Table of categorization of variables into categorical or nominal along with the description of the variables
+
+Table 2
+ Variables and description
+Variables	Type of Data	Type of Measurement
+Age	Numerical	Ratio
+Attrition	Categorical	Nominal
+Business Travel Frequency	Categorical	Ordinal
+Daily Rate	Numerical	Ratio
+Department	Categorical	Nominal
+Distance From Home	Numerical	Ratio
+Education Level	Categorical	Ordinal
+Education Field	Categorical	Nominal
+Employee Count	Numerical	Ratio
+Employee Number	Categorical	Nominal
+Application ID	Categorical	Nominal
+Environment Satisfaction	Categorical	Ordinal
+Gender	Categorical	Nominal
+Hourly Rate	Numerical	Ratio
+Job Involvement	Categorical	Ordinal
+Job Level	Categorical	Ordinal
+Job Role	Categorical	Nominal
+Job Satisfaction	Categorical	Ordinal
+Marital Status	Categorical	Nominal
+Monthly Income	Numerical	Ratio
+Monthly Rate	Numerical	Ratio
+Number of Companies Worked	Numerical	Ratio
+Age Over18	Categorical	Nominal
+Overtime	Categorical	Nominal
+Percent Salary Hike	Numerical	Ratio
+Performance Rating	Categorical	Ordinal
+Relationship Satisfaction	Categorical	Ordinal
+Standard Working Hours	Numerical	Ratio
+Stock Option Level	Categorical	Ordinal
+Total Working Years	Numerical	Ratio
+Training Times Last Year	Numerical	Ratio
+Work Life Balance	Categorical	Ordinal
+Years At Company	Numerical	Ratio
+Years In Current Role	Numerical	Ratio
+Years Since Last Promotion	Numerical	Ratio
+Years With Curr Manager	Numerical	Ratio
+Employee Source	Categorical	Nominal
+Duration At Company	Categorical	Ordinal
+Hourly Rate Bracket	Categorical	Ordinal
+
+Table 3
+Variable description
+Variables	Description
+Age	Age of Employee
+Attrition	whether the employee has left the company (Voluntary Resignation) or is still employed (Current employee).
+Business Travel Frequency	frequency of business travel for the employee (e.g., Travel_Rarely, Travel_Frequently, Non-Travel).
+Daily Rate	daily rate of pay for the employee.
+Department	department in which the employee works (e.g., Research & Development, Sales, Human Resources).
+Distance From Home	distance between the home and workplace
+Education Level	education level of the employee (1 = 'Below College', 2 = 'College', 3 = 'Bachelor', 4 = 'Master', 5 = 'Doctor')
+Education Field	field of education of the employee (e.g., Life Sciences, Medical, Marketing, Technical Degree, Human Resources, Other)
+Employee Count	count of employee(usually 1)
+Employee Number	unique identifier for each employee
+Application ID	The application ID associated with the employee.
+Environment Satisfaction	The employee's satisfaction with the work environment (1 = 'Low', 2 = 'Medium', 3 = 'High', 4 = 'Very High')
+Gender	gender of the employee (e.g., Male, Female)
+Hourly Rate	hourly rate of pay for the employee
+Job Involvement	The level of involvement the employee has in their job (1 = 'Low', 2 = 'Medium', 3 = 'High', 4 = 'Very High')
+Job Level	The level of the employee's job within the organization(1='Entry Level',2='Intermediate',3='Experienced',4='Managerial',5='Executive')
+Job Role	The role or position of the employee (e.g., Research Scientist, Sales Executive, Laboratory Technician)
+Job Satisfaction	The employee's satisfaction with their job (1 = 'Low', 2 = 'Medium', 3 = 'High', 4 = 'Very High')
+Marital Status	The marital status of the employee (e.g., Single, Married, Divorced)
+Monthly Income	The monthly income of the employee. Usually the base pay.
+Monthly Rate	Includes the monthly income plus other bonuses.
+Number of Companies Worked	The number of companies the employee has worked for.
+Age Over18	Indicates whether the employee is over 18 years old (usually a constant value of 'Y').
+Overtime	Indicates whether the employee works overtime (e.g., Yes, No).
+Percent Salary Hike	The percentage increase in salary for the employee.
+Performance Rating	The performance rating of the employee (1 = 'Low', 2 = 'Good', 3 = 'Excellent', 4 = 'Outstanding').
+Relationship Satisfaction	The employee's satisfaction with their relationships at work (1 = 'Low', 2 = 'Medium', 3 = 'High', 4 = 'Very High').
+Standard Working Hours	The standard number of working hours (usually a constant value of 80).
+Stock Option Level	The level of stock options granted to the employee (0 = 'None', 1 = 'Low', 2 = 'Medium', 3 = 'High').
+Total Working Years	The total number of years the employee has worked.
+Training Times Last Year	The number of training sessions the employee attended in the last year.
+Work Life Balance	The employee's perception of their work-life balance (1 = 'Bad', 2 = 'Good', 3 = 'Better', 4 = 'Best').
+Years At Company	The number of years the employee has been with the company.
+Years In Current Role	number of years the employee has been in their current role.
+Years Since Last Promotion	The number of years since the employee's last promotion.
+Years With Curr Manager	The number of years the employee has worked with their current manager.
+Employee Source	source from which the employee was recruited (e.g., Adzuna, Company Website, GlassDoor, Indeed, Jora, LinkedIn, Recruit.net, Referral, Seek).
+Duration At Company	Duration of employee in the company in years (0 = '0-2', 1 = '3-4', 2 = '5-6', 3 = '7-8', 4 = '9-40')
+Hourly Rate Bracket	Hourly Rate bracket of the employee (0 = '30-45', 1 = '46-60', 2 = '61-75', 3 = '76-90', 4 = '91-100’)
+
+
+
+3. Business Problems
+
+3.1 Identifying and analysing factors affecting attrition rate in a company
+
+	How much does it cost when an employee decides to leave the company? According to Kennedy (2023), data from Work Institute estimates that each lost employee cost the company, on average, one third of their annual salary. Gallup puts the value even higher, placing the value of a satisfactory replacement employee as equal to one-half to two times the original employee’s salary. This value could be interpreted in various ways, such as the value that the employee brings to the company, cost to train the employee, cost to replace the employee, cost to hire and train the replacement, etc... As a result, if your business is struggling with employee retention, it can significantly affect your bottom line and damage your company's brand in the process. 
+	So what makes an employee decides to resign? Quality of work life, professional development, working hours, individual/family reasons, connection with coworkers, welfare, working conditions, compensation, were discovered as the main reasons for resignation (Basariya & Ahmed, 2019). High turnover due to these factors can negatively impact organization image, recruitment cost, company productivity, making employee retention a critical challenge for business (Hassan et al., 2019).
+	In this analysis, the variables attrition, overtime, duration at company are used to address the relationship between them.
+	In descriptive analytics, vertical bar charts are good at showing comparisons between 2 variables with less than 10 columns (Murray, 2019). Vertical bar chart can be an effective tool in comparing current employees vs employees who resigned. By creating a pivot table with rows as attrition and columns as whether they did overtime and showing the output as percentage of total because it is easier to read than the number of employees. An easy to read bar chart can be created using the pivot table. 
+Figure 1 below shows the pivot table of overtime and attrition.
+Table 4 
+Overtime and Attrition pivot table
+% of overtime	Overtime		
+Attrition	No	Yes	Grand Total
+Current employee	76.07%	23.93%	100.00%
+Voluntary Resignation	59.75%	40.25%	100.00%
+Grand Total	72.86%	27.14%	100.00%
+
+	Based on the pivot table above, we can create a bar chart to represent the numbers better.
+Figure 1 
+Attrition and Overtime Chart
+ 
+	The vertical bar chart from figure 2 shows that a little over 40% of the employees who resigned did overtime unlike the current employees where only over 20% of them did overtime. This shows a disparity between current and resigned employees and indicates that employees who do overtime are likely to resign. A similar study conducted by Fallucchi et al. (2020), showed that among workers who worked overtime, the percentage of attrition is over 30%, while employees who did not work overtime only have an attrition rate of 10.4%.
+	For managers, this means that overtime could be a key driver of employee turnover. To improve retention, the company could consider strategies as long term planning and addressing understaffing (Hassan et al., 2019).
+	‘Duration at company’, like overtime, showed relationship with attrition. The figure below shows the pivot table.
+Table 5 
+Duration At Company and Attrition Pivot Table
+% of attrition	Attrition		
+Duration At Company	Current employee	Voluntary Resignation	Grand Total
+0 (0-2 years)	70.70%	29.30%	100.00%
+1 (3-4 years)	83.51%	16.49%	100.00%
+2 (5-6 years)	79.93%	20.07%	100.00%
+3 (7-8 years)	85.21%	14.79%	100.00%
+4 (9-40 years)	84.30%	15.70%	100.00%
+Grand Total	80.32%	19.68%	100.00%
+
+	Based on the pivot table above, we can create a bar chart to represent the numbers better.
+Figure 2
+Impact of Duration at Company on Attrition
+ 
+The figure 4 above shows the relationship between attrition and years at the company. The data shows that there is a large gap, as resignation between employees who are quite new to the company reached almost 30% attrition rate, while employees who reached 3 or more years in the company only has around 17% attrition rate on average. This indicates that the retention plan for new employees could need more improvement and support.
+Aside from descriptive analytics, we can also use diagnostic analytics to see if there is a trend or correlation between variables. This is useful in supporting decisions with data (Cote, 2021). In this case we can use it to see if there is a connection between attrition rate and employee overtime. 
+	Chi-square test, a type of diagnostic analytics method, is best used when comparing categorical data to check for null hypothesis (Nigam, 2022). In this case, Chi-Square test can be a good indicator in checking whether there is correlation between attrition and overtime. First we create the observed value table. Then we create expected value table, then we calculate for the Chi-square using the 2 tables. 
+The figure below shows the result of the Chi-Square Test.
+
+
+Table 6 
+Attrition and Overtime Chi-Square Test
+Observed			
+% of overtime	Overtime	 	 
+Attrition	No	Yes	Grand Total
+Current employee	6114	1923	8037
+Voluntary Resignation	1177	793	1970
+Grand Total	7291	2716	10007
+			
+Expected			
+Count of Overtime	Overtime	 	 
+Attrition	No	Yes	Grand Total
+Current employee	0	0	0
+Voluntary Resignation	0	0	0
+Grand Total	0	0	0
+			
+Chi-Square Test	2.64E-48		
+
+
+The value of Chi-Square test is shown in the figure 5 above, and since The P value(2.64E-48) is less than 0.05, we can reject the null hypothesis and conclude that there is significant relationship between overtime and attrition. For managers, this means that there is strong statistical evidence linking overtime to attrition.
+Table 7 
+Duration At Company and Attrition Chi-Square Test
+Observed			
+% of attrition	Attrition	 	 
+Duration At Company	Current employee	Voluntary Resignation	Grand Total
+0 (0-2 years)	1612	668	2280
+1 (3-4 years)	1317	260	1577
+2 (5-6 years)	1585	398	1983
+3 (7-8 years)	1031	179	1210
+4 (9-40 years)	2491	464	2955
+Grand Total	8036	1969	10005
+			
+Expected			
+% of attrition	Attrition	 	 
+Duration At Company	Current employee	Voluntary Resignation	Grand Total
+0 (0-2 years)	1831.292354	448.7076462	2280
+1 (3-4 years)	1266.643878	310.3561219	1577
+2 (5-6 years)	1592.742429	390.2575712	1983
+3 (7-8 years)	971.870065	238.129935	1210
+4 (9-40 years)	2373.451274	581.5487256	2955
+Grand Total	8036	1969	10005
+			
+Chi-Square Test	2.33365E-40		
+
+	Although ‘Duration At Company’ is not categorical per se, it is now categorical since we grouped the values. This makes Chi-Square Test a valid method for this. The value of Chi-Square test is shown in the figure 4 above, and since The P value (2.33365E-40) is less than 0.05, we can reject the null hypothesis and conclude that there is significant relationship between duration at company and attrition. For managers, this means that there is strong statistical evidence linking employee duration at company to attrition.
+	Using predictive analytics, we can use historical data to forecast future scenarios or identify the likelihood of something happening (Edwards & Olavsrud, 2025). In this case we can use it to predict the likelihood of an employee resigning in relation to overtime. The predictive analytics method that will be used in this scenario will be the logistic aggression as it is best used in predictive analytics when the outcome is limited to two possible outcomes: yes/no, 0/1, and true/false (Kanade, 2022). 
+By setting up attrition as the dependent variable, and the overtime as the independent variable. The figure below shows the result of logistic regression using Rapidminer.
+Figure 3 
+Logistic Regression result of Overtime and Attrition in RapidMiner
+ 
+
+
+Figure 4 
+Logistic Regression result of Overtime and Duration At Company in RapidMiner
+ 
+The figure 7 above shows the P-Value and the Coefficient results of logistic regression between Attrition and Overtime. The P-value result (0) shows that since it is less than 0.05, there is statistical significance between Attrition and Overtime. The Coefficient value signifies two things, first is that since it is greater than 0, there is a positive relationship between Attrition and Overtime. It means that as the does overtime, the risk of resigning increases. Second is that we can compute for the probability using the figure 12 below.
+For the figure 8 above, there is also statistical significance between ‘Duration At Work’ and Attrition (0 < 0.05). However for the coefficient, we cannot say that there is negative relationship between duration at work and attrition because the attrition is not in a downward trend in figure 2. Therefore calculating for the probability will not make any sense.  
+Figure 5 
+Logistic Regression Accuracy(Attrition and Overtime)
+ 
+
+Figure 6 
+Logistic Regression Accuracy(Attrition and Duration At Company)
+ 
+Regarding the accuracy of the logistic regression, the accuracy of both tests are above 80% as shown in figure 9 and 10 which is a good figure when using predictive analytic methods.
+Figure 7 
+Probability Formula (TIBCO Software Inc., 2025)
+ 
+	Using the formula in figure 11, we can calculate for the probability of an employee resigning when they do overtime.
+Equation 1 
+Probability Calculation
+Probability Calculation
+
+= 1/(1+EXP(-0.77)) x 100%
+= 0.6835209 x 100%
+= 68.35%
+
+According to the calculation, there is almost 69% of employee resigning when they do overtime. Regarding the analytics methods used, descriptive analytics is a good representation as it does show the trend of what happened to the previous and current employees. Diagnostic analytics is also good at finding correlation and supporting the descriptive analytics, however both focus on past event and not focusing on current or future events. Predictive analytics is also good at predicting future events, however they require quality data to make good prediction (Balali et al., 2020). In this case, predictive analytics would make better prediction if overtime hours is included in the dataset.
+As a manager of a team in this company, one thing that can be done is have accurate planning to properly estimate effort needed so the overtime can be avoided or lessened. Although there is no significant relationship between overtime and work-life balance in this study, overtime has a linear relationship various stress responses such as irritability, fatigue, anxiety, depression, and somatic responses (Kikuchi et al., 2020). Focus on training and development, social support, work-life balance, compensation, development opportunities and autonomy could address employee retention of new employees of the company (Kossivi et al., 2016). According to one study, slower learning rate was attributed to employee retention as there is mutual benefit from both employee and company (Kwon & and Yoo, 2017).
+
+3.2 Identifying and Analysing Factors that affect Job Satisfaction in a company
+
+You might ask, what does the effect of good job satisfaction affect in a company? According to Ismail & Razak (2016), commitment, employee retention, motivation and productivity, loyalty and confidence, etc.. are improved in companies that have good job satisfaction, and it also lessens negative behaviour such as absentees and turnover. As a result, if your company is struggling with improving job satisfaction, it can affect company performance in the process.
+So, what affects job satisfaction in a company? According to Iqbal et al., (2017), organisational culture, benefits, salary, rewards, relationship with supervision, work environment, autonomy, job expectation are some of the factors that affect job satisfaction. Low job satisfaction can impact company performance, making productivity a critical challenge for businesses (Hartika et al., 2023).
+In these analyses, job satisfaction and hourly rate bracket are used to address the relationship between them.
+	Since the columns are less than 10, vertical bar charts would be a good chart to show the chart between hourly rate bracket and job satisfaction (Murray, 2019). By creating a pivot table using hourly rate bracket in rows and using average job satisfaction in the values, the data shows the average job satisfaction between difference hourly rate brackets. 
+The table below shows the pivot table.
+Table 8 
+Hourly Rate Bracket and Job satisfaction
+ 	Hourly Rate Bracket	 	 	 
+ 	30-45	46-60	61-75	76-90	91-100	Grand Total
+Average of Job Satisfaction	2.88317	2.901	2.74	2.625	2.538	2.748
+
+The bar chart of the pivot table above is shown below.
+Figure 8 
+Hourly Rate Bracket and Job Satisfaction Chart
+ 
+
+	The bar chart from the figure above shows that the average job satisfaction increases as the hourly rate increases from 30-45 to 46-60. However, from that point on, the average job satisfaction decreases as hourly rate increases. This suggests many things, first is that the increase in hourly rate (30-45 to 46-60), can contribute to improved job satisfaction for the employees in that range, which could be the new employees getting a raise or promotion. However, from that point on, as the hourly rate increases, the job satisfaction decreases. This can suggest that the increase in pay does not fully address the job satisfaction and that the added workload is not equivalent or enough for the added hourly rate. A similar study conducted attributed decrease in job satisfaction to economic conditions (inflation and uncertainties), increased work load, and work life balance, thus outweighing the positive impact of increased pay (Shyamadanthi et al., 2024). Another study attributed decrease in job satisfaction to benefits, work flexibility, and employee recognition and advancement (Mabaso & Dlamini, 2017).
+	 For managers, this could mean that the increase in salary does not outweigh the other aspects of work such as increased work load, and work flexibility. Aside from increased budget, managers could look into improving benefits, work flexibility, work life balance, and employee recognition and advancement (Mabaso & Dlamini, 2017; Shyamadanthi et al., 2024).
+	Regarding diagnostic analytics, we can use chi-square test to see if there is connection between hourly pay bracket and job satisfaction. Since hourly pay bracket is now categorized, Chi-square test makes valid sense as a way to see a connection between the two variables.
+
+Table 9 
+Job Satisfaction and Hourly Rate Bracket Chi-Square Test
+Observed						
+Count of Job Satisfaction	Hourly Rate Bracket	 	 	 	 	 
+Job Satisfaction	30-45	46-60	61-75	76-90	91-100	Grand Total
+1	320	340	401	556	439	2056
+2	390	318	335	395	253	1691
+3	602	733	552	667	424	2978
+4	785	783	637	654	421	3280
+Grand Total	2097	2174	1925	2272	1537	10005
+						
+Expected						
+Count of Job Satisfaction	Hourly Rate Bracket	 	 	 	 	 
+Job Satisfaction	30-45	46-60	61-75	76-90	91-100	Grand Total
+1	430.9277361	446.8	395.6	466.9	315.85	2056
+2	354.4254873	367.4	325.4	384	259.78	1691
+3	624.1745127	647.1	573	676.3	457.49	2978
+4	687.4722639	712.7	631.1	744.8	503.88	3280
+Grand Total	2097	2174	1925	2272	1537	10005
+						
+Chi-Square Test	2.09002E-34					
+ 
+	Based on the chi-square test from the table above, we can say that there is significant connection between hourly pay and job satisfaction, attributed to the chi-square test and the decreasing trend as showed in the analysis previously. A similar study attributed it to adaptations to wage increases. Increased pay has statistically significant positive effect on job satisfaction initially, but it declines over time.
+	For managers, this could mean that the increase in salary does have significant connection with job satisfaction and could leverage it to improve job satisfaction. Aside from increasing budget for employees, managers could look into changing the way salary increase is implemented. Instead of less frequent high increases, small, but regular increases can be an effective way to increase job satisfaction for employees in the long run (Diriwaechter & Shvartsman, 2018).
+
+3.3 Identifying and Analysing Factors that affect Relationship Satisfaction in a company
+
+	What is relationship satisfaction? According to Haider et al., (2018), it is the satisfaction with coworkers, which is described as a positive feeling about a coworker, resulting from an evaluation of her or his characteristics. But what is the benefit of relationship satisfaction and how will it benefit companies? According to Seppälä & McNichols, (2022), research shows that leaders who prioritize relationships with their employees and lead from a place of positivity and kindness simply do better, and company culture has a bigger influence on employee well-being than salary and benefits. When it comes to cultivating happiness at work, it comes down to fostering positive relationships at work. Seppälä & McNichols also outlined that the five core principles that make all relationships, personal or professional, thrive are transparency and authenticity, inspiration, emotional intelligence, self-care, and values. Thus, lack of relationship satisfaction can result to less productivity and performance, less employee satisfaction, increased stress, and additional costs in the workplace (Bălașa et al., 2023).
+	In this analysis, the variables relationship satisfaction, and work life balance are used to address the relationship between the two.
+	In descriptive analytics, vertical bar chart are good at showing comparisons between 2 variables with less than 10 columns (Murray, 2019). By creating a pivot table showing the averaged relationship satisfaction in relation to work life balance. We can show the trend by creating a bar chart based on the pivot table.
+	Figure below shows the pivot table and bar chart of relationship satisfaction and work life balance. 
+Table 10 
+Impact of Work Life Balance on Relationship Satisfaction
+	Work Life Balance				
+	1	2	3	4	Grand Total
+Average of Relationship Satisfaction	2.517887564	2.658843981	2.686997869	2.809430255	2.683058471
+
+Table 11 
+Impact of Work Life Balance on Relationship Satisfaction
+ 
+	The bar chart above shows the upward trend of relationship satisfaction in relation to work life balance. Data shows that relationship satisfaction tends to improve as work life balance improve. 
+For managers, this suggests that improving work life balance also improves relationship satisfaction in the company. As a manager that wants to improve the relationship satisfaction, there are various programmes that is used to increase work life balance in the workplace, the following are workload monitoring and flexible work arrangements, health and wellness programmes, childcare benefits, leave provisions, company understanding and support (Zheng et al., 2015). Improving on these aspects can further improve work life balance in the workplace and could also improve relationship satisfaction.
+	Using diagnostic analytics we can use Chi-Square test to further check if there is connection between relationship satisfaction and work life balance.
+	The tables below shows the observed and expected tables as well as the result of the Chi-Square Test.
+Table 12 
+Work Life Balance vs Relationship Satisfaction Chi Square Test
+Observed					
+Count of Relationship Satisfaction	Work Life Balance	 	 	 	 
+Work Life Balance	1	2	3	4	Grand Total
+1	181	435	1209	143	1968
+2	64	503	1235	264	2066
+3	199	775	1911	255	3140
+4	143	588	1744	356	2831
+Grand Total	587	2301	6099	1018	10005
+					
+Expected					
+Count of Relationship Satisfaction	Work Life Balance	 	 	 	 
+Work Life Balance	1	2	3	4	Grand Total
+1	115.4638681	453	1200	200	1968
+2	121.2135932	475	1259	210	2066
+3	184.2258871	722	1914	319	3140
+4	166.0966517	651	1726	288	2831
+Grand Total	587	2301	6099	1018	10005
+					
+Chi-Square Test	7.00818E-26				
+
+	Based on the chi-square test from the table above, we can say that there is significant connection between relationship satisfaction and work life balance, attributed to the chi-square test and the increasing trend as showed in the analysis previously. 
+	For managers, this analysis could mean that there is significant connection between relationship satisfaction and work life balance and that improving work life balance could also improve relationship satisfaction in the workplace. As a manager that wants to improve the relationship satisfaction, various programmes such as flexible work times, flexible work place, parental leaves, reducing unnecessary meetings, minimizing administrative tasks, adding work family benefits could improve work life balance (Wood et al., 2020). Thus it could also improve relationship satisfaction in the company. 
+
+
+
+
+4. Conclusion 
+(150-200 words): summarize your 3 problems and analysis methods. try to identify and briefly talk about some limitations regarding your dataset in 1 or 2 sentences.
+
+
+
+5. References
+
+Balali, F., Nouri, J., Nasiri, A., & Zhao, T. (2020). Data Intensive Industrial Asset Management. https://doi.org/10.1007/978-3-030-35930-0
+Bălașa, M. A., Sterghiuli, A., Tănase, M. A., & Matei, S. R. (2023). The effects of interpersonal conflict on employee satisfaction and productivity in the workplace. The „Black Sea” Journal of Psychology, 14(4), 89–102. https://doi.org/10.47577/bspsychology.bsjop.v14i4.267
+Basariya, R., & Ahmed, R. R. (2019). A Study on Attrition – Turnover Intentions of Employees. International Journal of Civil Engineering and Technology (IJCIET), 10(1), 2594–2601.
+Cote, C. (2021). What Is Diagnostic Analytics? 4 Examples. HBS Online. https://online.hbs.edu/blog/post/diagnostic-analytics
+Diriwaechter, P., & Shvartsman, E. (2018). The anticipation and adaptation effects of intra- and interpersonal wage changes on job satisfaction. Journal of Economic Behavior & Organization, 146, 116–140. https://doi.org/10.1016/j.jebo.2017.12.010
+Edwards, J., & Olavsrud, T. (2025). What is Predictive Analytics? Transforming Data into Future Insights. CIO. https://www.cio.com/article/228901/what-is-predictive-analytics-transforming-data-into-future-insights.html
+Fallucchi, F., Coladangelo, M., Giuliano, R., & William De Luca, E. (2020). Predicting Employee Attrition Using Machine Learning Techniques. Computers, 9(4). https://doi.org/10.3390/computers9040086
+Ghate, R. (2020). Capstone Project-IBM Employee Attrition Prediction [Dataset]. Kaggle. https://www.kaggle.com/datasets/rushikeshghate/capstone-projectibm-employee-attrition-prediction
+Ghate, R. (2025). Capstone Project-IBM Employee Attrition Prediction [Dataset]. Kaggle. https://www.kaggle.com/datasets/rushikeshghate/capstone-projectibm-employee-attrition-prediction
+Haider, S., Jabeen, S., & Ahmad, J. (2018). Moderated mediation between work-life balance and employee job performance: The role of psychological wellbeing and satisfaction with coworkers. Revista de Psicología Del Trabajo y de Las Organizaciones, 34(1), 29–37.
+Hartika, A., Fitridiani, M., & Asbari, M. (2023). The effect of job satisfaction and job loyalty on employee performance: A narrative literature review. Journal of Information Systems and Management (JISMA), 2(3), 9–15.
+Hassan, M., Jambulingam, M., Alam, M. N., & Islam, S. (2019). Redesigning the retention strategy against the emerging turnover of Generation Y: Revisiting the long-standing problems from 20Th to 21St century. International Journal of Entrepreneurship, 23(2), 1–16.
+Iqbal, S., Guohao, L., & Akhtar, S. (2017). Effects of job organizational culture, benefits, salary on job satisfaction ultimately affecting employee retention. Review of Public Administration and Management, 5(3), 1–7.
+Ismail, A., & Razak, M. R. A. (2016). EFFECT OF JOB SATISFACTION ON ORGANIZATIONAL COMMITMENT. Management & Marketing Journal, 14(1).
+Kanade, V. (2022). What Is Logistic Regression? Equation, Assumptions, Types, and Best Practices. Spiceworks. https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-logistic-regression/
+Kennedy, R. (2023). Focusing on the High Cost of Employee Turnover. Randstad New Zealand. https://www.randstad.co.nz/hr-news/attracting-recruiting-talent/focusing-high-cost-employee-turnover/
+Kikuchi, H., Odagiri, Y., Ohya, Y., Nakanishi, Y., Shimomitsu, T., Theorell, T., & Inoue, S. (2020). Association of overtime work hours with various stress responses in 59,021 Japanese workers: Retrospective cross-sectional study. PloS One, 15(3), e0229506. https://doi.org/10.1371/journal.pone.0229506
+Kossivi, B., Xu, M., & Kalgora, B. (2016). Study on Determining Factors of Employee Retention. Open Journal of Social Sciences, 4, 261–268. https://doi.org/10.4236/jss.2016.45029
+Kwon, H. D., & and Yoo, O. S. (2017). Retention of capable new employees under uncertainty: Impact of strategic interactions. IISE Transactions, 49(10), 927–941. https://doi.org/10.1080/24725854.2017.1325028
+Lalwani, P. (2025). What Is HR Analytics? Definition, Importance, Key Metrics, Data Requirements, and Implementation. Spiceworks. https://www.spiceworks.com/hr/hr-analytics/articles/what-is-hr-analytics/
+Mabaso, C., & Dlamini, B. (2017). Impact of Compensation and Benefits on Job Satisfaction. Research Journal of Business Management, 11, 80–90. https://doi.org/10.3923/rjbm.2017.80.90
+Marler, J. H., & and Boudreau, J. W. (2017). An evidence-based review of HR Analytics. The International Journal of Human Resource Management, 28(1), 3–26. https://doi.org/10.1080/09585192.2016.1244699
+Murray, E. (2019). Why Do Bar Charts Work? Forbes. https://www.forbes.com/sites/evamurray/2019/04/04/why-do-bar-charts-work/
+Nigam, V. (2022). T-Test vs. Chi-Square Test: Differences and When to Use Each. Built In. https://builtin.com/data-science/t-test-vs-chi-square
+Pecherskiy, M. (2016). What Is A Dataset? A Delicious Explanation. https://medium.com/quandary-dot-io/what-is-a-dataset-a-delicious-explanation-81ca1723c227
+Seppälä, E., & McNichols, N. K. (2022). The Power of Healthy Relationships at Work. Harvard Business Review. https://hbr.org/2022/06/the-power-of-healthy-relationships-at-work
+Shyamadanthi, D., Kaluarachchige, I., & Lanka, S. (2024). Impact of Work Life Balance on Job Satisfaction With Mediating Relationships of Employee Engagement and Organizational Commitment.
+Stevens, E. (2023). 4 Levels of Measurement: Nominal, Ordinal, Interval & Ratio. https://careerfoundry.com/en/blog/data-analytics/data-levels-of-measurement/
+TIBCO Software Inc. (2025). Probability Calculation Using Logistic Regression. https://docs.tibco.com/pub/sfire-dsc/6.5.0/doc/html/TIB_sfire-dsc_user-guide/GUID-C4D05ED0-3392-4407-B62A-7D29B26DC566.html
+Wood, J., Oh, J., Park, J., & Kim, W. (2020). The Relationship Between Work Engagement and Work–Life Balance in Organizations: A Review of the Empirical Research. Human Resource Development Review, 19(3), 240–262. https://doi.org/10.1177/1534484320917560
+Zheng, C., Molineux, J., Mirshekary, S., & Scarparo, S. (2015). Developing individual and organisational work-life balance strategies to improve employee health and wellbeing. Employee Relations, 37(3), 354–379.
+

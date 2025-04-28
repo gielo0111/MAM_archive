@@ -1,0 +1,380 @@
+sample
+1
+Table of Contents
+Introduction............................................................................................................................................2
+Data-driven decisions in Safety Management...................................................................................2
+Data Sets in Data Analytics ....................................................................................................................3
+DATA SET 1: OSHA ACCIDENT & INJURY - HSE DATA – 2015-2017 ......................................................4
+DATA SET 2: WORK-RELATED INJURY RECORDS – YOY 2016-2021 ......................................................5
+Data Problems........................................................................................................................................8
+Data-driven techniques and types of analysis.......................................................................................8
+Descriptive analysis............................................................................................................................8
+Diagnostic analysis.............................................................................................................................9
+Prescriptive analysis...........................................................................................................................9
+Predictive analysis............................................................................................................................10
+Data Cleaning Process......................................................................................................................10
+Analysis of Data sets for solutions to Data problems .........................................................................12
+Analysis for Data Problem 1.............................................................................................................12
+Analysis for Data Problem 2.............................................................................................................14
+Analysis for Data Problem 3.............................................................................................................16
+Recommendations and Conclusion .....................................................................................................18
+References............................................................................................................................................19
+Table of Figures
+Figure 1: Screenshot of raw data set 1 --------------------------------------------------------------------------------- 4
+Figure 2: Screenshot of raw data set 2 --------------------------------------------------------------------------------- 5
+Figure 3: Data Set 1 - Data elements & definitions.----------------------------------------------------------------- 6
+Figure 4: Data Set 2 - Data elements & definitions.----------------------------------------------------------------- 7
+Figure 5: Depiction of Descriptive Data Analysis--------------------------------------------------------------------- 9
+Figure 6: Depiction of Diagnostic Data Analysis---------------------------------------------------------------------- 9
+Figure 7: Depiction of Prescriptive Data Analysis-------------------------------------------------------------------10
+Figure 8: Depiction of Predictive Data Analysis ---------------------------------------------------------------------10
+Figure 9: Data clean-up & drill down for Data Set 2 – Selecting Top 20 Companies for analysis.-------11
+Figure 10: Graphical representation of data records basis Human Factor------------------------------------12
+Figure 11: Level 2 drill down by adding the environmental factor element----------------------------------13
+Figure 12: Level 3 drill down by plotting final results as keywords in a Word Cloud form for designing
+trainings-----------------------------------------------------------------------------------------------------------------------13
+Figure 13: Geo map radar of most incident records across the United States-------------------------------14
+Figure 14: Overall predictive trend for next 3 years basis data records (2016-2021)----------------------15
+Figure 15: 3-year forecast for Top 5 Entities vs Overall Trend ---------------------------------------------------15
+Figure 16: Decision tree on top 3 factors on degree of injury
+Figure 17: Decision Tree lift chart - Rapidminer---------------------------------------------------------------------17
+Figure 18: Further drill down on the Top 3 factors to establish the influence. ------------------------------17
+sample
+2
+Introduction
+Modern corporate management relies significantly on data analytics. Organisations can get
+insightful information regarding consumer behaviour, market trends, and operational
+effectiveness by utilising big data and sophisticated analytics approaches (De langhe &
+Puntoni, 2021). This data-driven strategy promotes well-informed decision-making, better
+resource management, and increased performance across numerous corporate functions
+(Hume & West, 2020; Boldosova & Luoto,2020). Data analytics, which range from predictive
+modelling to real-time monitoring, equips companies with the tools they need to
+recognize opportunities, manage risks, and optimize their business plans (Boldosova & Luoto,
+2020). This boosts their edge and success in the modern, data-rich, and dynamic business
+environment.
+Data-driven decisions in Safety Management
+Data-driven decision making has become a staple tactic in many industries, including safety
+management. Organisations are starting to realise how crucial it is to use data and analytics
+to enhance safety protocols, lower risks, and create safer working conditions (Laine et al.,
+2022). By collecting, assessing, and analysing safety-related data, decision-makers can gain
+meaningful knowledge that inspires proactive safety management practises (Sherratt & Ivory,
+2019). Decisions based on data are becoming increasingly crucial in safety management.
+Managers can mitigate the risk of future mishaps by making educated decisions by gathering
+and analysing data to find patterns of accidents and incidents (Hume & West, 2020). Safety
+managers may immediately identify potential hazards and take preventive action before any
+accident or incident occurs with data-driven decision-making. This enables companies to
+establish a secure working environment for both their workers and clients.
+Data-driven decision making in safety management is the systematic and strategic use of data
+to find potential threats, trends, and patterns to help organisations prevent accidents,
+injuries, and other safety events (Yinghui et al., 2021). It provides a more fact-based and
+objective approach to decision-making by moving away from subjective judgements (De
+langhe & Puntoni, 2021). Safety professionals can identify areas for improvement, obtain a
+thorough awareness of their organization's safety performance, and then prioritise resources
+and efforts in those areas. It enables a proactive and predictive rather than a reactive
+approach to safety management, helping to avert events before they happen and lessen their
+effects if they do (Manu et al., 2019).
+sample
+3
+Obtaining relevant safety data from a range of sources, such as incident reports, safety
+inspections, near-miss reports, employee feedback, and other data points that provide
+insights into the safety landscape, is the first step of the process. The data is then investigated
+using statistical methods, data visualisation tools, and other analytical techniques to spot
+patterns, trends, and correlations. To track the success of safety measures, key performance
+indicators (KPIs) such as incident rates, near-miss frequency, safety training completion rates,
+and compliance with safety protocols are established (Boldosova & Luoto, 2020). These KPIs
+serve as benchmarks and aspirational objectives. The regular monitoring and reporting of
+these KPIs enables organisations to evaluate their safety performance, pinpoint areas of
+concern, and make informed decisions based on data-driven insights.
+Data Sets in Data Analytics
+To make well-informed business decisions, data sets must be used for data analysis. Large
+volumes of data can be gathered and analysed to help firms find patterns, trends, and insights
+that inform strategic decision-making (Boldosova & Luoto, 2020). Data must be cleaned and
+transformed, statistical methods must be used, and data visualisation tools must be used to
+properly show results. Businesses can use data analysis to pinpoint client preferences,
+enhance marketing efforts, boost productivity, and spot potential threats (Laine et al., 2022).
+Businesses may eliminate uncertainty, make decisions based on solid information, and get a
+competitive edge in the quickly changing market of today by utilising data-driven insights
+(Shekari, 2020). It gives businesses the ability to better match their strategies with consumer
+demands and industry trends, which boosts productivity and spurs expansion.
+For this assessment, the following secondary data sets have been identified from Kaggle for
+running data tests and gaining insights to utilize data records to understand the business
+issues and derive possible solutions in accordance with the data churning results.
+sample
+4
+DATA SET 1: OSHA ACCIDENT & INJURY - HSE DATA – 2015-2017
+Source: (OSHA Accident and Injury Data, n.d.)
+Figure 1: Screenshot of raw data set 1
+This OSHA data collection includes elements like workplace incident reports, injury and
+sickness statistics, safety infractions, and inspection records. It also includes details about
+particular workplace dangers or infractions as well as information about businesses,
+industries, and places.
+sample
+5
+DATA SET 2: WORK-RELATED INJURY RECORDS – YOY 2016-2021
+Source: (Work Related Injury Data (2016-2021), n.d.)
+Figure 2: Screenshot of raw data set 2
+Workplace injury data includes characteristics like the type and nature of the injury (for
+example, fractures, sprains, or burns), the body parts affected, the severity of the injury, the
+demographics of the incident, the injured worker's industry or occupation, the scene of the
+incident, and factors that contributed to the injury (for example, slips, falls, or machinery
+accidents).
+Understanding the data variables: Identifying and examining the various types of data that
+are contained in a dataset is necessary to comprehend data variables (Yinghui et al., 2021). To
+acquire insights and carry out the necessary statistical analyses, this includes recognising
+categorical factors (such as gender, product category, and age) and numerical variables (such
+as sales numbers, and sales figures).
+sample
+sample
+sample
+8
+Data Problems
+Data can be helpful in finding solutions to business issues. Businesses can find hidden
+patterns, trends, and correlations in their data by utilising data analytics tools (Betsis et al.,
+2019). They can then make data-driven decisions and take preventative measures to deal with
+problems. Understanding client behaviour, optimising resource allocation, discovering
+operational inefficiencies, and projecting market trends are all made possible with the use of
+data analysis (Wang et al., 2021). It enables companies to reduce risks, enhance customer
+happiness, and improve product or service offerings (Betsis et al., 2019). Businesses can
+acquire a competitive edge, spur innovation, and achieve sustainable growth in today's
+dynamic and data-centric corporate environment by using data to guide decision-making
+processes.
+For this assessment, the following data problems have been identified to be potentially solved
+using data analysis techniques, data interpretation and utilization of data testing procedures.
+ Identifying and analysing factors causing most accidents for designing appropriate
+training mediums.
+ Ascertaining the highly impacted areas basis the data records and forecasting future
+incident trends.
+ Gaining deeper insights into various factors of the accident data records and
+establishing the influence of the factors on the degree of injury caused.
+Data-driven techniques and types of analysis
+Descriptive analysis
+In safety management, descriptive data analysis is highly significant. To find trends, patterns,
+and insights regarding incidents, injuries, and near-misses, historical safety data must be
+analysed. Organisations can better evaluate safety performance, identify high-risk areas, and
+prioritise changes by using tools like data visualisation, statistical analysis, and data mining
+approaches (Boldosova & Luoto, 2020). Descriptive analysis supports continuous
+development in safety management practises by monitoring safety metrics, locating incident
+causes, assessing the success of safety efforts, and measuring performance against industry
+norms.
+sample
+9
+Figure 5: Depiction of Descriptive Data Analysis
+Diagnostic analysis
+In safety management, diagnostic data analysis involves looking at prior information to
+pinpoint the underlying causes and elements that contributed to safety events or near misses.
+Techniques including trend analysis, correlation analysis, root cause analysis, and fault tree
+analysis are frequently used in this analysis (Hume & West, 2020). Organisations can learn
+more about the underlying causes of safety accidents, identify common risk factors, and take
+corrective action to avoid recurrences by analysing patterns and linkages in the data.
+Understanding the causes of harmful conditions or behaviours through diagnostic data
+analysis enables companies to conduct targeted safety interventions and enhance overall
+safety performance.
+Figure 6: Depiction of Diagnostic Data Analysis
+Prescriptive analysis
+Prescriptive data analysis for safety management uses cutting-edge analytics approaches to
+examine past safety data, spot trends and risk factors, and offer practical advice for averting
+mishaps and enhancing safety procedures (Shekari, 2020). To provide a safer working
+environment, it aids organisations in proactively addressing safety issues, putting forth
+preventive measures, and enhancing safety procedures. Decision trees, optimisation models,
+simulation techniques, and machine learning algorithms are examples of prescriptive data
+analysis tools for safety management (Lee et al., 2022). These technologies give businesses
+the ability to anticipate future safety risks, pinpoint the best safety procedures, properly
+sample
+10
+allocate resources, and simulate scenarios to take preventative action and enhance overall
+safety performance.
+Figure 7: Depiction of Prescriptive Data Analysis
+Predictive analysis
+Utilising past safety data and statistical models, predictive data analysis in safety management entails
+making forecasts and predictions about upcoming safety consequences (Boldosova & Luoto, 2020). It
+seeks to foresee safety problems, proactively identify potential hazards, and put preventative
+measures in place. Organisations can identify hidden patterns, correlations, and risk factors that may
+not be visible through descriptive research alone by utilising sophisticated analytics and machine
+learning approaches (Lee et al., 2022).
+Figure 8: Depiction of Predictive Data Analysis
+Data Cleaning Process
+Data cleaning is crucial when analysing data for safety management. To assure the data's
+correctness and dependability, it entails locating and fixing flaws, inconsistencies, and
+abnormalities in the data. In the context of safety management, clean data is essential since
+it serves as the basis for making wise decisions and putting into action practical safety
+measures (De langhe & Puntoni, 2021). Data cleaning is beneficial in several ways for safety
+management. The risk of making decisions based on inaccurate or deceptive data is reduced
+in the first place since it assures that the analysis is founded on trustworthy and reliable
+information. The accuracy of safety measures or indicators may be impacted by
+sample
+11
+inconsistencies or missing numbers, which can be found and fixed with the use of data
+cleaning (Yinghui et al., 2021).
+In brief, data cleaning helps organisations proactively manage risks, enhance safety
+procedures, and create a safer work environment for employees. It also enables the creation
+of actionable insights and facilitates evidence-based decision-making in safety management.
+Figure 9: Data clean-up & drill down for Data Set 2 – Selecting Top 20 Companies for analysis.
+sample
+12
+Analysis of Data sets for solutions to Data problems
+Analysis for Data Problem 1
+Identifying and analysing factors causing most accidents for designing appropriate training
+mediums.
+Figure 10: Graphical representation of data records basis Human Factor
+Accidents that are the result of human factors are those in which human actions or behaviours
+cause accidents or safety problems to occur. These elements can include mistakes, failures in
+judgement, a lack of knowledge or awareness, exhaustion, distraction, and disregard for
+safety procedures. Cerezo-Narváez et al., (2019) highlights organisations can identify the root
+causes of incidents, implement targeted safety interventions, improve training programmes,
+and promote a safety culture that emphasises human performance and error prevention by
+understanding the causes of accidents and analysing accidents from a human factors’
+perspective (De langhe & Puntoni, 2021).
+sample
+13
+Figure 11: Level 2 drill down by adding the environmental factor element
+Workplace misjudgements by humans can lead to accidents in a variety of settings.
+Miscalculation of loads or distances during construction might result in falls or structural
+breakdowns. In construction, improper machine use or a disregard for instructions can lead
+to accidents or equipment damage (Betsis et al., 2019). Accidents in the transportation
+industry might result from misjudging speed, distance, or traffic conditions. These mishaps
+demonstrate the value of safety culture development, risk assessment, training, and clear
+communication in reducing the effects of human error in various work situations (Sherratt &
+Ivory, 2019). Occupational safety and hazard data is essential for organizations to identify the
+training needs of their employees. By leveraging this data, employers can ensure that their
+workers are adequately trained in safety procedures and protocols to minimize the risks of
+workplace accidents and injuries.
+Figure 12: Level 3 drill down by plotting final results as keywords in a Word Cloud form for designing trainings
+sample
+14
+There are several important aspects to considered when developing training programmes
+that can effectively reduce workplace accidents brought on by human error and poor
+judgement in diverse environmental circumstances. These include developing accurate
+simulations, combining practical exercises, giving constant reinforcement and practise,
+emphasising situational awareness, encouraging good communication and teamwork, and
+incorporating risk assessment and decision-making techniques (Betsis et al., 2019). To ensure
+that trainees acquire the skills, knowledge, and judgement needed to prevent accidents and
+make wise decisions in their respective work environments, training must be specifically
+tailored to environmental factors such as hazardous materials, extreme weather conditions,
+or high-risk work areas.
+Analysis for Data Problem 2
+Ascertaining the highly impacted areas basis the data records and forecasting future incident
+trends.
+Workplace accidents in the United States demonstrated a worrying trend between 2016 and
+2021. The data set processed shows that there was an overall rise in work-related accidents
+and fatalities over this time. Accidents were frequently caused by falls, transportation
+mishaps, collisions with tools and items, and exposure to toxic substances. Accident rates
+were greater in some industries, including manufacturing, transportation, and construction.
+There have been continual initiatives to increase worker safety, including tighter legislation,
+training courses, and awareness campaigns. To safeguard the health and safety of American
+workers, however, continual attention and preventive actions are required given the frequent
+frequency of workplace accidents.
+Figure 13: Geo map radar of most incident records across the United States
+sample
+15
+[ Extract from Power BI – summary : At 7,461,FL had the highest Count of ID and was
+746,000.00% higher than VI, which had the lowest Count of ID at 1. [] FL accounted for 13.18%
+of Count of ID. Across all 55 State, Count of ID ranged from 1 to 7,461. (Explained in solutions) ]
+The forecast of future work accident trends in the United States is tricky using data from 2016
+to 2021. However, it is anticipated that continuous attention to enhancing safety legislation,
+training, and technology adoption will result in a gradual drop in work-related accidents and
+a stronger emphasis on risk management and prevention strategies.
+Figure 14: Overall predictive trend for next 3 years basis data records (2016-2021)
+Figure 15: 3-year forecast for Top 5 Entities vs Overall Trend
+sample
+16
+Analysis for Data Problem 3
+Gaining deeper insights into various factors of the accident data records and establishing the
+influence of the factors on the degree of injury caused.
+Understanding the underlying trends and enhancing safety measures requires a thorough
+examination of the relationships between the kind of injury, environmental factors, and event
+types in workplace accidents. It is feasible to find probable links by looking at the data from
+work accidents (Betsis et al., 2019). For instance, working in elevated settings may increase
+your risk of falling from a height. Like this, certain injury categories like burns or slips/trips
+may be related to environmental conditions like high temperatures or slick surfaces. This
+study can help in the development of focused treatments, such as bettering working at
+heights training or putting environmental hazard mitigation measures in place, to lessen the
+incidence of particular injury types linked to specific environmental factors and event types
+(Wang et al., 2021). Workplace accidents are a serious concern for any business. It is essential
+to understand the factors that contribute to workplace accidents to reduce them. One of
+these factors is hazard exposure, which can be defined as the amount of risk present in an
+environment (Sherratt & Ivory, 2019). By correlating work accidents with hazard exposure,
+businesses can benefit from analysing safety management to minimize accidents and other
+hazards in the workplace. Through examining the processes, they could gain useful insights
+on how to make their operations safer.
+sample
+sample
+18
+Recommendations and Conclusion
+The following recommendations can be put into practise to improve safety management and
+reduce workplace accidents brought on by human factors, environmental variables, and bad
+judgements:
+• To find potential safety issues, carry out thorough hazard evaluations and risk
+assessments.
+• Create specialised training programmes that address certain environmental concerns,
+human aspect issues, and decision-making abilities.
+• To lessen environmental risks and rely less on individual judgement, implement
+engineering controls and safety procedures.
+• Continued safety practises education and reinforcement are provided.
+• Based on the knowledge gained from mishaps and near-misses, review and update
+safety policies and procedures on a regular basis.
+• Encourage staff to quickly identify and report any potential hazards or dangers to
+promote a proactive approach to safety.
+In conclusion, managing workplace dangers and guaranteeing work safety depend on good
+safety management. Organisations can safeguard their workers, lower workplace accidents,
+and foster a positive culture by putting safety first. This calls for an all-encompassing strategy
+that considers risk assessments, thorough training programmes, ongoing oversight, and
+proactive steps to address human factors, environmental concerns, and errors in judgement.
+To adjust to changing conditions, safety policies and procedures must be regularly evaluated
+and improved (Wang et al., 2021). In the end, a dedication to safety management not only
+protects the health and lives of employees but also generates productivity, morale, and a
+secure and productive work environment.
+Data analytics can be used to improve effective safety management. Organisations can detect
+high-risk locations and activities, obtain insightful information about safety patterns, and
+create focused responses by utilising data analytics tools (De langhe & Puntoni, 2021). With
+the aid of data analytics, patterns and correlations in safety data can be found, enabling
+proactive decision-making and risk-reduction tactics. It aids in identifying possible safety risks,
+allocating resources optimally, and gauging the success of safety initiatives (Yinghui et al.,
+2021). Organisations can enhance safety performance, stop accidents, and make their
+workplaces safer for their employees by utilising the power of data analytics.
+*** ***
+sample
+19
+References
+Betsis, S., Kalogirou, M., & Pertzinidou, M. (2019). Work Accidents Correlation Analysis for
+Construction Projects in Northern Greece 2003–2007: A Retrospective Study. Safety, 5(2), 33.
+https://doi.org/10.3390/safety5020033
+Boldosova, V., & Luoto, S. (2020). Storytelling, business analytics and big data interpretation:
+Literature review and theoretical propositions. Management Research Review: MRN, 43(2),
+204–222. https://doi.org/10.1108/MRR-03-2019-0106
+Cerezo-Narváez, A., Link to external site, this link will open in a new window, Córdoba-Roldán, A.,
+Pastor-Fernández, A., Aguayo-González, F., Otero-Mateo, M., Link to external site, this link
+will open in a new window, Ballesteros-Pérez, P., & Link to external site, this link will open in
+a new window. (2019). Training Competences in Industrial Risk Prevention with Lego®
+Serious Play®: A Case Study. Safety, 5(4), 81. https://doi.org/10.3390/safety5040081
+De langhe, B., & Puntoni, S. (2021). Leading With Decision-Driven Data Analytics. MIT Sloan
+Management Review, 62(3), 1–4.
+Hume, E., & West, A. (2020). Becoming a Data-Driven Decision Making Organization. The CPA Journal,
+90(4), 32–35.
+Laine, J., Delclos, G., Emery, R., & Peskin, M. (2022). Safety & Health Beyond the Workplace.
+Professional Safety, 67(7), 37–38.
+Lee, C. S., Cheang, P. Y. S., & Moslehpour, M. (2022). Predictive Analytics in Business Analytics:
+Decision Tree. Advances in Decision Sciences, 26(1), 1–29.
+Manu, P., Link to external site, this link will open in a new window, Poghosyan, A., Mahamadu, A.-M.,
+Mahdjoubi, L., Gibb, A., Behm, M., & Akinade, O. O. (2019). Design for occupational safety
+and health: Key attributes for organisational capability. Engineering, Construction and
+Architectural Management, 26(11), 2614–2636. https://doi.org/10.1108/ECAM-09-2018-
+0389
+sample
+20
+OSHA Accident and Injury Data. (n.d.). Retrieved May 31, 2023, from
+https://www.kaggle.com/datasets/ruqaiyaship/osha-accident-and-injury-data-1517
+Shekari, A. M. (2020). SAFETY MANAGEMENT SYSTEMS STANDARDS & GUIDELINES: A Comparative
+Analysis. Professional Safety, 65(9), 32–37.
+Sherratt, F., & Ivory, C. (2019). Managing “a little bit unsafe”: Complexity, construction safety and
+situational self-organising. Engineering, Construction and Architectural Management, 26(11),
+2519–2534. https://doi.org/10.1108/ECAM-09-2018-0376
+Wang, H., Link to external site, this link will open in a new window, Tian, Y., Link to external site, this
+link will open in a new window, Yin, H., & Link to external site, this link will open in a new
+window. (2021). Correlation Analysis of External Environment Risk Factors for High-Speed
+Railway Derailment Based on Unstructured Data. Journal of Advanced Transportation, 2021.
+https://doi.org/10.1155/2021/6980617
+Yinghui, P., Tang, J., Biyang, M., Yifeng, Z., & Zhong, M. (2021). Toward data-driven solutions to
+interactive dynamic influence diagrams. Knowledge and Information Systems, 63(9), 2431–
+2453. https://doi.org/10.1007/s10115-021-01600-5
+****** ******
+sample

@@ -1,0 +1,343 @@
+sample
+Table of Contents
+Introduction...........................................................................................................................................2
+Data Description....................................................................................................................................2
+Data-driven decision-making in the retail of......................................................................................4
+Product Analysis for Low-performing Product Line.........................................................................5
+Pricing and discounting strategy .........................................................................................................8
+Logistic/Shipping preference for profitability and customer satisfaction ..........................................10
+Recommendation.................................................................................................................................14
+Conclusion ...........................................................................................................................................15
+Figure 1: Dataset Attributes and Description..........................................................................................4
+Figure 2: Product performance analysis as per customer segments........................................................5
+Figure 3: Discounts available in various product categories...................................................................6
+Figure 4: Discount by table type and brand Figure 5: Sum of loss by table type and brand .............6
+Figure 6: Diagnostic analysis (Chi-square) for product category and segment influences .....................6
+Figure 7: Diagnostic analysis (ANOVA) for a significant difference in a discount for tables brand .........7
+Figure 8: Predictive Analysis (Co-relation) ..............................................................................................9
+Figure 9: Diagnostic analysis for discount differences among customer segments................................9
+Figure 10: Descriptive data analysis......................................................................................................11
+Figure 11: Shipping cost as per shipping mode Figure 12: Delivery days as per order priority .......11
+Figure 13: Number of products shipped under different ship modes. .................................................12
+Figure 14: Number of orders shipped as per order priority..................................................................12
+Figure 15: Customer clustering as per product category (RapidMiner)................................................13
+Figure 16: Centroid table for clustering (RapidMiner)..........................................................................13
+sample
+Introduction
+In today’s era, digital technology has changed the way of conducting organisational work based
+on the business-driven strategy as an enormous number of data is being collected by different
+industries. Technological devices such as laptops and smartphones allow organisations and
+their stakeholder to create and store a large amount of data of their customers. Furthermore,
+these large industries’ data is analysed in different sectors for business decision-making to gain
+a competitive advantage in various business areas (Goar & Yadav, 2022). Data analytics is
+used by multiple industries for decision-making, such as healthcare, banking, education,
+communication, retail, and transportation (Le & Liaw, 2017). In this fourth industrial
+revolution, the Internet of Things – IoT (physical device network transfer data from one device
+to another without human intervention) enable retailers to improve their decision in customer
+experience, supply chain management, new customer segment revenue generation, pricing, and
+discounting strategy, and in-store customer behaviour analysis. Moreover, with the help of data
+analysis, a retailer, wholesaler, and manager can analyse the market trend and set their
+marketing strategy to create a large customer base (Matthew et al., 2015).
+This report aims to analyse the dataset and make a data-driven decision in the retail superstore
+supplying office equipment product. Moreover, the dataset is selected from Kaggle, and various
+scholarly journals and articles are selected from the Robertson Library to support the data
+analysis results and the arguments. This report will also focus on three major business problems
+based on the selected dataset: product analysis, pricing and discounting, and logistic/transport
+preference. Retail superstore has an extensive range of product under various brands; thus, it
+is worth getting insight into data analytics tools and how it is helpful in the retail sector for
+data-driven decision-making. Furthermore, in this report, dataset analysis helps understand
+how data analytics allows retailers of office supplies accessories to make decisions in crucial
+business areas such as discount, pricing, logistic preference, and product-centric and customercentric business model. Further, this report will discuss the data description of the selected
+dataset, data analysis method, and visualisation with the recommended data-driven decision
+for the manager.
+Data Description
+Different industries collect a large volume of data daily, which is difficult to analyse as raw
+data. Data collected from various sectors are characterised based on volume (size of data),
+variety(different types of data), and velocity(a dynamic form of data) of data which is difficult
+sample
+to manage because of the complexity of data (Black, 2023). All numerical data are not analysed
+similarly because different numbers represent different entities. Major types of data
+measurement for the bifurcation of numerical data, which are discussed below (Black, 2023).
+1. Nominal: This is the lowest level of data measurement, and it can only be used for
+classifying or categorising.
+2. Ordinal: This data measurement gives the rank or order for people or objects.
+3. Interval: This data measurement measures the distance between numbers when all the
+data are in numbers.
+4. Ratio: The highest data measurement level represents the distance among the values.
+This report selects the superstore dataset for the data-driven decision-making process and
+solving business issues in contemporary e-commerce and retailers of office and technology
+products supply organisations. This data is chosen from Kaggle, which is related to the
+superstore customer data in three major product categories: Furniture, Technology products,
+and Office supplies ( The selected data set is processed and cleaned before using
+it in the RapidMiner for predictive analysis, described in Figure 1and categories are assigned
+with numbers. This report uses distinctive Microsoft software, such as Power BI for
+visualisation, Excel for descriptive and diagnostic analysis, and RapidMiner for predictive
+analysis. Different attributes of the datasets are summarised below with descriptions and
+categorisations.
+sample
+Figure 1: Dataset description
+Data-driven decision-making in the retail of office supplies
+The retail industry is continuously increasing day by day all around the world as the middle
+class grows significantly in size and purchasing power. Retail purchases are rapidly expanding
+with the advancement of mobile technology, e-commerce platforms, high-speed internet
+connection, product line improvement, and various delivery options. The retail industry
+includes consumer products, e-commerce, discounted stores, retailers, electronics, department
+stores, apparel, home improvement, etc. Thus, data analysis help manager to make data-driven
+decisions in various areas such as customer services, customisation, product availability,
+dynamic pricing and promotion, inventory management, customer segmentation, etc.
+(Seetharaman et al., 2016).
+Attribute Type Data Measurement type Description
+Raw Id Categorical Nominal Serial number of the data
+Order ID Categorical Nominal ID for the customer created at time of placing order
+Order Date Categorical Nominal Date on which customer place an order
+Ship Date Categorical Nominal Date of an order shipped
+
+
+
+sample
+ 
+1. Product Analysis for low-performing product line
+Retail stores have multiple product range under different brands. In the retail sector, it is crucial
+to focus the product to analyse the best-performing and least-performing products, productmaking losses, and consistency of the individual product performance (Saxena, 2021). Product
+analysis is crucial for Managers to make data-based decisions about which products to be
+continued, which products need to stock more, and which are the least and best-performing
+products. Below is a graphical representation of products with good profits and products that
+incur losses in the selected dataset. Further, diagnostic analysis is done for the brand and type
+of the product which incurs the loss.
+Figure 2: Product analysis as per customer segments
+The above bar graph represents revenue according to different product performances in
+different segments. As per Figure 2, the highest profit-making products are phones and copier
+machines in the consumer segment. However, per the product analysis, tables are under loss in
+consumer, corporate, and home office segments, with the highest loss in the corporate segment.
+Managers can make a data-based decision on the product analysis by analysing the reason for
+failure in the product. Furthermore, the below graphs represent a detailed analysis of the lossmaking product with an analysis of variables that causes the loss for specific products and lossmaking brands.
+sample
+Figure 3: Discounts available in various product categories
+ Figure 4: Discount by table type and brand Figure 5: Sum of loss by table type and brand
+Figure 6: Diagnostic analysis (Chi-square)
+sample
+Figure 3 demonstrate discount available on the product for sub-categories of the product line
+of the superstore. The highest discount is available on the tables and the minor discount on
+papers and art-related products. Thus, the discount might be the reason for the loss in the tables.
+Furthermore, Figure 4 demonstrates that the highest discount is available for conference,
+assembled, adjustable, and rectangular tables. Besides this, underperforming brands are
+Chromcraft, Bevis, Lerso, and Barricks, demonstrated as per world cloud in Figure 4. As a
+result, the most loss-making tables type are conference, adjustable, assembled, and rectangular
+tables under various brands such as Chromcraft, Bavis, and Barrick, respectively. To add to
+this, managers or retailers need to investigate why such a high discount is given for a specific
+product compared to the other product line. As per Figure 5, diagnostic analysis demonstrates
+that the number of quantities sold for the tables is deficient in all customer segments; thus,
+discounts for the specific brand and type of tables may be increased to boost the table retailer
+sales. Moreover, the chi-square test result indicates that the product category and customer
+segments influence each other. However, the consumer segment performs well compared to
+others by popular sales of specific product lines. Additionally, another diagnostic analysis
+suggests a significant difference in the discount available for a table in three different segments
+as per the figure below of the ANOVA test.
+Figure 7: Diagnostic analysis (ANOVA) for a significant difference in a discount for tables
+Discount is not the only cause for the loss in the table product for specific brands in the
+superstore. Additionally, another variable also influences the brand’s performance, such as the
+type and design of the product, customer satisfaction level, market competition, demand for
+sample
+the products, etc. Similarly, according to Lal & Matutes (1994), retailers use marketing tools
+such as advertising, price reduction, and reducing delivery time and shipping cost to attract
+more customer base and increase sales. Additionally, customers are more likely to be concerned
+about the delivery time in the retail sector. It also adversely affects product demand and incurs
+additional costs to the company, which is reflected as the cause of the loss. Arguably, Kumar
+et al., (2017) emphasised that retailers should use different strategies at the market(competitive
+strategy), firm, store, and customer level to increase profitability. He has done an empirical
+analysis of variables such as products of various brands, unit cost, transportation cost, customer
+satisfaction(rating), and competitors’ performance to analyse the overall profitability of the
+retail firm. Market-level and firm-level strategies such as market expansion and multichannel
+marketing are crucial for the retailer, which help retailers provide the latest products per the
+market trend and customer requirements (Kumar et al., 2017).
+To make a data-driven decision, a manager or retailer must investigate why the highest discount
+is given in the specific brand and product line. Besides this, the manager should focus on the
+marketing strategy, customer satisfaction level, market trend and product demand, and
+inventory management of low-performing brands to mitigate the loss in the furniture category.
+Moreover, market trends and customer buying pattern analysis help the retailer to analyse the
+current market competitiveness.
+2. Pricing and discounting strategy
+Setting appropriate pricing for the target consumer is one of the critical decisions for retail
+profitability and customer segmentation. Retailers frequently use pricing discrimination to
+boost sales and use price discounts or quantity discounts (Khan & Jain, 2005). In today’s
+digitalised world, e-commerce retailers also use advanced technology to deliver the right
+pricing offer to the right customer at the right time. Similarly, pricing analysis helps managers
+analyse specific patterns or trends in customer buying behaviour, which helps retailers increase
+profitability by providing appropriate prices (Bodea & Ferguson, 2014). Moreover, appropriate
+discount helps the manager to analyse buying behaviour and customer engagement. In the retail
+management context, business issues can arise that what could be the best promotion strategy
+to deliver high customer satisfaction and good revenue because discounting and price reduction
+are negatively correlated to the firm's income which is presented below in Figure 8.
+sample
+Figure 8: Predictive Analysis (Co-relation)
+As the above correlation shows, sales amount and discounts are negatively correlated as
+discount increases and sales order value decreases (-0.08). Additionally, a high discount
+negatively impacts profit because a higher discount lowers the profit. Moreover, a reduced
+pricing strategy also increases the order quantity from regular sales to the amount of product.
+Thus, appropriate discounts and pricing will only sometimes cause loss or reduce profit.
+Similarly, as demonstrated in predictive analysis, shipping cost is highly correlated with sales
+order value (0.767), which means increasing order value will lead to higher shipping costs.
+However, a high correlation between shipping cost and sales order value can only be predicted
+for some products and sales orders as many other variables affect shipping cost per order, such
+as shipping priority, order priority, delivery days, and types of products. To add to this, it is
+noted that there is no significant correlation between delivery days and profit in retail / Ecommerce superstore, which demonstrate that customer probably would not care about delivery
+time. However, in this fourth industrial revolution, it is the prime responsibility of retailers to
+ensure that product delivery is timely because it may cause additional costs to the company.
+Furthermore, the correlation of quantity in the order and sales value is positively related as
+quantity increases, sales value increases, but this is not applicable in all the office supplies
+retailing as many products lines high-value costs such as tables, copier machines, phones,
+binders, chair, and storage.
+Figure 9: Diagnostic analysis for discount differences among customer segments
+sample
+Moreover, as presented in Figure 9 above, diagnostic analysis (ANOVA) suggests a significant
+difference in discounts available for the product among various customer segments,
+significantly affecting the profit of the superstore. Predictive analysis by regression model and
+diagnostic analysis done by Danziger et al., (2014) demonstrate that consumers are more likely
+to buy products from retailers who offer discounted prices every day or continuously.
+Additionally, customers did not prefer the retailer offering infrequent but high discounts and
+preferred a retailer offering frequent low discounts. Moreover, price heterogeneity is also
+affecting the sales revenue of the product. On the other hand, Koçaş & Bohlmann, (2008)
+analyse that some retailers are giving deep discounts and forgo price-sensitive switchers to earn
+more profitability within a shorter time and are also incorporating price optimisation benefits.
+Managers or retailers should make data-driven decisions to provide lower discounts on
+different products under different brands rather than promoting high deals irregularly.
+Moreover, the manager needs to focus on the price optimisation strategy so that one lossmaking product can be recovered from the other products and can make trade-offs between
+price reduction and revenue. Besides this, competitors’ pricing and discount strategies
+significantly affect the existing customer base; thus, the manager can make data-driven
+decisions for price optimisation and everyday low pricing.
+Logistic/Shipping preference for profitability and customer satisfaction
+In today’s era of digital technology, logistic and transportation services is crucial for retailers
+and the e-commerce industry. In e-commerce and retail, the most critical aspect is the delivery
+mode, delivery time, and services in online shipment to the customer. Retail retailers provide
+door-to-door services to increase customer satisfaction in traditional retail business
+management. Superstore retailer services differ from e-commerce in terms of delivery
+promptness, security, product availability, delivery acknowledgment, and product tracking
+(Haron et al., 2017). For higher profitability and customer retention, the manager must identify
+the suitable shipping mode and set order priority for better customer service and segmentation.
+Below is the descriptive analysis for various variables related to online delivery and preferred
+shipment mode.
+sample
+Figure 10: Descriptive data analysis
+The above table demonstrates the descriptive analysis of the various data variables. It illustrates
+that 51,290-customer data are in the data set with an average sales value of $245.97.
+Furthermore, the average quantity in the order is three units with an average 14% discount rate.
+Based on this, the manager can analyse products according to shipping mode and order priority
+to streamline the order delivery system and help manage inventory. Further, the maximum
+delivery days are 7, and the highest shipping cost is $933 per order.
+Figure 11: Shipping cost Figure 12: Delivery days
+sample
+Figure 13: Number of products shipped under different ship modes.
+Figure 14: Number of orders shipped as per order priority.
+The descriptive analysis in Figure 13 illustrates that the highest number of products from all
+categories are shipped under standard class, and the lowest is shipped under first class shipment
+mode. Additionally, as per Figure 11, the standard class shipment mode has the highest shipping
+cost, followed by second, first, and same-day shipment modes. Besides this, the bar graph in
+sample
+Figure 14 shows that an increased number of products are delivered as medium order priority,
+with a relatively high number of delivery days presented in Figure 12. The manager should
+analyse the whole product line and standardise the shipment mode according to the product
+because lower sales vlaue order can be shipped under same day or first class shipment to save
+the cost and helps to decrease delivery days. However, the manager could prioritize the
+shipment mode per the order value. Retailers also can analyze customer segmentation based on
+the customer's buying pattern. Predictive analysis was done for the customer segmentation
+based on the selected data, presented below in Figure 15.
+Figure 15: Customer clustering as per product category (RapidMiner)
+Figure 16: Centroid table
+Customer segmentation is breaking a market into distinct groups of consumers with varying
+demands, traits, and behaviours who may need different goods or react differently to different
+marketing strategies. Thus, managers should focus on clustering to gain more profitability from
+the targeted group of customers. As illustrated in Cluster 0, a total of 22,834 customers bought
+sample
+office supplies category with lower sales order values which shipping cost is also, on average
+smaller (Cluster 0 centroid table value is 1.942, which is close to 2 and 2= office supplies as
+per Figure 1). Moreover, cluster 1 is also an important segment to analyse as first-class
+shipment mode has, on average, fewer delivery days for products with the lower order value.
+However, as per cluster 1, the least number of orders are shipped under first-class ship mode
+with the lower order value. Thus, managers should make data-driven decisions to manage
+proper inventory for office supply products to fix order priority and shipment mode to increase
+profitability and customer satisfaction through faster delivery. Additionally, the manager
+should ship lower-unit-cost products under first-class shipment mode for speedier delivery,
+which helps increase customer satisfaction and minimize shipping costs.
+According to Gümüş et al., (2013), pricing partition for different customers is a common
+strategy retailers use. From the descriptive and predictive analysis of different variables such
+as price, shipping cost, retail brands, and customer demographics, Gümüş et al., (2013)
+analysed two customer segmentation basis in retail. Retailers are likelier to add shipping and
+handling costs in the lower order value. Besides this, for heavy and fragile products with very
+high shipping costs, retailers charge shipping costs from the customer. Arguably Cachon et al.,
+(2018) said that e-commerce retailers use a free shipping threshold policy where customers
+order for a predetermined amount of orders. Regression model validation used and predicted
+that customers are more likely to order impulse product purchases to increase the threshold
+limit for free shipping; however, customers are paying less attention to delivery days when they
+have lower sales order amounts (Cachon et al., 2018). Arguably, Youn et al., (2014) said that
+profitability and delivery services in retail and e-commerce are steadily declining due to price
+competition. He also argues that customers are more likely to be concerned about delivery
+accuracy and time in delivery services rather than higher or lower product delivery costs.
+Recommendation
+Data-driven decision-making plays a crucial role in this digital era, as much data are available
+in different industries. For the retail and e-commerce sector, comprehensive data are collected
+with the help of other technological devices. The manager uses these data to make data-driven
+decisions for competitive advantage, inventory management, pricing strategy, and shipping
+preferences for the product and customer segments. It can be recommended for the manager
+and retailer that low-performing product analysis is significant to identify the cause of the loss
+for superstore table products. Managers and retailers must identify the reason for losing a
+sample
+specific product. They should focus on strategies to mitigate the loss by analysing market trends
+and customer buying patterns. Furthermore, Pricing and discounting strategies are vital in
+increasing profitability. It is recommended for the retailer that the superstore should promote
+discounting on different products regularly instead of providing deep discounts on infrequent.
+Moreover, setting logistic preference shipment mode as per order value and development type
+increases customer satisfaction by faster delivery days.
+Conclusion
+This report is designed to analyse the dataset and make data-driven decisions in contemporary
+business issues in office equipment and product supply retail superstores. Throughout the
+report, three retail business context data analyses were discussed, such as product analysis,
+discounting and pricing strategy, and shipping or logistic preference for the superstore with the
+literature review. According to Kumar et al., (2017), market, firm, store, and customer-level
+marketing strategies are essential to integrate into the store’s management because only high
+discounts and shipping costs are not causes of the loss in the product line. Besides this, frequent
+discount on products and price optimisation helps retailers design appropriate pricing strategies
+for loyal customers (Danziger et al., 2014; Koçaş & Bohlmann, 2008). On the other hand,
+logistic service and order priority are essential factors for customer segmentation based on
+order value. Youn et al., (2014) demonstrate that customers are more likely to be concerned
+about faster delivery time than delivery cost in retail and e-commerce. Overall, managers in
+various industries can make data-driven decisions for better business management based on
+different data analysis methods such as descriptive, diagnostic, prescriptive, and predictive
+techniques.
+sample
+Reference
+Black, K. (2023). Business Statistics: For Contemporary Decision Making. John Wiley &
+Sons.
+Bodea, T., & Ferguson, M. (2014). Segmentation, Revenue Management, and Pricing
+Analytics. Routledge.
+Cachon, G. P., Gallino, S., & Xu, J. (2018). Free Shipping Is Not Free: A Data-Driven Model
+to Design Free-Shipping Threshold Policies. SSRN Electronic Journal.
+https://doi.org/10.2139/ssrn.3250971
+Danziger, S., Hadar, L., & Morwitz, V. G. (2014). Retailer Pricing Strategy and Consumer
+Choice under Price Uncertainty. Journal of Consumer Research, 41(3), 761–774.
+https://doi.org/10.1086/677313
+Goar, V. K., & Yadav, N. S. (2022). Business Decision Making by Big Data Analytics.
+International Journal on Recent and Innovation Trends in Computing and
+Communication, 10(5), 22–35. https://doi.org/10.17762/ijritcc.v10i5.5550
+Gümüş, M., Li, S., Oh, W., & Ray, S. (2013). Shipping Fees or Shipping Free? A Tale of Two
+Price Partitioning Strategies in Online Retailing. Production and Operations
+Management, 22(4), 758–776. https://doi.org/10.1111/j.1937-5956.2012.01391.x
+Haron, H., Bakar, S. Z. A., Haron, H., & Hui, H. K. (2017). Critical Success Factors on
+Delivery Preferences of E-Commerce in Malaysia. International Journal of Academic
+Research in Business and Social Sciences, 7(11), Pages 1383-1393.
+https://doi.org/10.6007/IJARBSS/v7-i11/3577
+sample
+Khan, R. J., & Jain, D. C. (2005). An Empirical Analysis of Price Discrimination
+Mechanisms and Retailer Profitability. Journal of Marketing Research (JMR), 42(4),
+516–524. https://doi.org/10.1509/jmkr.2005.42.4.516
+Koçaş, C., & Bohlmann, J. D. (2008). Segmented Switchers and Retailer Pricing Strategies.
+Journal of Marketing, 72(3), 124–142. https://doi.org/10.1509/JMKG.72.3.124
+Kumar, V., Anand, A., & Song, H. (2017). Future of Retailer Profitability: An Organizing
+Framework. Journal of Retailing, 93(1), 96–119.
+https://doi.org/10.1016/j.jretai.2016.11.003
+Lal, R., & Matutes, C. (1994). Retail Pricing and Advertising Strategies. The Journal of
+Business, 67(3), 345–370.
+Le, T., & Liaw, S.-Y. (2017). Effects of Pros and Cons of Applying Big Data Analytics to
+Consumers’ Responses in an E-Commerce Context. Sustainability, 9(5), 798.
+https://doi.org/10.3390/su9050798
+sample
+sample

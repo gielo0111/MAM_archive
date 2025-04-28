@@ -1,0 +1,280 @@
+Utilizing Business Analytics for Informed Decision-Making
+in Opening a New Restaurant in Banglore
+sample
+1. Introduction
+Bangalore is Karnataka's capital and largest city, a state in southern India. It is India's third
+most populated city, with a metro population of almost 11 million. Bangalore is renowned for
+its extensive restaurant scene and diversified food culture, providing a gourmet haven for
+food lovers. In today's competitive restaurant industry, making informed decisions is crucial
+for the success of a new establishment. With the rapidly expanding restaurant scene in
+Bangalore, India, choosing the right location, managing prices effectively, and maintaining
+high levels of customer satisfaction are critical challenges aspiring restaurant owners face.
+Fortunately, business analytics offers valuable tools and techniques to address these
+challenges and make data-driven decisions. By leveraging data from sources like Zomato, a
+popular online food delivery and restaurant discovery platform, restaurant owners can gain
+insights into the market landscape, customer preferences, and industry trends.
+This article explores the application of business analytics in opening a new restaurant in
+Bangalore. It begins by discussing the dataset obtained from Zomato, which provides
+comprehensive information about restaurants in the city. The data cleaning process is then
+outlined, ensuring accuracy and reliability for subsequent analysis. Three critical problems
+faced by restaurant management are identified: choosing the location and restaurant type,
+price management, and maintaining customer satisfaction levels.
+Using business analytics techniques, each of these problems is examined in detail, providing
+actionable insights for decision-making. For selecting the optimal location and restaurant
+type, chi-square test and visualizations like bar charts are employed to identify areas with
+high restaurant density and understand the association between location and restaurant type.
+Price management is addressed through market research and analysis of pricing strategies,
+utilizing chi-square test and line charts to identify the relationship between location and price
+range. Lastly, how to maintain customer satisfaction levels is explored by analyzing online
+ratings and reviews, leveraging descriptive statistics and bar charts to gauge customer
+perception and identify areas for improvement.
+By utilizing business analytics in decision-making, aspiring restaurant owners in Bangalore
+can mitigate risks, maximize their chances of success, and gain a competitive edge in the
+sample
+sample
+sample
+Using Business Analytics, the management can successfully overcome these challenges. An
+in-depth discussion of these problems and their solutions using analytics is discussed below.
+4.1 Choosing the Location & Restaurant Type
+One of the most crucial factors in a restaurant's success is finding the perfect location, and
+choosing the wrong location could result in a lack of sales and ultimate failure (Calderón et
+al., 2021). It is also one of the characteristics that's difficult to change and nearly impossible
+to overcome (Calderón et al., 2021). By drawing in more customers, a good location can
+boost a restaurant's competitive advantage and influence the restaurant that customers select
+(Torlak et al., 2020). According to Self et al., (2015), restaurant failure has long been
+attributed primarily to bad location decisions. The main problem with picking the wrong
+location for a restaurant is that after it has opened and sales are lower than expected, the
+investment in infrastructure or adaptations has already been made and cannot be altered (De
+Meirleir, 2011, as cited in Calderón et al., 2021). However, even if a restaurant's strategy was
+poorly planned, a good location might still contribute to its success (Karadeniz, 2009, as
+referenced in Calderón et al., 2021).
+When opening a new restaurant, it is crucial to consider the existing restaurant landscape in
+the chosen location. Opening a restaurant in an area with an already established restaurant
+scene can be advantageous, as it indicates a demand for dining options and attracts potential
+customers (Self et al., 2015). However, it is crucial to choose the type of restaurant carefully
+based on the location (Prayag et al., 2012). Understanding the preferences and demographics
+of the target customer base in the area can help in selecting a restaurant type that aligns with
+their needs and desires (Calderón et al., 2021; Prayag et al., 2012). This strategic alignment
+between the restaurant type and location can increase the chances of success and customer
+attraction, even in the presence of competition.
+A bar chart can be an effective tool to represent the distribution of restaurants across different
+locations visually. By plotting the number of restaurants on the y-axis and the locations on
+the x-axis, the bar chart, as shown in Figure 3, provides a clear comparison of the restaurant
+density in various suburbs of Bangalore. Management can utilize this information to identify
+locations with a higher concentration of restaurants, indicating a potential demand for dining
+options. BTM, Whitefield, and Electronic City were the top three suburbs identified in this
+sample
+case. These areas suggest a higher likelihood of attracting customers and benefiting from
+existing foot traffic. By analyzing this bar chart, management can narrow down potential
+locations for the new restaurant and prioritize those with a significant number of restaurants.
+Figure 3
+Restaurant Density Bar Chart (Self-drawn using Qlik)
+On the other hand, a chi-square test can help identify the relationship between restaurant type
+and location. This statistical test examines whether there is a significant association between
+two categorical variables, in this case, restaurant type and location. By analyzing the
+observed frequencies of restaurant types across different locations and comparing them to the
+expected frequencies, the chi-square test was able to determine if the distribution of
+restaurant types is dependent on the location. A P<0.05 was observed in this test, which
+proves that there is an association between location and restaurant type. This information can
+guide decision-making when selecting the optimal location based on the desired restaurant
+type.
+sample
+Figure 4
+Chi-square Observed Frequencies
+sample
+sample
+sample
+4.2 Price Management
+Price management is a crucial and challenging decision for new restaurants. Determining the
+right pricing strategy requires careful consideration of various factors to ensure the
+restaurant's success. Setting prices too high may deter potential customers, while setting them
+too low may lead to financial instability or undervaluing the offerings (Liu & Tse, 2018). One
+of the critical considerations in price management is understanding the target market and its
+willingness to pay. Conducting market research and analyzing the pricing strategy of already
+established restaurants can provide insights into the customer’s price sensitivity and
+expectations (Raab et al., 2009). This information allows restaurant owners to select an
+approximate price range that aligns with the target market's affordability and perceived value
+(Dominique-Ferreira et al., 2019; Raab et al., 2009).
+Moreover, it is important to consider the restaurant's positioning in the market. Factors such
+as the restaurant's concept, type, and location must be reflected in the pricing strategy
+(Thielemann et al., 2018). For example, a higher-end fine dining restaurant may justify higher
+prices by emphasizing premium ingredients and an exceptional dining experience. On the
+other hand, a casual eatery might opt for a more affordable pricing structure to attract a larger
+customer base (Liu & Tse, 2018). Carefully selecting an appropriate price range not only
+attracts the target customers but also contributes to the restaurant's profitability. Overall,
+Price management poses a significant challenge for new restaurants. By understanding the
+target market, considering the restaurant's positioning, and carefully selecting an approximate
+price range, management can establish a pricing strategy that attracts customers, reflects the
+restaurant's value proposition, and supports long-term success (Dominique-Ferreira et al.,
+2019; Liu & Tse, 2018; Thielemann et al., 2018).
+A chi-square test can be utilized to identify the relationship between restaurant location and
+the approximate price range of restaurants. This statistical test examines the association
+between two categorical variables and can help determine if there is a significant relationship
+or dependence between these variables of interest. In this case, the chi-square test can assess
+whether there is a relationship between the location of restaurants and the price range they
+offer.
+sample
+By running the chi-square test on the location and approximate price range of existing
+restaurants from the given data, management can analyze the observed frequencies and
+expected frequencies of different price ranges across various locations. After successfully
+running the chi-square test, a p-value <0.05 was observed, which indicates that there is
+statistical significance between the restaurant's location and its price range.
+Figure 9
+Chi-square Observed Frequencies
+sample
+Figure 10
+Chi-square Expected Frequencies
+Figure 11
+Chi-square expected frequency formula
+sample
+sample
+Analyzing the line chart allows management to identify pricing trends and patterns in
+different locations. They can observe the average price ranges for restaurants in various areas
+and make informed decisions about setting a competitive and profitable price range for their
+new establishment. The line chart helps management understand the pricing landscape, take
+into account the local market conditions, and strike a balance between affordability for
+customers and profitability for the restaurant.
+Figure 14
+Location-wise approximate price range Line Chart (Self-drawn using Qlik)
+By using both the chi-square test to identify the relationship between location and price range
+and the line chart to analyze the pricing trends in different areas, management can gain
+valuable insights for setting an appropriate and successful approximate price range for their
+new restaurant in a specific location.
+sample
+4.3 Maintaining customer satisfaction levels
+Maintaining customer satisfaction levels is paramount for new restaurants as it directly
+influences their success and long-term viability. Satisfied customers are more likely to
+become repeat customers, recommend the restaurant to others, and leave positive reviews,
+which can significantly contribute to the establishment's reputation and overall growth
+(Vajjhala & Ghosh, 2022). However, ensuring customer satisfaction can be highly
+challenging for new restaurants. They face various hurdles, such as establishing a solid
+reputation, meeting customer expectations, and managing operational complexities (Bilgihan
+et al., 2018). Building a positive reputation takes time and effort, as new restaurants need to
+prove themselves to a skeptical audience. They must strive to exceed customer expectations
+from the moment they open their doors, as first impressions are vital in shaping customers'
+perceptions (Lee & Kim, 2020). Any shortcomings or inconsistencies in the restaurant can
+result in dissatisfied customers and negative reviews, which can be detrimental to the
+restaurant's success (Vajjhala & Ghosh, 2022).
+Analyzing online ratings of existing restaurants can provide new restaurants with valuable
+insights to solve various problems and improve their chances of success in the competitive
+industry. Data analysis of online ratings of existing restaurants allows new restaurants to gain
+a comprehensive understanding of customer preferences and expectations (Bilgihan et al.,
+2018; Vajjhala & Ghosh, 2022). By examining positive reviews, new establishments can
+identify the aspects of their competitors' offerings that are highly praised by customers (Lee
+& Kim, 2020). This insight enables them to replicate successful elements, such as popular
+dishes, outstanding service, or unique ambiance, in their own establishment. Understanding
+what customers value most in their dining experience helps new restaurants tailor their
+offerings to meet those expectations and create a competitive advantage (Bilgihan et al.,
+2018; Vajjhala & Ghosh, 2022). On the other hand, studying negative reviews in online
+ratings provides new restaurants with crucial information about the shortcomings and
+weaknesses of their competitors. By analyzing common complaints or issues raised by
+customers, new establishments can proactively address those areas and ensure they do not
+make the same mistakes.
+Using Descriptive Statistics and a Bar Chart, an average online rating of 3.6-3.7 is observed
+from the data. The average online rating serves as an indicator of customer satisfaction and
+sample
+perception of the dining experience in Bangalore. By analyzing the average rating, new
+restaurants can gauge the overall quality and competitiveness of the local restaurant scene.
+This information will help understand the expectations and preferences of the local customer
+base. Furthermore, it enables new restaurants to set realistic benchmarks and goals for their
+own performance, aiming to meet or exceed the average rating to attract and retain customers
+in the competitive landscape.
+Figure 15,16
+Descriptive Statistics of Ratings
+Bar Chart of Average Ratings of restaurants (Self-drawn using Qlik)
+Rating (2)
+Mean 3.62168906
+Standard Error 0.00526018
+Median 3.6
+Mode 3.7
+Standard
+Deviation 0.41592037
+Sample Variance 0.17298976
+Kurtosis -0.0089602
+Skewness -0.1020133
+Range 3.1
+Minimum 1.8
+ the other hand, analyzing the data of online rating vote count of existing restaurants is
+important for a new restaurant as it provides insights into the popularity and reputation of
+competitors in the area. By examining the vote count, new restaurants can gauge the level of
+customer engagement and the extent to which customers are actively reviewing and rating
+restaurants in the locality. This information helps them understand the level of competition
+and the potential visibility and impact of online reviews in their target market, allowing them
+to develop effective strategies to attract and engage customers based on their online
+sample
+reputation management. A Bar Chart (Figure 17) was drawn using Qlik to help identify
+restaurants with the most vote count in Bangalore.
+Figure 17
+Vote Count Bar Chart (Self-drawn using Qlik)
+Furthermore, analyzing the data of the highest and lowest-rated restaurants using a tree map,
+as shown in Figures 18 and 19, can be helpful for the new restaurant by providing a visual
+representation of the competitive landscape. The tree map will allow the new restaurant to
+identify the key players in the market and understand the factors that contribute to their
+success or shortcomings. By examining the characteristics and customer feedback of the
+highest and lowest rated establishments, the new restaurant can gain valuable insights to
+shape their own business strategy and differentiate themselves in the market to attract and
+satisfy customers.
+Figure 18
+Highest Rated Restaurants Tree Map (Self-drawn using Qlik)
+sample
+Figure 19
+Lowest Rated Restaurants Tree Map (Self-drawn using Qlik)
+Overall, leveraging data analysis of online ratings of existing restaurants empowers new
+establishments to make informed decisions and optimize their operations. By understanding
+customer preferences, addressing weaknesses in the industry, and fulfilling unmet needs, new
+restaurants can enhance their chances of success and build a loyal customer base from the
+start. This strategic approach based on data analysis allows them to differentiate themselves
+from competitors, provide a superior dining experience, and ultimately thrive in a highly
+competitive industry.
+5. Conclusion
+In conclusion, leveraging business analytics can significantly benefit aspiring restaurant
+owners in making informed decisions when opening a new restaurant in Bangalore. By
+analyzing comprehensive data from sources like Zomato, restaurant owners can gain valuable
+insights into the market landscape, customer preferences, and industry trends. This article
+highlighted three key challenges restaurant management faces: choosing the location and
+restaurant type, price management, and maintaining customer satisfaction levels.
+Each of these challenges has been addressed through the application of business analytics
+techniques. For selecting the optimal location and restaurant type, tools such as bar charts,
+chi-square test, and Mekko charts have been utilized to identify areas with high restaurant
+density, understand the association between location and restaurant type, and identify the top
+restaurant types in specific locations. These insights enable restaurant owners to position their
+sample
+new restaurants strategically, align with customer preferences, and maximize their chances of
+success.
+Price management, another crucial aspect, has been tackled through market research, analysis
+of pricing strategies, chi-square test, and line charts. By understanding the target market,
+considering the restaurant's positioning, and analyzing pricing trends in different areas,
+restaurant owners can establish an appropriate and profitable price range that attracts
+customers and reflects the restaurant's value proposition.
+Finally, maintaining customer satisfaction levels has been addressed by analyzing online
+ratings and reviews. By examining positive reviews, new establishments can identify
+successful elements in their competitors' offerings and replicate them in their own
+establishment. Analyzing negative reviews helps identify areas for improvement and allows
+proactive measures to address customer concerns and ensure a positive dining experience.
+By leveraging business analytics, aspiring restaurant owners can make data-driven decisions
+that mitigate risks, position their new restaurant strategically, set competitive prices, and meet
+customer expectations. These insights contribute to the restaurant's overall success, growth,
+and profitability in the dynamic and competitive restaurant landscape of Bangalore. In an
+industry where informed decision-making is crucial, business analytics offers valuable tools
+and techniques to gain a competitive edge and ensure long-term success in the vibrant
+restaurant scene of Bangalore.
+sample
+sample
+Raab, C., Mayer, K., Shoemaker, S., & Ng, S. (2009). Activity-based pricing: Can it be
+applied in restaurants? International Journal of Contemporary Hospitality
+Management, 21(4), 393–410. https://doi.org/10.1108/09596110910955668
+Self, J. T., Jones, M. F., & Botieff, M. (2015). Where Restaurants Fail: A Longitudinal Study
+of Micro Locations. Journal of Foodservice Business Research, 18(4), 328–340.
+https://doi.org/10.1080/15378020.2015.1068670
+Thielemann, V. M., Ottenbacher, M. C., & Harrington, R. J. (2018). Antecedents and
+consequences of perceived customer value in the restaurant industry: A preliminary
+test of a holistic model. International Hospitality Review, 32(1), 26–45.
+https://doi.org/10.1108/IHR-06-2018-0002
+Torlak, N. G., Demir, A., & Budur, T. (2020). Impact of operations management strategies on
+customer satisfaction and behavioral intentions at café-restaurants. International
+Journal of Productivity and Performance Management, 69(9), 1903–1924.
+https://doi.org/10.1108/IJPPM-01-2019-0001
+Vajjhala, V., & Ghosh, M. (2022). Decoding the Effect of Restaurant Reviews on Customer
+Choice: Insights from Zomato. Journal of Foodservice Business Research, 25(5),
+533–560. https://doi.org/10.1080/15378020.2021.1964417
+sample
