@@ -1,0 +1,534 @@
+Section 1 Overview
+
+HCI Book: Overview
+
+HCI Human Computer Interaction
+-include designing interfaces for desktop computers
+IOT
+devices
+AI
+virtual assistants
+
+
+HCI / HSI Human System Interface
+
+
+HSI design interface tailored for individual needs
+
+
+Assessment 1
+Analyze user experience design for organizations / industry.
+choose an industry
+
+select one company
+choose an industry where you want to find a job in
+find out what their goals are.
+what helped them effectively achieve those goals.
+
+-analyze the various elements of the user experience such as usability
+accessibility, aesthetics, and evaluate their effectiveness
+in achieiving the industry goals
+
+-research and explore best practices in user experience design within your chosen industry. Compare the industry user experience design with these best practices, identifying any areas where it falls short.
+
+
+
+1st page - Cover Page
+Change Cohort 2 and name
+
+Page 2
+analysis of User Experience design in a software development industry 
+
+Introduction
+-Definition - define user experience design
+-Motivation - why is user experience design important in that industry
+-Background - What is the industry about(background of the industry)
+(recently there has been a transition to more user experience design)
+-Objective - 
+-Structure
+
+Interaction vs Interface
+interface is an object
+interaction is a process
+
+
+2025 07 30
+Assessmentq 1
+
+-Focus on usability
+
+
+theories on psychology
+lord theory
+gestalt prinicples
+
+
+2025 08 04
+
+topic 1: human computer interface
+topic 2: human computer interaction
+topic 3: user experience design
+
+user experience analyst
+user experience designer
+user experience developer
+user experience deployment
+
+good user interface -> good user experience
+
+19 theories
+
+2. cognitive load
+    -good user experience requires low brain usage
+    -more cognitive load 
+
+3. Doherty threshold
+    -if any user experience is taking more than 400ms, it annoys users
+    -preloading so the apps are quick
+
+4. Fitts Law
+    -The closer things are, the quicker we get it.
+    -The close the items, the quicker the people notice it
+    -Make small objects Larger
+
+5. Goal Gradient Effect
+    -The tendency to work harder as one gets closer to the goal
+
+6. Hick's Law
+    -The time to make a decision increase with the number and complexity of choices
+    -The more options you provide, the more complex the experience
+
+7. Jakob's Law
+    -Common user design align with good user experience
+
+8. Law of Common Region
+    -Defining boundaries helps user recognize related elements
+
+9. Law of Proximity
+    -We can group items based on proximity, and user will think its one part
+
+10. Law of Pragnanz
+    -Design should aim for simplicity to be easily understood
+
+11. Law of Similarity
+    -use similarity in color, shape, or size to create visual grouping
+    
+12. Law of Uniforn Connectedness
+    -Elements that are visually connected are perceived as related.
+
+13. Mental Model
+    -User form mental models of how systems work based on their experiences
+
+14. Miller's Law
+    -Average person can keep 7+-2 items in their working directory
+    -Limit the number of items presented to avoid overwhelming users
+    -Bring everything into single memory click, dont make users remember previous interaction.
+
+15. Occam's Razor
+    -Opt of simplest solutions
+
+16. Paradox of the Active User
+    -Users start using software immediately and rarely read manuals
+    -similar to 80/20 
+        -only 20% of the items will be used 80% of the time.
+
+17. 
+
+18. Parkinson's Law
+    -15 minute survey, but user will think it is 7 minute survey
+        -user will get annoyed if survey takes more than 7 minutes
+    -Design the user interface based on this idea
+
+19. Peak End Rule
+    -Focus on creating memorable high points and strong finish
+    -How am I rewarding the users, so they remember it as good experience
+
+20. Postel's Law
+    -Be liberal in what you accept, be conservative in what you send
+    -A form input that accepts various inputs, and provides clear errors
+
+21. Selective Attention
+    -Give users selective attention, why it is not working
+    -give specific reasons, dont let users guess
+
+22. Serial Position Effect
+    -Users remember the first and last items in a series best.
+    -Identify if primacy or recency is more suitable
+
+23. Tesler's Law
+    -A certain amount of complexity is inherent in any system
+    -Dont eliminate, try to present in a simpler way.
+
+24. Von Restorff Effect
+    -Distinctive items standout and are easier to remember
+    -If there is something that should inform the user, do a notif
+
+25. Zerigarnik Effect
+    -People get anxious about incompleted tasks
+
+
+Human Computer Interface
+Human Computer Interaction
+Design interaction - Human System Task Context
+User Experience Design - user interacting with the system
+Best Principles of design
+
+industry, goals, in terms of user interface design, and how user interface design helps them achive
+
+ex. 
+In terms of user experience, what should ecommerce do to increase sales
+is it usability, gamification, aesthetics?
+
+
+20250813
+
+ideation techniques
+we generate ideas by mind mapping, brainstorming, storyboarding
+
+User Stories
+group of user stories is story board
+
+prototyping
+wireframe
+
+
+Design systems
+
+verification vs validation
+verification is checking if the design is meeting the principles
+design or diagram is correct
+validation is sometimes the diagram is correct, but it is not what the user wants.
+checking against the source
+
+heuristic evalutation
+evaluated based on usability principles
+is it too slow?
+
+manus
+
+summary
+usability testing: observes users interactivng with prototypes to identify usability issues and gather feedback
+heirustic evaluation: uses established usability priniles to evaluate and improve product design
+design critiques: structure
+
+assessment 1
+introduction
+get concepts from HCI
+get from lecture
+part 2
+usability 
+
+
+page 1 coverpage
+page 2 title
+    introduction
+page 3 
+    elements of user experience (first lecture)
+    industry goals
+    elements of user experience related to industry goals
+    How it helps organizations (second lecture)
+        How if it is not present
+    How the elements achieve their goal
+        if usability is good how did it help
+        how gamification helped achieve their goals
+    
+Page 4
+    Best Practices
+    best practices of user experience design
+    look only at 2020 
+    future of user experience and usability
+    
+
+2025 08 18
+
+we are building a mobile app for kids in the kindergarten
+to choose a daily meal
+ios based
+must have images boxes
+should have elements in 5 to 10
+under 5 years of age
+
+
+
+design systems
+
+library of reusable components
+
+ASB UI looks similar
+even if different functions
+
+
+
+
+Assessment 2
+
+Learning Outcome 1, 2, and 3
+
+assessment 1 only outcome 1
+
+
+use same industry, then focus on organization
+
+choose 1 app, website or, phone app
+
+focus on only one function
+quotes, checkout (specific one)
+
+testing the design based on principles
+based on usability, accessibility, aesthetics
+choose one is enough
+
+in this page, this part is good
+this part is not good
+
+How it can be improve
+what design it can be improved
+
+
+
+title and introduction by wednesday
+3 objectives
+
+
+motivation jump to background
+connect motivation to background
+
+
+
+2025 08 25
+
+Text to image generation
+
+ai for code genration
+ai for content creation
+
+automated alt text generation
+real time captioning and transcription
+predictive text and smart keyboards
+
+
+current trends and future developments
+
+extended reality - future developments
+
+
+brain computer interfaces (BCIs)
+
+
+Assessment 2
+general analysis of user experience design
+chatbot - what is good about it, what is not good about it
+
+practices not principles
+
+current trends and future developments
+
+
+Wednesday 
+
+
+
+
+2025 08 27
+
+cover page
+
+title - analysis of user experience design of 
+
+design of UXD of the chat function of ASB mobile app
+
+1. Introduction
+    font 12
+    definition -> HCI - HCI -UXD - UXA - up to you
+    motivation -> why is UXD important
+    background -> background of the org
+    objectives ( one sentence on analysis of the UXD of the chosen org,)
+    structure - what is in each section
+
+    this  is not a paper, it is a report
+
+2. The current UXD of ASB Chatbot
+
+    First Paragraph - Background of the function/ Goals (one small paragraph)
+    The current chatbot provides services such as ....gv
+
+    Second Paragraph - Focusing on the core component/s (usability, aesthetics, accessibility, personalisation or whatever)
+
+    In terms of usability, the mobile apps, chatbot UX is ..... (telling me how the current app is in terms of your selected component)
+
+    3rd Paragraph: What are the good things, and what are the negatives ( remember to focus on the negatives more... because this will provide basis for your next sections) (remember its explanatory/or descriptive/ its not comparative)
+
+    •	Analyse the user experience design of the chosen organisation, which may include but not limited to usability, accessibility, and aesthetics. Use examples from your organisation’s user interface (Mobile App, website, or any other system) 
+
+3. Evaluation of UXD  of ASB Chatbot
+
+    First paragraph - This part is comparative which means( compare the current UX in terms of the component you choose such as usability against usability principles(research on it))
+
+    Second  Paragraph - What are the areas of improvement for example whatever is missing or not good in terms of best practices (current trends)
+
+    3rd Paragraph - What are the areas of improvement for example whatever is missing or not good in terms of best practices (future developments)
+
+    (to write these section keep in mind to focus on the ux not the organization)
+
+    •	Based on your analysis in step 1, evaluate how the organisation's user experience design aligns with best practices in user-centred interaction design. Identify any areas where the organisation's user experience design falls short and needs improvement according to user-centred design principles.
+
+4. Design of the recommended ASB chatbot (feel free to put images from the existing apps and comparative apps, etc and point to them)
+
+5. Summary and Conclusions
+6. References
+
+10% summary
+10% intro
+80% 
+20 Part 2
+30 Part 3
+30 Part 4
+
+2025 09 08
+Why ethical AI matters in UX Design
+
+What isinclusie design
+equity
+flexibility
+simplicity
+
+
+
+
+Assessment 2
+
+
+Cover Page - picture
+Title - include title(meaningful title) size 16
+Introduction - make sure it is no more than one page
+
+Analysis - include screenshot of the existing user interface
+
+screenshots are important
+
+functions you are analyzing
+and how people use it
+
+login function in terms of user experience
+
+insurance quote function in terms of user experience
+
+
+
+Evaluation - In the evaluation,
+    ANZ has a mobile app that provides a chat function - description / not evaluation
+
+    ANZ has a chat function which does not properly work - analyzing
+
+    ANZ has a mobile app that is very limited - analyzing
+
+    is compared to in terms of 
+    1. has these issues in compared to usability principles/user experience/best principles
+
+    2. and compared to these/other organization
+        compare to other good organization
+
+    3. compare function to function(other industry)
+
+    compare side by side and compare it
+
+    Air NZ has one of the best designs that it is following
+    certain principles, but it is not following this principle
+
+    Addressing cultural biases
+    improve user experience by including of local tradition and norms and that it well used 
+
+    avoiding any bias or stereotypes
+
+    ANZ should be aking care on 
+
+    motibvations - eternal api
+    what is explainability
+
+    transparency and fairness
+    
+    explainability is the key to the foundation of AI
+
+
+Design
+-Make the design
+-Connect evaluation
+-AS a design fix in the issue it is in the design section
+
+these are the good things
+these are the bad things
+
+-How important is AI in contemporary 
+
+discuss positive and negative effects of AI
+If it is using AI, what should the organization be careful about
+
+
+The problems I have identified , can be solved with AI solutions, however. AI has issues with ...
+
+Then discuess the designs created
+
+
+2025 09 10
+
+Design part
+
+desktop
+Apple
+and Android
+SEO
+
+Emerging UX trends
+how design will be ready for AI
+
+
+end of design
+
+1 sentence on design specific
+1 sentence on inclusivity and accesibility
+1 sentence on emerging UX trends
+
+
+
+2025 09 15
+
+
+value chain
+
+
+
+start with customer satisfaction
+
+level one organization - use IT to operate
+level two organizations - uses IT to improve efficiency - woolworth - uses IT for efficiency 
+level 3 organizations - uses innovative solutions
+
+
+develop user experience - develop using principles and involving the users
+
+
+net customer life cycle value
+care about the high end customers
+
+The design that I produced is not
+
+
+improve cost and improve revenue
+
+
+link design with strategic objectives
+either reduce cost or increase 
+
+
+
+data driven design
+people that they dont 
+
+
+agile business analysis training
+agile project management
+six sigma
+
+when applying
+three step approach
+email -> cover letter -> CV
