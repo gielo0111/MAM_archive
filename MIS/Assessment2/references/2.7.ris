@@ -1,0 +1,14 @@
+TY  - JOUR
+TI  - Elicitation of security threats and vulnerabilities in Insurance chatbots using STRIDE
+AU  - Bokolo, Zilungile
+AU  - Daramola, Olawande
+PY  - 2024/08/02
+JF  - Scientific Reports
+VL  - 14
+IS  - 1
+ID  - 17920
+SN  - 2045-2322
+DO  - 10.1038/s41598-024-68791-z
+UR  - https://doi.org/10.1038/s41598-024-68791-z
+AB  - This study applies STRIDE (Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, Elevation of privilege) modelling to identify data security vulnerabilities in insurance chatbots. Results indicate that threats stemming from Tampering, Elevation of privilege, and Spoofing are particularly prevalent in this sector.
+ER  - 

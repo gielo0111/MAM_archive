@@ -1,0 +1,19 @@
+TY  - CHAP
+AU  - Markandeya, Sushil
+AU  - Roy, Kaushik
+A2  - Markandeya, Sushil
+A2  - Roy, Kaushik
+PY  - 2014
+DA  - 2014//
+TI  - ERP and SAP Overview
+BT  - SAP ABAP: Hands-On Test Projects with Business Scenarios
+SP  - 1
+EP  - 20
+PB  - Apress
+CY  - Berkeley, CA
+AB  - Enterprise Resource Planning (ERP) software products are business application, packaged software. They are used to run large- to medium-sized business enterprises. The ERP software suppliers claim that their software can cater to every business activity of every category of business enterprise. In most cases, an enterprise relies on multiple databases to maintain its operations: to facilitate the migration, the ERP software supports multiple databases for interaction and input but relies primarily on a centralized database for storing all function module data. The ERPs integrate the different business activities of a business enterprise. They support multiple currency handling, an essential feature for business enterprises operating globally. The ERPs also have the feature of consolidation, which facilitates the consolidation or accumulation of the accounting numbers of transnational business enterprises having a large number of subsidiaries around the world. The ERP software suppliers claim that all advances in hardware and software technologies are incorporated in their newer upgrades or versions. Quite a few phrases and terms have been used in this attempt at defining an ERP. Explanations of these terms and phrases follow.
+SN  - 978-1-4302-4804-0
+UR  - https://doi.org/10.1007/978-1-4302-4804-0_1
+DO  - 10.1007/978-1-4302-4804-0_1
+ID  - Markandeya2014
+ER  - 
